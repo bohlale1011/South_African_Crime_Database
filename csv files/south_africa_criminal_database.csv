@@ -1,0 +1,1001 @@
+RecordID,FirstName,LastName,FullName,Age,Gender,Country,Province,SouthAfricanID,CaseNumber,CrimeType,FinancialScore,EstimatedFraudAmount_ZAR,RiskLevel,CaseStatus,BankInvolved,PreviousOffenses,Arrested,CrimeDate,CourtDate,InvestigatingOfficer,StationCode
+1,Brian,Pillay,Brian Pillay,55,Male,South Africa,KwaZulu-Natal,7609108293112,SA-CAS-966268,Cybercrime,790,98663,Low,Under Investigation,Capitec,9,No,2016-10-31,2025-10-08,Officer Nkosi,SA-ST-586
+2,Sipho,Zulu,Sipho Zulu,65,Female,South Africa,Gauteng,8003198050126,SA-CAS-130640,Cybercrime,524,3014385,Low,Closed,Absa,4,Yes,2015-11-20,2023-05-10,Officer Mabena,SA-ST-785
+3,Brian,Nkosi,Brian Nkosi,49,Female,South Africa,Gauteng,7303194587096,SA-CAS-241102,Cybercrime,436,2525514,High,Under Investigation,Standard Bank,5,Yes,2025-06-29,2020-10-21,Officer Nkosi,SA-ST-568
+4,Thabo,Dlamini,Thabo Dlamini,61,Female,South Africa,Free State,6101226934087,SA-CAS-207449,Corruption,721,4999005,Low,Closed,Standard Bank,2,No,2020-07-07,2025-09-22,Officer Moyo,SA-ST-654
+5,Ayanda,Nkosi,Ayanda Nkosi,54,Female,South Africa,Free State,6502131730143,SA-CAS-260733,Cybercrime,528,4233977,Low,Open,Capitec,7,Yes,2023-01-29,2018-06-09,Officer Naidoo,SA-ST-425
+6,Brian,Nkosi,Brian Nkosi,62,Male,South Africa,North West,0401219177185,SA-CAS-181599,Armed Robbery,335,3118143,Medium,Convicted,Absa,7,Yes,2016-05-08,2019-04-17,Officer Mabena,SA-ST-565
+7,Naledi,Pillay,Naledi Pillay,35,Female,South Africa,Limpopo,7709142054066,SA-CAS-618192,Armed Robbery,417,4695344,Low,Closed,African Bank,6,No,2019-05-09,2020-04-07,Officer Smith,SA-ST-923
+8,Brian,Ndlovu,Brian Ndlovu,34,Female,South Africa,Limpopo,8210049992142,SA-CAS-316789,Vehicle Theft,396,2261226,Low,Convicted,Standard Bank,7,Yes,2025-03-28,2025-03-27,Officer Smith,SA-ST-589
+9,Lerato,Zulu,Lerato Zulu,28,Female,South Africa,Gauteng,6704089610142,SA-CAS-139338,Drug Trafficking,397,1477972,Critical,Closed,FNB,8,Yes,2022-02-26,2024-07-31,Officer Naidoo,SA-ST-877
+10,Ayanda,Pillay,Ayanda Pillay,25,Female,South Africa,Western Cape,0204283386177,SA-CAS-783999,Identity Theft,594,212442,Low,Convicted,Nedbank,9,No,2022-08-17,2016-12-05,Officer Moyo,SA-ST-578
+11,Sipho,Naidoo,Sipho Naidoo,55,Female,South Africa,Free State,0310128221154,SA-CAS-966210,Fraud,368,4173407,High,Convicted,African Bank,8,No,2023-08-13,2020-01-15,Officer Naidoo,SA-ST-587
+12,Thabo,Dlamini,Thabo Dlamini,50,Male,South Africa,Gauteng,0402121654147,SA-CAS-989254,Cybercrime,683,3965402,Critical,Convicted,Standard Bank,8,Yes,2019-12-29,2016-08-09,Officer Smith,SA-ST-119
+13,Mpho,Nkosi,Mpho Nkosi,36,Female,South Africa,Mpumalanga,0504111034039,SA-CAS-975210,Armed Robbery,530,23205,High,Closed,FNB,2,No,2021-09-25,2016-04-07,Officer Moyo,SA-ST-760
+14,Thabo,Mabaso,Thabo Mabaso,37,Male,South Africa,Eastern Cape,8204242449018,SA-CAS-295745,Corruption,731,2189125,Low,Open,FNB,3,Yes,2016-04-14,2019-06-17,Officer Mabena,SA-ST-523
+15,Sipho,Khumalo,Sipho Khumalo,64,Male,South Africa,Gauteng,7808269205016,SA-CAS-886297,Money Laundering,383,3990323,High,Court Pending,African Bank,7,Yes,2024-12-24,2021-12-18,Officer Smith,SA-ST-151
+16,Nomsa,Pillay,Nomsa Pillay,20,Male,South Africa,KwaZulu-Natal,0306227613087,SA-CAS-120176,Armed Robbery,472,1432340,Low,Court Pending,Standard Bank,7,Yes,2016-07-17,2018-03-07,Officer Nkosi,SA-ST-575
+17,Mpho,Nkosi,Mpho Nkosi,21,Female,South Africa,Mpumalanga,8510122207019,SA-CAS-881818,Fraud,363,3955685,Critical,Open,Nedbank,6,No,2024-04-20,2018-09-02,Officer Mabena,SA-ST-450
+18,Brian,Nkosi,Brian Nkosi,59,Male,South Africa,Eastern Cape,8904025834085,SA-CAS-970131,Armed Robbery,483,100911,Critical,Under Investigation,Standard Bank,6,Yes,2018-05-26,2023-07-30,Officer Nkosi,SA-ST-881
+19,Mpho,Dlamini,Mpho Dlamini,24,Female,South Africa,Northern Cape,9604234419122,SA-CAS-480086,Money Laundering,677,4786855,Medium,Open,Standard Bank,9,No,2022-11-25,2020-02-08,Officer Nkosi,SA-ST-421
+20,Ayanda,Zulu,Ayanda Zulu,38,Male,South Africa,Free State,7209211091054,SA-CAS-864455,Corruption,800,3369169,Medium,Convicted,Standard Bank,8,No,2023-07-06,2017-04-13,Officer Moyo,SA-ST-374
+21,Mpho,Mthembu,Mpho Mthembu,41,Female,South Africa,Limpopo,0109237549022,SA-CAS-312978,Cybercrime,578,3377134,Low,Convicted,Absa,4,Yes,2022-02-02,2015-12-21,Officer Naidoo,SA-ST-752
+22,Tendai,Khumalo,Tendai Khumalo,37,Female,South Africa,KwaZulu-Natal,8611183824160,SA-CAS-597821,Armed Robbery,772,769280,Critical,Open,Nedbank,0,Yes,2025-10-21,2017-06-27,Officer Naidoo,SA-ST-539
+23,Zanele,Mthembu,Zanele Mthembu,46,Male,South Africa,Free State,9502151258132,SA-CAS-971940,Fraud,679,676703,Low,Under Investigation,Nedbank,7,No,2022-09-15,2024-08-02,Officer Mabena,SA-ST-218
+24,Sipho,Mthembu,Sipho Mthembu,35,Female,South Africa,Limpopo,9101053991027,SA-CAS-565934,Identity Theft,646,1472079,Low,Convicted,African Bank,6,No,2016-04-02,2018-03-30,Officer Mabena,SA-ST-288
+25,Tendai,Khumalo,Tendai Khumalo,36,Female,South Africa,Western Cape,8806262690086,SA-CAS-115816,Identity Theft,696,2407024,Low,Convicted,Standard Bank,0,No,2023-01-20,2015-11-22,Officer Moyo,SA-ST-308
+26,Naledi,Mthembu,Naledi Mthembu,26,Male,South Africa,Northern Cape,7204017068089,SA-CAS-216662,Drug Trafficking,370,4304643,Medium,Court Pending,FNB,10,No,2016-08-08,2018-12-03,Officer Naidoo,SA-ST-308
+27,Thabo,Zulu,Thabo Zulu,26,Male,South Africa,Northern Cape,0210279965120,SA-CAS-304408,Identity Theft,824,1604354,Critical,Open,African Bank,5,Yes,2019-08-24,2023-02-26,Officer Mabena,SA-ST-359
+28,Tendai,Zulu,Tendai Zulu,40,Male,South Africa,North West,6111176366179,SA-CAS-167862,Cybercrime,683,3166846,Medium,Under Investigation,Capitec,0,Yes,2018-07-16,2016-04-01,Officer Nkosi,SA-ST-144
+29,Thabo,Naidoo,Thabo Naidoo,43,Female,South Africa,North West,0501237575091,SA-CAS-368783,Vehicle Theft,652,126463,High,Convicted,FNB,5,No,2025-04-18,2017-06-12,Officer Mabena,SA-ST-876
+30,Tendai,Mabaso,Tendai Mabaso,51,Male,South Africa,KwaZulu-Natal,0108165181133,SA-CAS-690433,Drug Trafficking,313,2183901,Medium,Closed,Absa,3,Yes,2025-01-12,2020-04-04,Officer Mabena,SA-ST-386
+31,Nomsa,Mabaso,Nomsa Mabaso,23,Female,South Africa,Mpumalanga,6302228556173,SA-CAS-305366,Identity Theft,415,3122446,Critical,Open,Capitec,10,No,2021-10-02,2017-11-20,Officer Moyo,SA-ST-122
+32,Ayanda,Pillay,Ayanda Pillay,26,Female,South Africa,Gauteng,6607191149148,SA-CAS-201212,Money Laundering,654,4610390,Medium,Closed,African Bank,5,No,2019-03-12,2017-03-06,Officer Smith,SA-ST-742
+33,Naledi,Naidoo,Naledi Naidoo,28,Male,South Africa,Eastern Cape,9107161444175,SA-CAS-350831,Cybercrime,378,852475,Low,Open,Standard Bank,7,Yes,2019-07-20,2024-12-29,Officer Mabena,SA-ST-610
+34,Brian,Mabaso,Brian Mabaso,30,Female,South Africa,Gauteng,7706155503178,SA-CAS-248847,Armed Robbery,336,44907,Medium,Convicted,Nedbank,9,No,2022-10-23,2019-12-10,Officer Naidoo,SA-ST-459
+35,Naledi,Nkosi,Naledi Nkosi,48,Female,South Africa,Eastern Cape,7907028643070,SA-CAS-829032,Money Laundering,454,2547542,Critical,Under Investigation,Capitec,7,No,2022-05-16,2025-02-16,Officer Nkosi,SA-ST-997
+36,Lerato,Mabaso,Lerato Mabaso,23,Male,South Africa,Free State,9510057448167,SA-CAS-523431,Fraud,371,2743378,High,Open,Nedbank,6,No,2023-03-04,2015-01-16,Officer Nkosi,SA-ST-158
+37,Sipho,Mabaso,Sipho Mabaso,63,Male,South Africa,Free State,6809115526115,SA-CAS-452571,Cybercrime,750,3410875,Critical,Open,Capitec,7,Yes,2017-10-25,2024-07-01,Officer Nkosi,SA-ST-574
+38,Thabo,Ndlovu,Thabo Ndlovu,20,Female,South Africa,Northern Cape,7801084608138,SA-CAS-278074,Vehicle Theft,644,4895893,Medium,Open,Standard Bank,2,Yes,2018-06-20,2021-04-28,Officer Smith,SA-ST-849
+39,Brian,Mthembu,Brian Mthembu,25,Female,South Africa,Limpopo,7505083437067,SA-CAS-108381,Armed Robbery,700,334005,Medium,Open,Standard Bank,6,Yes,2015-02-06,2016-10-25,Officer Mabena,SA-ST-344
+40,Naledi,Pillay,Naledi Pillay,48,Female,South Africa,Northern Cape,9702081529174,SA-CAS-589007,Drug Trafficking,350,3843700,Medium,Court Pending,Absa,1,No,2020-07-12,2016-10-16,Officer Naidoo,SA-ST-764
+41,Ayanda,Dlamini,Ayanda Dlamini,22,Male,South Africa,Eastern Cape,0110036083182,SA-CAS-884757,Identity Theft,313,3613743,Medium,Court Pending,Nedbank,0,Yes,2018-10-06,2019-05-07,Officer Moyo,SA-ST-547
+42,Zanele,Dlamini,Zanele Dlamini,28,Male,South Africa,Free State,9104217811035,SA-CAS-205154,Drug Trafficking,376,2966746,High,Under Investigation,FNB,3,No,2018-05-01,2015-12-27,Officer Moyo,SA-ST-620
+43,Brian,Zulu,Brian Zulu,43,Male,South Africa,North West,6503177931155,SA-CAS-517040,Identity Theft,622,176220,Low,Open,Nedbank,2,No,2023-02-03,2023-07-10,Officer Smith,SA-ST-611
+44,Naledi,Mabaso,Naledi Mabaso,49,Female,South Africa,Eastern Cape,9602274080139,SA-CAS-547070,Cybercrime,785,432512,Critical,Under Investigation,Capitec,9,Yes,2021-12-09,2023-08-28,Officer Naidoo,SA-ST-165
+45,Thabo,Naidoo,Thabo Naidoo,24,Female,South Africa,Gauteng,7810113286089,SA-CAS-277257,Drug Trafficking,659,1377760,Low,Convicted,Standard Bank,5,No,2022-11-08,2023-08-18,Officer Moyo,SA-ST-158
+46,Naledi,Mabaso,Naledi Mabaso,40,Male,South Africa,Mpumalanga,7604065698130,SA-CAS-982006,Money Laundering,824,3718370,Medium,Closed,Nedbank,8,Yes,2024-02-16,2020-02-24,Officer Mabena,SA-ST-172
+47,Nomsa,Nkosi,Nomsa Nkosi,19,Male,South Africa,Limpopo,9409036952147,SA-CAS-725162,Cybercrime,703,1485337,High,Closed,Capitec,7,No,2019-05-19,2021-12-25,Officer Mabena,SA-ST-621
+48,Thabo,Mabaso,Thabo Mabaso,50,Female,South Africa,Gauteng,8705126789082,SA-CAS-102433,Fraud,594,3505471,Low,Open,Capitec,5,No,2023-01-06,2019-05-05,Officer Nkosi,SA-ST-467
+49,Thabo,Dlamini,Thabo Dlamini,63,Female,South Africa,Western Cape,8708265622158,SA-CAS-638806,Corruption,506,2833845,Medium,Under Investigation,Nedbank,10,No,2018-10-13,2020-11-19,Officer Moyo,SA-ST-315
+50,Mpho,Zulu,Mpho Zulu,53,Male,South Africa,KwaZulu-Natal,8603288943088,SA-CAS-331104,Armed Robbery,844,2682473,High,Under Investigation,Nedbank,6,Yes,2015-09-09,2015-03-16,Officer Naidoo,SA-ST-694
+51,Tendai,Zulu,Tendai Zulu,46,Male,South Africa,Western Cape,9702137858016,SA-CAS-916414,Cybercrime,348,600873,Critical,Court Pending,Capitec,9,No,2021-11-06,2024-02-19,Officer Mabena,SA-ST-799
+52,Sipho,Dlamini,Sipho Dlamini,42,Female,South Africa,Mpumalanga,0104237780052,SA-CAS-160899,Identity Theft,549,3770133,Medium,Court Pending,African Bank,10,Yes,2022-06-25,2024-05-14,Officer Naidoo,SA-ST-181
+53,Naledi,Ndlovu,Naledi Ndlovu,49,Female,South Africa,Gauteng,0212183149116,SA-CAS-342188,Identity Theft,590,977920,Critical,Closed,Standard Bank,10,No,2018-07-31,2018-12-17,Officer Nkosi,SA-ST-706
+54,Naledi,Ndlovu,Naledi Ndlovu,50,Female,South Africa,Western Cape,7606048300011,SA-CAS-305257,Fraud,322,2473153,Medium,Court Pending,Absa,9,Yes,2016-07-16,2025-10-10,Officer Smith,SA-ST-215
+55,Nomsa,Pillay,Nomsa Pillay,28,Male,South Africa,Limpopo,6205128972186,SA-CAS-922155,Money Laundering,402,1854336,Low,Closed,Nedbank,7,Yes,2020-01-26,2015-08-25,Officer Smith,SA-ST-514
+56,Lerato,Nkosi,Lerato Nkosi,34,Male,South Africa,Free State,7601191073031,SA-CAS-198833,Corruption,818,3181274,Medium,Court Pending,Capitec,9,Yes,2016-05-19,2020-10-04,Officer Mabena,SA-ST-530
+57,Zanele,Nkosi,Zanele Nkosi,20,Female,South Africa,KwaZulu-Natal,6401177871169,SA-CAS-894557,Armed Robbery,543,149928,Critical,Convicted,Standard Bank,0,No,2023-08-23,2019-12-30,Officer Nkosi,SA-ST-139
+58,Lerato,Pillay,Lerato Pillay,57,Female,South Africa,Mpumalanga,0010073791075,SA-CAS-658006,Drug Trafficking,746,4587152,High,Closed,FNB,10,Yes,2020-03-17,2019-08-18,Officer Smith,SA-ST-834
+59,Thabo,Nkosi,Thabo Nkosi,61,Female,South Africa,North West,6307107642181,SA-CAS-982643,Fraud,319,4614159,Low,Closed,Absa,9,No,2018-09-02,2015-03-18,Officer Mabena,SA-ST-184
+60,Tendai,Pillay,Tendai Pillay,36,Male,South Africa,Eastern Cape,8510239843061,SA-CAS-909187,Cybercrime,765,4639622,Critical,Closed,African Bank,9,Yes,2020-07-26,2024-11-24,Officer Nkosi,SA-ST-140
+61,Ayanda,Zulu,Ayanda Zulu,44,Female,South Africa,Limpopo,0205094879033,SA-CAS-845149,Cybercrime,492,2036616,Critical,Court Pending,FNB,2,No,2021-04-25,2024-08-08,Officer Naidoo,SA-ST-621
+62,Naledi,Mabaso,Naledi Mabaso,63,Female,South Africa,KwaZulu-Natal,8809107241126,SA-CAS-648176,Armed Robbery,321,1098054,High,Open,FNB,10,Yes,2022-12-24,2024-10-24,Officer Moyo,SA-ST-750
+63,Ayanda,Mthembu,Ayanda Mthembu,26,Male,South Africa,Eastern Cape,6610278347150,SA-CAS-231261,Armed Robbery,568,1036919,Critical,Closed,Standard Bank,4,Yes,2020-01-03,2024-10-19,Officer Naidoo,SA-ST-474
+64,Mpho,Mthembu,Mpho Mthembu,32,Female,South Africa,Western Cape,7504236299150,SA-CAS-976198,Cybercrime,416,781758,High,Closed,Absa,0,No,2016-06-02,2016-03-03,Officer Mabena,SA-ST-344
+65,Naledi,Nkosi,Naledi Nkosi,30,Male,South Africa,KwaZulu-Natal,6308152526064,SA-CAS-748346,Fraud,811,2910197,Low,Convicted,Capitec,3,No,2020-06-06,2020-06-22,Officer Nkosi,SA-ST-244
+66,Lerato,Dlamini,Lerato Dlamini,21,Male,South Africa,Gauteng,8712135794111,SA-CAS-455635,Cybercrime,690,888403,Low,Closed,Nedbank,0,Yes,2019-07-08,2019-08-19,Officer Smith,SA-ST-475
+67,Nomsa,Mthembu,Nomsa Mthembu,24,Male,South Africa,Free State,7209054427119,SA-CAS-995174,Corruption,775,2852573,Low,Closed,Absa,2,No,2017-04-28,2015-10-27,Officer Naidoo,SA-ST-241
+68,Zanele,Dlamini,Zanele Dlamini,63,Male,South Africa,Limpopo,7909174599043,SA-CAS-621116,Fraud,406,3812205,High,Closed,Nedbank,4,No,2017-06-29,2024-03-12,Officer Moyo,SA-ST-283
+69,Zanele,Nkosi,Zanele Nkosi,31,Male,South Africa,Northern Cape,8002246026018,SA-CAS-264638,Corruption,716,2640182,Medium,Closed,Nedbank,1,Yes,2022-05-19,2016-07-19,Officer Nkosi,SA-ST-898
+70,Sipho,Mthembu,Sipho Mthembu,44,Female,South Africa,Free State,9502115265090,SA-CAS-662113,Corruption,619,4016567,Medium,Closed,African Bank,5,No,2023-06-18,2024-03-04,Officer Nkosi,SA-ST-192
+71,Thabo,Dlamini,Thabo Dlamini,25,Female,South Africa,Northern Cape,9106079322049,SA-CAS-116666,Fraud,383,1435993,Critical,Convicted,FNB,7,No,2022-11-17,2022-03-02,Officer Nkosi,SA-ST-152
+72,Naledi,Ndlovu,Naledi Ndlovu,27,Male,South Africa,KwaZulu-Natal,9105013739195,SA-CAS-492072,Corruption,770,1496482,High,Open,FNB,2,No,2025-05-22,2015-01-28,Officer Nkosi,SA-ST-558
+73,Naledi,Dlamini,Naledi Dlamini,31,Male,South Africa,Northern Cape,7502191676118,SA-CAS-155723,Armed Robbery,313,3516200,Critical,Under Investigation,African Bank,6,No,2018-02-14,2024-10-07,Officer Moyo,SA-ST-754
+74,Nomsa,Dlamini,Nomsa Dlamini,23,Male,South Africa,Western Cape,9612278168014,SA-CAS-848677,Money Laundering,556,3160052,Medium,Convicted,Capitec,7,No,2018-10-17,2016-07-21,Officer Moyo,SA-ST-361
+75,Sipho,Khumalo,Sipho Khumalo,38,Male,South Africa,Northern Cape,0303022462025,SA-CAS-264838,Corruption,469,2122026,Critical,Court Pending,African Bank,0,No,2015-06-05,2019-05-05,Officer Naidoo,SA-ST-552
+76,Naledi,Zulu,Naledi Zulu,38,Male,South Africa,Free State,0412267612117,SA-CAS-938553,Vehicle Theft,303,137147,Medium,Court Pending,Capitec,9,Yes,2022-07-18,2025-11-14,Officer Nkosi,SA-ST-619
+77,Zanele,Ndlovu,Zanele Ndlovu,49,Male,South Africa,Western Cape,0405074977154,SA-CAS-864385,Fraud,818,74024,Critical,Under Investigation,Absa,1,No,2024-02-22,2016-10-18,Officer Nkosi,SA-ST-716
+78,Tendai,Naidoo,Tendai Naidoo,65,Male,South Africa,Northern Cape,9303029022168,SA-CAS-849941,Drug Trafficking,400,4555964,High,Convicted,Absa,0,No,2024-06-25,2025-11-26,Officer Nkosi,SA-ST-593
+79,Tendai,Ndlovu,Tendai Ndlovu,63,Female,South Africa,Gauteng,9902178024046,SA-CAS-276355,Cybercrime,549,2826933,High,Under Investigation,African Bank,10,No,2025-08-22,2016-03-03,Officer Mabena,SA-ST-466
+80,Sipho,Dlamini,Sipho Dlamini,25,Male,South Africa,Northern Cape,9010083935183,SA-CAS-771582,Vehicle Theft,719,2844648,Low,Open,Absa,10,Yes,2020-12-26,2019-10-07,Officer Nkosi,SA-ST-196
+81,Sipho,Pillay,Sipho Pillay,56,Female,South Africa,Free State,9311202214031,SA-CAS-605118,Corruption,638,2205155,Critical,Court Pending,Nedbank,9,No,2016-06-25,2022-11-25,Officer Smith,SA-ST-539
+82,Ayanda,Nkosi,Ayanda Nkosi,58,Male,South Africa,KwaZulu-Natal,9710174846149,SA-CAS-279655,Corruption,605,2630539,Critical,Convicted,African Bank,5,No,2020-07-18,2025-07-15,Officer Nkosi,SA-ST-393
+83,Thabo,Nkosi,Thabo Nkosi,31,Male,South Africa,Free State,8404198125187,SA-CAS-513834,Fraud,712,840555,High,Convicted,Nedbank,5,No,2015-09-14,2020-09-01,Officer Smith,SA-ST-292
+84,Lerato,Pillay,Lerato Pillay,62,Male,South Africa,Mpumalanga,8103245622061,SA-CAS-929467,Corruption,521,2005631,Critical,Convicted,African Bank,7,Yes,2018-10-04,2024-04-13,Officer Naidoo,SA-ST-977
+85,Brian,Mabaso,Brian Mabaso,25,Male,South Africa,Northern Cape,9405226063045,SA-CAS-376109,Money Laundering,473,4736183,Low,Court Pending,FNB,6,No,2020-07-26,2019-06-16,Officer Nkosi,SA-ST-851
+86,Lerato,Mokoena,Lerato Mokoena,27,Male,South Africa,Gauteng,8605021912044,SA-CAS-619047,Cybercrime,583,3815511,Low,Convicted,Standard Bank,8,No,2024-06-16,2017-03-18,Officer Mabena,SA-ST-708
+87,Mpho,Naidoo,Mpho Naidoo,57,Male,South Africa,Gauteng,6309243682197,SA-CAS-344757,Money Laundering,430,1292011,Medium,Open,Absa,6,No,2025-06-19,2023-03-15,Officer Nkosi,SA-ST-447
+88,Tendai,Mabaso,Tendai Mabaso,39,Male,South Africa,Gauteng,8605221932040,SA-CAS-866302,Vehicle Theft,425,2905287,Critical,Convicted,Capitec,3,No,2019-12-09,2018-12-11,Officer Mabena,SA-ST-906
+89,Mpho,Khumalo,Mpho Khumalo,26,Female,South Africa,KwaZulu-Natal,7509154018012,SA-CAS-632006,Corruption,748,2144792,Medium,Closed,Standard Bank,9,No,2017-08-20,2025-04-28,Officer Naidoo,SA-ST-995
+90,Zanele,Nkosi,Zanele Nkosi,27,Female,South Africa,Free State,6002227239138,SA-CAS-916933,Drug Trafficking,581,436626,High,Under Investigation,Standard Bank,7,No,2018-10-16,2018-09-13,Officer Nkosi,SA-ST-910
+91,Naledi,Mabaso,Naledi Mabaso,50,Female,South Africa,Eastern Cape,7803081609091,SA-CAS-851129,Identity Theft,494,3204878,High,Convicted,African Bank,4,Yes,2024-09-23,2023-02-24,Officer Smith,SA-ST-541
+92,Naledi,Nkosi,Naledi Nkosi,46,Female,South Africa,Limpopo,9906116836061,SA-CAS-167064,Identity Theft,452,678238,High,Court Pending,FNB,8,No,2015-09-27,2020-09-04,Officer Moyo,SA-ST-419
+93,Nomsa,Ndlovu,Nomsa Ndlovu,23,Male,South Africa,Limpopo,6102141635162,SA-CAS-761155,Vehicle Theft,608,1394716,High,Open,Absa,2,Yes,2019-02-07,2023-08-09,Officer Naidoo,SA-ST-959
+94,Lerato,Pillay,Lerato Pillay,48,Female,South Africa,Free State,8310049071090,SA-CAS-199122,Cybercrime,807,3853663,Medium,Closed,Standard Bank,0,No,2017-06-30,2020-11-27,Officer Moyo,SA-ST-573
+95,Brian,Mthembu,Brian Mthembu,28,Female,South Africa,KwaZulu-Natal,8809011287091,SA-CAS-701980,Vehicle Theft,573,366883,Low,Closed,Nedbank,8,No,2024-04-08,2018-07-08,Officer Smith,SA-ST-563
+96,Naledi,Ndlovu,Naledi Ndlovu,42,Female,South Africa,Northern Cape,7312153203044,SA-CAS-176549,Money Laundering,758,3412155,Low,Court Pending,Capitec,10,No,2022-08-08,2021-11-18,Officer Mabena,SA-ST-229
+97,Sipho,Dlamini,Sipho Dlamini,25,Female,South Africa,Gauteng,6012048867017,SA-CAS-899591,Drug Trafficking,378,942437,Critical,Under Investigation,Standard Bank,0,Yes,2022-07-16,2016-06-06,Officer Smith,SA-ST-983
+98,Naledi,Khumalo,Naledi Khumalo,34,Male,South Africa,KwaZulu-Natal,0412074256125,SA-CAS-650422,Drug Trafficking,472,1625221,Critical,Convicted,Standard Bank,9,No,2020-08-09,2021-02-22,Officer Moyo,SA-ST-347
+99,Thabo,Mabaso,Thabo Mabaso,55,Male,South Africa,KwaZulu-Natal,8612193427023,SA-CAS-617894,Cybercrime,341,995473,Critical,Closed,Absa,5,No,2025-09-13,2022-12-14,Officer Naidoo,SA-ST-798
+100,Tendai,Naidoo,Tendai Naidoo,30,Female,South Africa,Mpumalanga,8709152240083,SA-CAS-510200,Fraud,444,4509673,High,Court Pending,African Bank,7,Yes,2018-05-28,2020-07-06,Officer Nkosi,SA-ST-837
+101,Brian,Pillay,Brian Pillay,26,Female,South Africa,Gauteng,7704246628079,SA-CAS-628677,Corruption,560,4855946,High,Under Investigation,Absa,2,Yes,2016-12-01,2016-03-10,Officer Nkosi,SA-ST-427
+102,Sipho,Zulu,Sipho Zulu,19,Female,South Africa,Limpopo,6405262668114,SA-CAS-408726,Armed Robbery,659,897579,Critical,Open,Capitec,4,No,2022-07-18,2023-07-24,Officer Moyo,SA-ST-607
+103,Ayanda,Pillay,Ayanda Pillay,36,Female,South Africa,KwaZulu-Natal,6309226948041,SA-CAS-784231,Drug Trafficking,473,797938,Low,Court Pending,African Bank,3,Yes,2025-09-30,2020-01-20,Officer Mabena,SA-ST-886
+104,Zanele,Naidoo,Zanele Naidoo,35,Female,South Africa,Northern Cape,8204061924022,SA-CAS-731762,Vehicle Theft,581,4684761,Medium,Under Investigation,Absa,0,No,2017-02-21,2024-01-04,Officer Nkosi,SA-ST-448
+105,Zanele,Mokoena,Zanele Mokoena,61,Male,South Africa,Mpumalanga,6011185754119,SA-CAS-160798,Corruption,507,2528237,Low,Court Pending,FNB,5,Yes,2020-02-15,2017-11-10,Officer Smith,SA-ST-187
+106,Naledi,Zulu,Naledi Zulu,21,Female,South Africa,Eastern Cape,0507198358070,SA-CAS-678773,Drug Trafficking,545,3383804,Medium,Convicted,Absa,3,No,2016-08-25,2020-02-03,Officer Naidoo,SA-ST-437
+107,Thabo,Pillay,Thabo Pillay,57,Female,South Africa,North West,6201234707120,SA-CAS-443171,Identity Theft,465,3412676,Medium,Convicted,African Bank,2,Yes,2015-10-25,2020-03-17,Officer Moyo,SA-ST-389
+108,Ayanda,Dlamini,Ayanda Dlamini,64,Male,South Africa,North West,7302101397017,SA-CAS-907197,Fraud,326,2591355,Medium,Convicted,Nedbank,1,No,2017-10-30,2015-02-27,Officer Moyo,SA-ST-958
+109,Ayanda,Ndlovu,Ayanda Ndlovu,55,Male,South Africa,Free State,9805032150034,SA-CAS-701793,Corruption,390,1165837,High,Court Pending,Standard Bank,1,Yes,2017-08-02,2017-12-14,Officer Mabena,SA-ST-780
+110,Thabo,Mthembu,Thabo Mthembu,18,Female,South Africa,North West,9710274002184,SA-CAS-645693,Fraud,433,2529427,Medium,Convicted,FNB,6,No,2023-01-30,2019-10-06,Officer Nkosi,SA-ST-663
+111,Naledi,Mabaso,Naledi Mabaso,19,Male,South Africa,Western Cape,7701086339041,SA-CAS-664931,Vehicle Theft,569,1707074,Critical,Closed,FNB,8,Yes,2024-01-15,2017-10-10,Officer Nkosi,SA-ST-413
+112,Tendai,Naidoo,Tendai Naidoo,40,Female,South Africa,Limpopo,7208097729060,SA-CAS-844297,Armed Robbery,834,2091110,Critical,Convicted,Capitec,2,Yes,2016-10-04,2018-05-02,Officer Smith,SA-ST-272
+113,Brian,Naidoo,Brian Naidoo,46,Male,South Africa,Mpumalanga,7507258269114,SA-CAS-763376,Cybercrime,511,4435890,High,Under Investigation,Nedbank,8,No,2023-04-21,2025-02-11,Officer Smith,SA-ST-122
+114,Mpho,Mthembu,Mpho Mthembu,40,Male,South Africa,Western Cape,6303271436182,SA-CAS-406773,Armed Robbery,454,1633714,Critical,Under Investigation,Capitec,7,No,2025-01-25,2025-11-19,Officer Nkosi,SA-ST-498
+115,Sipho,Nkosi,Sipho Nkosi,55,Female,South Africa,Gauteng,7202155223163,SA-CAS-318948,Cybercrime,673,54934,Low,Closed,FNB,7,Yes,2015-03-12,2021-01-12,Officer Nkosi,SA-ST-846
+116,Ayanda,Dlamini,Ayanda Dlamini,64,Male,South Africa,KwaZulu-Natal,6605241862013,SA-CAS-182224,Vehicle Theft,787,2346351,Medium,Under Investigation,Nedbank,4,No,2016-08-01,2023-04-20,Officer Nkosi,SA-ST-851
+117,Brian,Nkosi,Brian Nkosi,49,Male,South Africa,Northern Cape,8702053393088,SA-CAS-895946,Cybercrime,395,4610307,Medium,Under Investigation,FNB,8,No,2022-08-11,2020-05-11,Officer Mabena,SA-ST-937
+118,Sipho,Mokoena,Sipho Mokoena,64,Male,South Africa,Western Cape,8103286870171,SA-CAS-141497,Identity Theft,730,3387588,Critical,Under Investigation,Capitec,0,No,2019-06-29,2019-03-07,Officer Moyo,SA-ST-674
+119,Brian,Mthembu,Brian Mthembu,43,Male,South Africa,Eastern Cape,7704076217174,SA-CAS-857021,Drug Trafficking,531,4522395,Medium,Convicted,FNB,6,Yes,2022-04-02,2019-09-04,Officer Mabena,SA-ST-687
+120,Ayanda,Mthembu,Ayanda Mthembu,54,Female,South Africa,Western Cape,7009156900081,SA-CAS-347210,Armed Robbery,659,3103604,High,Closed,Absa,8,Yes,2020-12-27,2023-03-09,Officer Mabena,SA-ST-809
+121,Naledi,Pillay,Naledi Pillay,45,Female,South Africa,KwaZulu-Natal,6907042025131,SA-CAS-678805,Fraud,740,1167517,High,Court Pending,African Bank,5,No,2020-03-10,2021-12-11,Officer Moyo,SA-ST-652
+122,Zanele,Zulu,Zanele Zulu,56,Female,South Africa,Gauteng,8610059686167,SA-CAS-194040,Armed Robbery,338,3926659,Medium,Convicted,FNB,1,Yes,2021-05-29,2024-10-06,Officer Mabena,SA-ST-626
+123,Sipho,Mthembu,Sipho Mthembu,22,Female,South Africa,Northern Cape,6611071524059,SA-CAS-378152,Drug Trafficking,603,3891403,High,Open,Nedbank,3,No,2016-03-29,2023-11-14,Officer Moyo,SA-ST-553
+124,Naledi,Khumalo,Naledi Khumalo,42,Male,South Africa,KwaZulu-Natal,7401238797011,SA-CAS-316632,Identity Theft,648,441600,Critical,Closed,FNB,9,No,2023-04-02,2019-07-26,Officer Mabena,SA-ST-786
+125,Ayanda,Mthembu,Ayanda Mthembu,19,Male,South Africa,KwaZulu-Natal,9311151690045,SA-CAS-888566,Money Laundering,845,3977638,Medium,Court Pending,Capitec,5,Yes,2019-08-08,2024-04-02,Officer Naidoo,SA-ST-146
+126,Brian,Nkosi,Brian Nkosi,38,Female,South Africa,Northern Cape,8701058034024,SA-CAS-545595,Money Laundering,380,4002006,Low,Convicted,Standard Bank,2,No,2018-10-29,2025-01-22,Officer Mabena,SA-ST-799
+127,Sipho,Naidoo,Sipho Naidoo,19,Female,South Africa,Northern Cape,6003143427039,SA-CAS-669237,Drug Trafficking,556,517372,Critical,Open,FNB,6,No,2019-09-28,2020-12-30,Officer Moyo,SA-ST-215
+128,Thabo,Nkosi,Thabo Nkosi,47,Male,South Africa,KwaZulu-Natal,9602085184014,SA-CAS-456865,Vehicle Theft,316,2560544,Medium,Convicted,Nedbank,6,Yes,2022-05-01,2016-06-28,Officer Smith,SA-ST-827
+129,Mpho,Naidoo,Mpho Naidoo,61,Male,South Africa,Eastern Cape,6212285545147,SA-CAS-692080,Cybercrime,732,1371874,Critical,Closed,Absa,9,No,2018-09-14,2015-03-28,Officer Mabena,SA-ST-920
+130,Tendai,Khumalo,Tendai Khumalo,41,Female,South Africa,Mpumalanga,7004255973159,SA-CAS-628417,Fraud,694,707496,Low,Convicted,Standard Bank,2,No,2015-12-27,2024-08-12,Officer Mabena,SA-ST-184
+131,Mpho,Dlamini,Mpho Dlamini,29,Male,South Africa,Eastern Cape,6108021094082,SA-CAS-955940,Cybercrime,378,1252862,Medium,Open,Nedbank,4,Yes,2015-01-21,2016-08-17,Officer Nkosi,SA-ST-579
+132,Brian,Mthembu,Brian Mthembu,60,Female,South Africa,Free State,6602079663029,SA-CAS-447417,Vehicle Theft,754,3443020,Low,Closed,African Bank,6,Yes,2022-01-04,2019-02-27,Officer Naidoo,SA-ST-875
+133,Mpho,Mokoena,Mpho Mokoena,29,Female,South Africa,Northern Cape,6601202167062,SA-CAS-749622,Corruption,375,4844921,Low,Open,African Bank,5,Yes,2019-06-14,2019-08-22,Officer Nkosi,SA-ST-344
+134,Mpho,Nkosi,Mpho Nkosi,54,Male,South Africa,Limpopo,0104013987189,SA-CAS-576708,Identity Theft,375,1054133,Low,Court Pending,Standard Bank,7,Yes,2025-09-17,2017-04-05,Officer Mabena,SA-ST-762
+135,Brian,Mabaso,Brian Mabaso,19,Female,South Africa,Mpumalanga,8710032759066,SA-CAS-911862,Drug Trafficking,478,3841791,High,Court Pending,Standard Bank,6,No,2022-08-01,2025-05-17,Officer Moyo,SA-ST-524
+136,Tendai,Zulu,Tendai Zulu,47,Female,South Africa,Northern Cape,7905095593132,SA-CAS-830307,Vehicle Theft,745,453321,Medium,Closed,FNB,9,Yes,2017-03-19,2024-03-05,Officer Moyo,SA-ST-596
+137,Sipho,Dlamini,Sipho Dlamini,38,Male,South Africa,Northern Cape,8504235308175,SA-CAS-287453,Fraud,604,2804301,Critical,Open,Capitec,6,Yes,2019-12-29,2020-01-02,Officer Nkosi,SA-ST-339
+138,Thabo,Nkosi,Thabo Nkosi,43,Male,South Africa,North West,7012275067030,SA-CAS-460934,Armed Robbery,546,1263952,Critical,Closed,Nedbank,3,No,2019-02-07,2022-08-25,Officer Moyo,SA-ST-290
+139,Sipho,Nkosi,Sipho Nkosi,61,Male,South Africa,Mpumalanga,8705196776178,SA-CAS-208869,Money Laundering,590,2785630,Critical,Closed,Capitec,6,No,2015-01-18,2017-03-30,Officer Mabena,SA-ST-682
+140,Sipho,Khumalo,Sipho Khumalo,24,Female,South Africa,KwaZulu-Natal,9208064776012,SA-CAS-482448,Fraud,330,1515655,Medium,Court Pending,African Bank,10,Yes,2020-08-10,2023-12-10,Officer Mabena,SA-ST-723
+141,Thabo,Mthembu,Thabo Mthembu,40,Male,South Africa,Limpopo,8911062926034,SA-CAS-356692,Vehicle Theft,357,2546766,Low,Under Investigation,African Bank,1,Yes,2023-12-20,2020-02-23,Officer Mabena,SA-ST-665
+142,Brian,Naidoo,Brian Naidoo,43,Male,South Africa,Eastern Cape,6907065623158,SA-CAS-429428,Drug Trafficking,776,2205365,High,Closed,African Bank,6,No,2022-02-16,2016-01-23,Officer Smith,SA-ST-588
+143,Sipho,Mokoena,Sipho Mokoena,32,Male,South Africa,Gauteng,8006126372064,SA-CAS-572153,Money Laundering,445,2460206,Critical,Under Investigation,Absa,2,Yes,2023-03-16,2024-11-22,Officer Smith,SA-ST-499
+144,Ayanda,Mabaso,Ayanda Mabaso,36,Female,South Africa,Limpopo,9311206918052,SA-CAS-594984,Corruption,336,2245424,High,Under Investigation,Standard Bank,7,Yes,2018-10-28,2017-12-12,Officer Moyo,SA-ST-475
+145,Mpho,Dlamini,Mpho Dlamini,23,Male,South Africa,Northern Cape,9502141719175,SA-CAS-995992,Money Laundering,476,1934548,Critical,Closed,Capitec,4,No,2018-11-26,2022-07-25,Officer Naidoo,SA-ST-833
+146,Ayanda,Khumalo,Ayanda Khumalo,27,Male,South Africa,North West,8607263923047,SA-CAS-640019,Fraud,396,1539116,Medium,Open,African Bank,9,Yes,2021-11-03,2015-01-03,Officer Naidoo,SA-ST-434
+147,Sipho,Naidoo,Sipho Naidoo,36,Female,South Africa,North West,9902269625176,SA-CAS-237981,Cybercrime,649,1645402,Low,Open,FNB,0,No,2021-07-24,2016-11-16,Officer Mabena,SA-ST-643
+148,Zanele,Dlamini,Zanele Dlamini,64,Male,South Africa,Eastern Cape,9308264285095,SA-CAS-518049,Vehicle Theft,316,3413137,Low,Court Pending,Capitec,0,No,2021-01-27,2018-12-11,Officer Moyo,SA-ST-611
+149,Ayanda,Nkosi,Ayanda Nkosi,53,Male,South Africa,Western Cape,6906242494073,SA-CAS-978494,Fraud,835,3404731,High,Convicted,Absa,5,No,2024-11-15,2022-06-20,Officer Moyo,SA-ST-793
+150,Tendai,Mabaso,Tendai Mabaso,32,Female,South Africa,Gauteng,9704125548057,SA-CAS-337318,Fraud,645,4859225,Low,Closed,Standard Bank,6,No,2023-11-07,2018-12-03,Officer Nkosi,SA-ST-825
+151,Tendai,Ndlovu,Tendai Ndlovu,60,Female,South Africa,KwaZulu-Natal,7502056894188,SA-CAS-609329,Identity Theft,754,4932009,Critical,Closed,Nedbank,4,Yes,2025-07-13,2022-01-06,Officer Smith,SA-ST-394
+152,Nomsa,Mabaso,Nomsa Mabaso,44,Male,South Africa,Mpumalanga,7802243065023,SA-CAS-938617,Identity Theft,499,4691204,Medium,Closed,Absa,10,No,2015-05-03,2020-09-22,Officer Smith,SA-ST-986
+153,Lerato,Mokoena,Lerato Mokoena,49,Male,South Africa,North West,0211075870141,SA-CAS-572462,Vehicle Theft,568,2025595,Medium,Under Investigation,Standard Bank,3,Yes,2020-01-28,2025-06-24,Officer Smith,SA-ST-449
+154,Ayanda,Ndlovu,Ayanda Ndlovu,55,Male,South Africa,Northern Cape,9103085239138,SA-CAS-465875,Armed Robbery,390,756357,Critical,Closed,Capitec,7,Yes,2025-03-02,2018-08-20,Officer Mabena,SA-ST-800
+155,Brian,Ndlovu,Brian Ndlovu,59,Male,South Africa,Eastern Cape,9407152647091,SA-CAS-915531,Armed Robbery,554,1166715,Low,Under Investigation,African Bank,6,Yes,2015-07-04,2018-06-13,Officer Moyo,SA-ST-698
+156,Mpho,Naidoo,Mpho Naidoo,29,Female,South Africa,Western Cape,8809082793043,SA-CAS-675856,Armed Robbery,811,2730390,High,Closed,Absa,1,No,2016-07-16,2023-11-21,Officer Smith,SA-ST-175
+157,Ayanda,Ndlovu,Ayanda Ndlovu,35,Female,South Africa,Mpumalanga,6006098894151,SA-CAS-867996,Vehicle Theft,355,762403,High,Open,African Bank,5,Yes,2020-02-05,2021-11-30,Officer Moyo,SA-ST-474
+158,Tendai,Zulu,Tendai Zulu,41,Female,South Africa,North West,6409112044049,SA-CAS-952615,Identity Theft,480,2601978,High,Closed,FNB,9,Yes,2021-12-11,2020-03-17,Officer Smith,SA-ST-901
+159,Brian,Mabaso,Brian Mabaso,35,Female,South Africa,Free State,0210146780180,SA-CAS-892109,Armed Robbery,757,1800138,High,Convicted,FNB,1,Yes,2024-04-06,2025-11-02,Officer Moyo,SA-ST-616
+160,Thabo,Nkosi,Thabo Nkosi,52,Male,South Africa,North West,8302217754181,SA-CAS-899246,Vehicle Theft,611,1499900,High,Convicted,Absa,4,Yes,2020-02-06,2023-11-19,Officer Naidoo,SA-ST-158
+161,Zanele,Mabaso,Zanele Mabaso,64,Male,South Africa,Eastern Cape,8507068674183,SA-CAS-517206,Money Laundering,501,754624,Medium,Open,FNB,5,No,2022-07-17,2024-03-07,Officer Mabena,SA-ST-933
+162,Zanele,Mokoena,Zanele Mokoena,30,Male,South Africa,Gauteng,9306276044012,SA-CAS-612259,Cybercrime,349,3572681,Low,Convicted,FNB,9,Yes,2015-12-04,2021-03-25,Officer Moyo,SA-ST-361
+163,Lerato,Mokoena,Lerato Mokoena,34,Male,South Africa,Mpumalanga,0102068408159,SA-CAS-592062,Cybercrime,334,3436761,High,Open,Absa,0,Yes,2018-07-25,2015-07-19,Officer Naidoo,SA-ST-830
+164,Thabo,Mthembu,Thabo Mthembu,30,Male,South Africa,Gauteng,8302255702195,SA-CAS-828508,Money Laundering,764,1426803,Critical,Closed,Capitec,7,Yes,2015-06-01,2023-07-06,Officer Smith,SA-ST-516
+165,Nomsa,Naidoo,Nomsa Naidoo,59,Male,South Africa,North West,6609201878189,SA-CAS-641730,Drug Trafficking,762,4651456,Critical,Court Pending,Capitec,9,No,2021-11-18,2017-02-17,Officer Smith,SA-ST-888
+166,Tendai,Ndlovu,Tendai Ndlovu,45,Female,South Africa,KwaZulu-Natal,9311133834091,SA-CAS-546008,Corruption,595,152452,Critical,Convicted,African Bank,9,Yes,2023-12-13,2016-05-16,Officer Naidoo,SA-ST-787
+167,Brian,Mthembu,Brian Mthembu,24,Male,South Africa,Gauteng,0207183258036,SA-CAS-249996,Money Laundering,599,1317005,Critical,Court Pending,Capitec,3,No,2019-10-16,2018-03-16,Officer Moyo,SA-ST-137
+168,Tendai,Ndlovu,Tendai Ndlovu,30,Male,South Africa,North West,8809139395177,SA-CAS-273779,Drug Trafficking,410,1802437,Low,Closed,Standard Bank,6,Yes,2025-08-23,2019-03-24,Officer Naidoo,SA-ST-959
+169,Zanele,Mabaso,Zanele Mabaso,44,Female,South Africa,KwaZulu-Natal,0401094135111,SA-CAS-717376,Cybercrime,840,187635,Low,Court Pending,FNB,6,No,2016-01-18,2021-03-23,Officer Smith,SA-ST-270
+170,Ayanda,Naidoo,Ayanda Naidoo,19,Male,South Africa,Free State,8305157010080,SA-CAS-948510,Vehicle Theft,337,1152733,Low,Under Investigation,Absa,2,No,2020-10-02,2020-11-07,Officer Naidoo,SA-ST-313
+171,Sipho,Dlamini,Sipho Dlamini,48,Female,South Africa,Gauteng,7808281815038,SA-CAS-450928,Armed Robbery,395,3697487,Low,Closed,Nedbank,7,No,2022-01-31,2024-07-01,Officer Mabena,SA-ST-331
+172,Tendai,Ndlovu,Tendai Ndlovu,30,Female,South Africa,Limpopo,7709165227179,SA-CAS-193241,Fraud,575,4629885,Critical,Closed,African Bank,0,No,2025-11-06,2017-12-10,Officer Naidoo,SA-ST-495
+173,Naledi,Mokoena,Naledi Mokoena,29,Male,South Africa,Northern Cape,9303217183135,SA-CAS-115135,Vehicle Theft,584,2219645,Low,Under Investigation,Capitec,5,No,2022-07-31,2020-05-15,Officer Smith,SA-ST-768
+174,Thabo,Mokoena,Thabo Mokoena,30,Female,South Africa,Mpumalanga,0103051851083,SA-CAS-341822,Identity Theft,596,1253539,Medium,Closed,Nedbank,0,No,2015-02-11,2025-01-19,Officer Mabena,SA-ST-279
+175,Thabo,Dlamini,Thabo Dlamini,49,Male,South Africa,North West,6210189969143,SA-CAS-379294,Money Laundering,464,813735,Critical,Open,FNB,10,No,2020-05-22,2020-08-18,Officer Moyo,SA-ST-812
+176,Nomsa,Ndlovu,Nomsa Ndlovu,27,Female,South Africa,North West,7002047086080,SA-CAS-858567,Money Laundering,663,1615265,Medium,Closed,Standard Bank,2,Yes,2023-03-21,2019-07-22,Officer Mabena,SA-ST-192
+177,Tendai,Mthembu,Tendai Mthembu,54,Male,South Africa,North West,7808123345197,SA-CAS-383241,Money Laundering,459,1868820,Medium,Convicted,Absa,8,No,2020-08-14,2019-09-23,Officer Smith,SA-ST-831
+178,Naledi,Khumalo,Naledi Khumalo,45,Male,South Africa,Northern Cape,0010268965042,SA-CAS-414688,Armed Robbery,826,2789022,Low,Court Pending,Nedbank,5,No,2016-10-02,2025-01-21,Officer Naidoo,SA-ST-586
+179,Naledi,Dlamini,Naledi Dlamini,51,Female,South Africa,Eastern Cape,6702215652020,SA-CAS-200907,Cybercrime,408,4181240,Low,Court Pending,Capitec,9,Yes,2018-04-20,2016-05-25,Officer Nkosi,SA-ST-123
+180,Lerato,Pillay,Lerato Pillay,48,Male,South Africa,North West,7110283313025,SA-CAS-537163,Fraud,507,4233124,Low,Open,Standard Bank,10,No,2016-08-17,2019-01-21,Officer Smith,SA-ST-609
+181,Zanele,Ndlovu,Zanele Ndlovu,59,Male,South Africa,Gauteng,9611093921121,SA-CAS-485299,Armed Robbery,525,6171,Critical,Open,Absa,8,No,2024-03-28,2017-03-07,Officer Moyo,SA-ST-400
+182,Brian,Khumalo,Brian Khumalo,56,Female,South Africa,Limpopo,6204189104036,SA-CAS-826290,Corruption,672,2892815,Medium,Open,Standard Bank,0,Yes,2022-10-01,2024-11-16,Officer Smith,SA-ST-478
+183,Brian,Dlamini,Brian Dlamini,59,Female,South Africa,Limpopo,6905228917181,SA-CAS-854021,Corruption,830,255103,Low,Open,African Bank,6,No,2020-02-26,2019-04-21,Officer Moyo,SA-ST-957
+184,Nomsa,Naidoo,Nomsa Naidoo,36,Male,South Africa,Limpopo,0006063424079,SA-CAS-965571,Fraud,310,2874560,Low,Under Investigation,Standard Bank,8,No,2020-12-11,2019-08-10,Officer Smith,SA-ST-955
+185,Mpho,Zulu,Mpho Zulu,63,Male,South Africa,KwaZulu-Natal,9304029083082,SA-CAS-971427,Corruption,597,4803824,Low,Court Pending,Capitec,6,No,2025-05-05,2018-02-01,Officer Mabena,SA-ST-562
+186,Naledi,Dlamini,Naledi Dlamini,30,Female,South Africa,Limpopo,7809242227035,SA-CAS-821059,Armed Robbery,398,170735,Medium,Court Pending,Absa,4,Yes,2022-12-30,2022-09-22,Officer Moyo,SA-ST-873
+187,Ayanda,Zulu,Ayanda Zulu,38,Male,South Africa,Western Cape,7603103105086,SA-CAS-182213,Identity Theft,772,95398,Medium,Open,FNB,6,Yes,2024-04-17,2017-04-30,Officer Smith,SA-ST-995
+188,Naledi,Dlamini,Naledi Dlamini,34,Male,South Africa,Eastern Cape,0203101444046,SA-CAS-916351,Cybercrime,337,90165,Critical,Open,Capitec,2,No,2016-06-04,2016-07-05,Officer Mabena,SA-ST-821
+189,Thabo,Zulu,Thabo Zulu,64,Male,South Africa,Eastern Cape,9711129563121,SA-CAS-176683,Fraud,408,1559039,Medium,Closed,Nedbank,1,No,2022-09-30,2015-09-14,Officer Nkosi,SA-ST-736
+190,Lerato,Mthembu,Lerato Mthembu,55,Male,South Africa,Free State,0506014035083,SA-CAS-189176,Drug Trafficking,457,1635937,Medium,Closed,African Bank,2,Yes,2024-10-28,2016-11-03,Officer Nkosi,SA-ST-533
+191,Sipho,Khumalo,Sipho Khumalo,64,Female,South Africa,North West,8808254797094,SA-CAS-385132,Money Laundering,525,2828277,Medium,Court Pending,African Bank,2,No,2020-12-13,2015-05-17,Officer Mabena,SA-ST-255
+192,Lerato,Mokoena,Lerato Mokoena,41,Male,South Africa,Mpumalanga,8608111790176,SA-CAS-237927,Armed Robbery,456,1582917,Medium,Under Investigation,Absa,4,No,2021-04-30,2023-08-15,Officer Moyo,SA-ST-849
+193,Mpho,Dlamini,Mpho Dlamini,59,Female,South Africa,Western Cape,6210241505034,SA-CAS-275576,Corruption,510,60898,High,Convicted,Capitec,1,Yes,2022-07-18,2016-08-06,Officer Nkosi,SA-ST-775
+194,Ayanda,Mokoena,Ayanda Mokoena,52,Female,South Africa,Eastern Cape,6409013557136,SA-CAS-148732,Drug Trafficking,504,3824143,Medium,Court Pending,Capitec,10,Yes,2022-01-27,2016-09-02,Officer Naidoo,SA-ST-861
+195,Naledi,Dlamini,Naledi Dlamini,49,Female,South Africa,Gauteng,7211165395157,SA-CAS-173100,Fraud,567,952204,High,Under Investigation,Standard Bank,1,Yes,2018-03-27,2025-05-01,Officer Mabena,SA-ST-678
+196,Tendai,Mokoena,Tendai Mokoena,64,Female,South Africa,Northern Cape,0001144431016,SA-CAS-632232,Money Laundering,779,3698809,Critical,Open,Nedbank,4,Yes,2016-05-23,2021-04-08,Officer Nkosi,SA-ST-244
+197,Ayanda,Mthembu,Ayanda Mthembu,28,Female,South Africa,Eastern Cape,7502278150198,SA-CAS-290606,Corruption,626,2845031,High,Convicted,African Bank,2,Yes,2018-10-31,2023-02-28,Officer Moyo,SA-ST-723
+198,Thabo,Khumalo,Thabo Khumalo,41,Female,South Africa,Limpopo,0111264893124,SA-CAS-191105,Corruption,550,3578906,Medium,Open,Standard Bank,7,Yes,2020-01-30,2017-03-29,Officer Nkosi,SA-ST-340
+199,Naledi,Nkosi,Naledi Nkosi,31,Male,South Africa,Limpopo,7305014790076,SA-CAS-190598,Cybercrime,348,633743,High,Open,FNB,8,Yes,2015-09-08,2021-02-28,Officer Nkosi,SA-ST-114
+200,Lerato,Nkosi,Lerato Nkosi,34,Female,South Africa,Western Cape,6612194832169,SA-CAS-316503,Identity Theft,735,2209328,High,Convicted,FNB,9,Yes,2018-05-22,2022-02-17,Officer Smith,SA-ST-959
+201,Nomsa,Khumalo,Nomsa Khumalo,37,Male,South Africa,KwaZulu-Natal,6103036808110,SA-CAS-690376,Armed Robbery,327,3758305,Low,Open,Nedbank,1,No,2018-06-13,2020-08-01,Officer Moyo,SA-ST-576
+202,Lerato,Mokoena,Lerato Mokoena,44,Female,South Africa,North West,0401026594053,SA-CAS-731852,Money Laundering,316,3690946,High,Open,Absa,0,No,2018-03-15,2021-11-04,Officer Moyo,SA-ST-862
+203,Brian,Nkosi,Brian Nkosi,65,Female,South Africa,Mpumalanga,0104162396086,SA-CAS-137681,Identity Theft,304,4659197,Critical,Convicted,Standard Bank,4,Yes,2017-07-21,2021-04-24,Officer Mabena,SA-ST-740
+204,Sipho,Mabaso,Sipho Mabaso,54,Male,South Africa,Mpumalanga,7104265747118,SA-CAS-416784,Identity Theft,658,3185967,High,Convicted,Standard Bank,6,Yes,2020-09-26,2015-10-14,Officer Moyo,SA-ST-833
+205,Thabo,Mabaso,Thabo Mabaso,22,Female,South Africa,Gauteng,6508092573175,SA-CAS-744674,Money Laundering,845,491822,Medium,Court Pending,Capitec,6,Yes,2015-01-01,2020-02-27,Officer Nkosi,SA-ST-246
+206,Sipho,Naidoo,Sipho Naidoo,36,Female,South Africa,KwaZulu-Natal,8304172976076,SA-CAS-816927,Vehicle Theft,409,3009307,Critical,Closed,Nedbank,6,No,2024-01-17,2023-10-31,Officer Moyo,SA-ST-249
+207,Mpho,Khumalo,Mpho Khumalo,55,Male,South Africa,Northern Cape,6707235783073,SA-CAS-903586,Cybercrime,374,439016,Low,Under Investigation,Capitec,9,Yes,2022-06-02,2022-01-04,Officer Nkosi,SA-ST-279
+208,Thabo,Mthembu,Thabo Mthembu,58,Male,South Africa,Western Cape,9612168436058,SA-CAS-992777,Cybercrime,838,777655,High,Court Pending,Capitec,6,No,2021-10-11,2015-07-23,Officer Smith,SA-ST-266
+209,Nomsa,Ndlovu,Nomsa Ndlovu,29,Female,South Africa,North West,8009258497074,SA-CAS-896391,Corruption,502,2473878,Critical,Closed,Nedbank,5,No,2023-10-01,2022-09-27,Officer Moyo,SA-ST-615
+210,Thabo,Zulu,Thabo Zulu,24,Male,South Africa,Eastern Cape,9001192453120,SA-CAS-396480,Money Laundering,604,4516238,Critical,Open,African Bank,0,Yes,2023-10-24,2018-02-11,Officer Naidoo,SA-ST-421
+211,Naledi,Pillay,Naledi Pillay,29,Female,South Africa,KwaZulu-Natal,0304128586155,SA-CAS-892837,Fraud,343,406369,Critical,Under Investigation,African Bank,10,No,2015-12-29,2025-12-04,Officer Naidoo,SA-ST-920
+212,Naledi,Nkosi,Naledi Nkosi,31,Female,South Africa,North West,8601175430089,SA-CAS-923139,Identity Theft,480,2701295,High,Under Investigation,Capitec,0,No,2021-04-02,2020-10-16,Officer Mabena,SA-ST-225
+213,Tendai,Pillay,Tendai Pillay,58,Female,South Africa,Eastern Cape,6210281188161,SA-CAS-564890,Vehicle Theft,418,3333615,Low,Convicted,Capitec,8,No,2018-07-03,2018-07-05,Officer Mabena,SA-ST-263
+214,Tendai,Naidoo,Tendai Naidoo,64,Male,South Africa,North West,9404242132137,SA-CAS-796956,Identity Theft,527,4115061,Low,Convicted,FNB,8,No,2021-03-25,2024-07-04,Officer Moyo,SA-ST-482
+215,Ayanda,Nkosi,Ayanda Nkosi,22,Female,South Africa,Mpumalanga,7708148067042,SA-CAS-389865,Vehicle Theft,501,1989747,Low,Open,Standard Bank,1,Yes,2015-10-23,2023-07-21,Officer Moyo,SA-ST-542
+216,Thabo,Khumalo,Thabo Khumalo,27,Male,South Africa,Gauteng,8807052033048,SA-CAS-288240,Vehicle Theft,630,3563556,High,Under Investigation,FNB,6,Yes,2023-11-03,2024-04-05,Officer Moyo,SA-ST-834
+217,Nomsa,Khumalo,Nomsa Khumalo,23,Female,South Africa,Northern Cape,9403146878196,SA-CAS-600895,Vehicle Theft,317,460889,Medium,Closed,FNB,9,Yes,2021-10-16,2020-09-20,Officer Moyo,SA-ST-668
+218,Lerato,Ndlovu,Lerato Ndlovu,44,Male,South Africa,Free State,0511028715068,SA-CAS-757784,Corruption,521,554273,Low,Court Pending,Nedbank,0,No,2019-11-20,2024-01-09,Officer Mabena,SA-ST-177
+219,Lerato,Pillay,Lerato Pillay,59,Female,South Africa,Gauteng,7001285102194,SA-CAS-776615,Cybercrime,802,2787423,Critical,Court Pending,Capitec,0,No,2025-02-19,2018-07-09,Officer Moyo,SA-ST-761
+220,Nomsa,Mokoena,Nomsa Mokoena,61,Male,South Africa,Northern Cape,7412139661166,SA-CAS-257534,Cybercrime,545,4040700,Medium,Under Investigation,Capitec,9,No,2017-03-04,2025-08-05,Officer Smith,SA-ST-711
+221,Thabo,Mabaso,Thabo Mabaso,30,Female,South Africa,Western Cape,7802059275032,SA-CAS-264024,Armed Robbery,639,916653,Medium,Under Investigation,African Bank,7,No,2025-01-11,2018-01-05,Officer Naidoo,SA-ST-409
+222,Lerato,Mokoena,Lerato Mokoena,44,Female,South Africa,Limpopo,0309017837158,SA-CAS-947318,Drug Trafficking,578,4055768,Low,Convicted,FNB,6,No,2025-05-15,2016-09-29,Officer Nkosi,SA-ST-402
+223,Zanele,Zulu,Zanele Zulu,32,Male,South Africa,Eastern Cape,7201077916045,SA-CAS-831983,Vehicle Theft,363,4305975,Medium,Open,African Bank,7,Yes,2015-02-26,2022-01-08,Officer Smith,SA-ST-349
+224,Brian,Zulu,Brian Zulu,56,Male,South Africa,Limpopo,8209066014131,SA-CAS-934798,Fraud,501,3481042,Medium,Open,Absa,4,Yes,2025-06-26,2015-12-03,Officer Mabena,SA-ST-981
+225,Naledi,Khumalo,Naledi Khumalo,43,Female,South Africa,Gauteng,7904151451170,SA-CAS-750322,Cybercrime,669,4165799,High,Closed,FNB,6,No,2016-05-16,2015-03-24,Officer Moyo,SA-ST-947
+226,Mpho,Mthembu,Mpho Mthembu,58,Female,South Africa,Limpopo,8501123250046,SA-CAS-657317,Cybercrime,599,162643,High,Closed,FNB,1,Yes,2022-06-17,2015-07-23,Officer Smith,SA-ST-511
+227,Sipho,Nkosi,Sipho Nkosi,29,Female,South Africa,KwaZulu-Natal,7609166775014,SA-CAS-411214,Cybercrime,594,2603508,High,Closed,Capitec,8,Yes,2025-01-31,2016-05-14,Officer Moyo,SA-ST-928
+228,Lerato,Mabaso,Lerato Mabaso,56,Male,South Africa,KwaZulu-Natal,8804147447133,SA-CAS-775993,Money Laundering,371,2161221,Medium,Closed,Absa,10,Yes,2016-09-08,2015-06-24,Officer Nkosi,SA-ST-390
+229,Lerato,Mokoena,Lerato Mokoena,56,Female,South Africa,Western Cape,7112015949010,SA-CAS-298157,Vehicle Theft,675,1651494,High,Court Pending,African Bank,1,Yes,2016-03-15,2025-04-12,Officer Naidoo,SA-ST-170
+230,Ayanda,Dlamini,Ayanda Dlamini,19,Female,South Africa,North West,0212202161038,SA-CAS-336870,Corruption,505,949439,Low,Court Pending,Nedbank,9,No,2016-08-18,2025-08-11,Officer Smith,SA-ST-562
+231,Ayanda,Mthembu,Ayanda Mthembu,22,Male,South Africa,North West,8710196518113,SA-CAS-656066,Vehicle Theft,638,3675042,Low,Under Investigation,Nedbank,1,Yes,2015-01-18,2022-12-01,Officer Mabena,SA-ST-904
+232,Mpho,Mthembu,Mpho Mthembu,41,Female,South Africa,Gauteng,0105135614164,SA-CAS-952244,Vehicle Theft,614,1321500,Critical,Convicted,African Bank,10,Yes,2015-11-29,2019-05-20,Officer Mabena,SA-ST-911
+233,Brian,Pillay,Brian Pillay,23,Female,South Africa,KwaZulu-Natal,8809174825053,SA-CAS-646722,Identity Theft,390,3416229,Medium,Closed,FNB,2,No,2020-07-19,2019-06-04,Officer Mabena,SA-ST-617
+234,Nomsa,Mthembu,Nomsa Mthembu,37,Female,South Africa,KwaZulu-Natal,6705132642195,SA-CAS-107966,Identity Theft,501,2608645,Critical,Court Pending,Standard Bank,7,No,2022-01-28,2015-04-04,Officer Nkosi,SA-ST-871
+235,Nomsa,Ndlovu,Nomsa Ndlovu,61,Female,South Africa,Northern Cape,0205136991046,SA-CAS-898722,Corruption,458,3212330,Low,Open,Nedbank,0,No,2016-10-24,2022-10-22,Officer Nkosi,SA-ST-228
+236,Thabo,Mthembu,Thabo Mthembu,49,Female,South Africa,KwaZulu-Natal,8309041112031,SA-CAS-658048,Fraud,630,2155982,Low,Open,FNB,10,Yes,2022-03-24,2023-06-08,Officer Nkosi,SA-ST-364
+237,Sipho,Mokoena,Sipho Mokoena,34,Female,South Africa,KwaZulu-Natal,6202231062079,SA-CAS-117302,Money Laundering,603,3180440,Low,Under Investigation,African Bank,7,Yes,2022-01-27,2020-02-03,Officer Smith,SA-ST-448
+238,Naledi,Naidoo,Naledi Naidoo,36,Female,South Africa,Northern Cape,7003158581033,SA-CAS-204356,Corruption,348,1529312,Critical,Convicted,Capitec,9,Yes,2025-04-03,2022-09-05,Officer Mabena,SA-ST-634
+239,Lerato,Naidoo,Lerato Naidoo,27,Male,South Africa,Gauteng,8812029631051,SA-CAS-512402,Drug Trafficking,527,103475,Critical,Court Pending,Nedbank,4,Yes,2018-01-27,2023-07-22,Officer Moyo,SA-ST-949
+240,Zanele,Zulu,Zanele Zulu,44,Female,South Africa,Gauteng,7402266353161,SA-CAS-572592,Fraud,548,2946301,Low,Under Investigation,Standard Bank,1,Yes,2017-04-10,2024-11-12,Officer Naidoo,SA-ST-938
+241,Tendai,Zulu,Tendai Zulu,50,Female,South Africa,Western Cape,6909077244125,SA-CAS-197935,Cybercrime,452,2478790,Low,Closed,FNB,2,No,2020-04-02,2021-09-29,Officer Moyo,SA-ST-647
+242,Nomsa,Khumalo,Nomsa Khumalo,29,Female,South Africa,Western Cape,7306089610114,SA-CAS-255309,Vehicle Theft,507,4265843,Critical,Court Pending,Absa,7,Yes,2016-02-28,2018-09-03,Officer Naidoo,SA-ST-376
+243,Naledi,Mokoena,Naledi Mokoena,55,Female,South Africa,Mpumalanga,6204077184140,SA-CAS-643999,Fraud,619,4610534,High,Open,Absa,1,Yes,2019-12-31,2016-02-18,Officer Moyo,SA-ST-504
+244,Thabo,Dlamini,Thabo Dlamini,34,Female,South Africa,Northern Cape,7909157963138,SA-CAS-387731,Money Laundering,468,858382,High,Under Investigation,Capitec,9,Yes,2025-04-26,2024-08-25,Officer Moyo,SA-ST-433
+245,Nomsa,Dlamini,Nomsa Dlamini,22,Male,South Africa,Mpumalanga,0205268277196,SA-CAS-608888,Corruption,558,3021750,High,Under Investigation,Capitec,5,Yes,2021-06-08,2022-01-31,Officer Naidoo,SA-ST-800
+246,Brian,Nkosi,Brian Nkosi,33,Male,South Africa,Western Cape,8901121884198,SA-CAS-323930,Identity Theft,524,3016940,Low,Court Pending,FNB,6,Yes,2021-03-20,2019-12-16,Officer Nkosi,SA-ST-515
+247,Brian,Khumalo,Brian Khumalo,49,Female,South Africa,Free State,7406271490062,SA-CAS-240471,Armed Robbery,435,368745,Medium,Open,Nedbank,9,No,2025-12-10,2021-11-15,Officer Moyo,SA-ST-756
+248,Thabo,Khumalo,Thabo Khumalo,51,Female,South Africa,Western Cape,8109119956150,SA-CAS-202060,Money Laundering,333,4729670,Medium,Open,FNB,1,No,2019-01-14,2016-03-29,Officer Mabena,SA-ST-797
+249,Nomsa,Zulu,Nomsa Zulu,27,Male,South Africa,Western Cape,0406242616189,SA-CAS-820957,Fraud,649,1412585,Low,Open,Nedbank,9,No,2015-06-15,2018-09-07,Officer Moyo,SA-ST-228
+250,Mpho,Mabaso,Mpho Mabaso,18,Male,South Africa,KwaZulu-Natal,7410085600129,SA-CAS-158245,Fraud,706,108693,High,Open,FNB,3,Yes,2019-07-21,2015-07-24,Officer Mabena,SA-ST-416
+251,Thabo,Pillay,Thabo Pillay,56,Female,South Africa,Eastern Cape,7802172989075,SA-CAS-707614,Vehicle Theft,578,3104693,Medium,Closed,FNB,10,Yes,2025-12-12,2020-12-10,Officer Smith,SA-ST-259
+252,Ayanda,Naidoo,Ayanda Naidoo,18,Female,South Africa,North West,6102266050119,SA-CAS-768018,Vehicle Theft,554,4554317,Medium,Under Investigation,Capitec,3,Yes,2015-03-13,2022-08-16,Officer Moyo,SA-ST-260
+253,Naledi,Mthembu,Naledi Mthembu,34,Female,South Africa,Northern Cape,6901102063098,SA-CAS-678799,Vehicle Theft,638,1831957,Low,Court Pending,Capitec,4,Yes,2020-01-06,2018-05-05,Officer Mabena,SA-ST-127
+254,Naledi,Naidoo,Naledi Naidoo,50,Female,South Africa,Northern Cape,8905024422121,SA-CAS-985449,Money Laundering,406,4987632,Critical,Court Pending,Nedbank,8,No,2020-10-15,2023-01-23,Officer Moyo,SA-ST-125
+255,Brian,Dlamini,Brian Dlamini,21,Male,South Africa,Gauteng,8601211186022,SA-CAS-760241,Drug Trafficking,410,3029063,Medium,Court Pending,African Bank,3,No,2023-08-24,2022-02-26,Officer Nkosi,SA-ST-224
+256,Nomsa,Zulu,Nomsa Zulu,62,Female,South Africa,KwaZulu-Natal,6307269736016,SA-CAS-399492,Armed Robbery,771,665984,High,Under Investigation,FNB,4,No,2018-12-24,2021-09-21,Officer Mabena,SA-ST-436
+257,Thabo,Khumalo,Thabo Khumalo,64,Male,South Africa,Mpumalanga,8505271625129,SA-CAS-727538,Corruption,537,2529241,Low,Court Pending,Capitec,0,Yes,2024-04-29,2019-09-04,Officer Mabena,SA-ST-487
+258,Brian,Mabaso,Brian Mabaso,57,Male,South Africa,KwaZulu-Natal,0008193317018,SA-CAS-142126,Drug Trafficking,833,628634,Critical,Under Investigation,Nedbank,4,Yes,2019-06-25,2018-07-03,Officer Moyo,SA-ST-156
+259,Tendai,Pillay,Tendai Pillay,65,Female,South Africa,North West,7312147976198,SA-CAS-307352,Drug Trafficking,429,3176281,Low,Convicted,Standard Bank,3,Yes,2024-11-10,2020-11-25,Officer Moyo,SA-ST-526
+260,Tendai,Khumalo,Tendai Khumalo,28,Male,South Africa,North West,0010085713027,SA-CAS-318760,Fraud,657,3868356,Low,Under Investigation,Capitec,8,Yes,2015-06-04,2023-07-05,Officer Nkosi,SA-ST-241
+261,Zanele,Mthembu,Zanele Mthembu,62,Male,South Africa,Gauteng,8708186934094,SA-CAS-551494,Armed Robbery,377,1681853,High,Under Investigation,African Bank,8,No,2024-09-29,2019-01-19,Officer Smith,SA-ST-675
+262,Lerato,Mthembu,Lerato Mthembu,65,Male,South Africa,Northern Cape,9605077404099,SA-CAS-432851,Drug Trafficking,453,878681,Low,Convicted,Nedbank,2,Yes,2024-10-19,2018-05-20,Officer Moyo,SA-ST-189
+263,Brian,Mokoena,Brian Mokoena,55,Female,South Africa,Limpopo,7402257496026,SA-CAS-105419,Identity Theft,458,4346198,Critical,Under Investigation,FNB,5,No,2025-04-16,2016-02-25,Officer Naidoo,SA-ST-532
+264,Tendai,Ndlovu,Tendai Ndlovu,28,Female,South Africa,Limpopo,9411238380162,SA-CAS-513896,Money Laundering,449,1729542,Low,Closed,Capitec,0,No,2018-07-21,2016-12-16,Officer Smith,SA-ST-894
+265,Nomsa,Nkosi,Nomsa Nkosi,37,Female,South Africa,Eastern Cape,6611254585043,SA-CAS-942351,Corruption,324,688094,Low,Convicted,Nedbank,1,No,2021-01-01,2023-06-04,Officer Mabena,SA-ST-291
+266,Ayanda,Mabaso,Ayanda Mabaso,33,Female,South Africa,Gauteng,6001268003094,SA-CAS-387559,Corruption,675,951667,Critical,Convicted,African Bank,0,No,2023-07-03,2018-03-24,Officer Nkosi,SA-ST-618
+267,Naledi,Ndlovu,Naledi Ndlovu,28,Male,South Africa,Northern Cape,7904037096186,SA-CAS-182035,Armed Robbery,670,4383450,Critical,Open,Absa,10,No,2020-10-07,2021-07-27,Officer Nkosi,SA-ST-625
+268,Lerato,Naidoo,Lerato Naidoo,50,Female,South Africa,North West,6608067846047,SA-CAS-877370,Money Laundering,671,3139902,Low,Open,Nedbank,10,Yes,2015-06-24,2022-08-08,Officer Nkosi,SA-ST-475
+269,Thabo,Pillay,Thabo Pillay,37,Female,South Africa,KwaZulu-Natal,8110277032197,SA-CAS-488273,Corruption,834,487761,Medium,Open,African Bank,10,Yes,2021-01-30,2023-06-30,Officer Nkosi,SA-ST-242
+270,Sipho,Khumalo,Sipho Khumalo,60,Female,South Africa,Western Cape,7611257590157,SA-CAS-751003,Fraud,450,3641971,Medium,Under Investigation,Absa,7,Yes,2023-03-27,2020-08-06,Officer Mabena,SA-ST-464
+271,Thabo,Mokoena,Thabo Mokoena,45,Female,South Africa,Gauteng,8403148833024,SA-CAS-983695,Vehicle Theft,673,4394726,Critical,Court Pending,Absa,9,No,2022-02-11,2015-11-16,Officer Smith,SA-ST-586
+272,Brian,Pillay,Brian Pillay,19,Male,South Africa,Western Cape,8307073500161,SA-CAS-791912,Vehicle Theft,731,888811,High,Under Investigation,Absa,4,No,2016-11-09,2016-10-28,Officer Smith,SA-ST-881
+273,Lerato,Dlamini,Lerato Dlamini,32,Female,South Africa,KwaZulu-Natal,7709146654040,SA-CAS-474881,Drug Trafficking,568,3739713,Low,Closed,Absa,0,Yes,2015-05-27,2021-10-10,Officer Smith,SA-ST-753
+274,Sipho,Pillay,Sipho Pillay,32,Female,South Africa,Free State,6101024036193,SA-CAS-133133,Cybercrime,622,1546249,Critical,Under Investigation,African Bank,8,No,2017-05-08,2016-03-07,Officer Mabena,SA-ST-157
+275,Brian,Zulu,Brian Zulu,37,Female,South Africa,Free State,9205263410159,SA-CAS-396247,Vehicle Theft,579,1681029,Critical,Under Investigation,FNB,1,No,2023-09-10,2024-06-16,Officer Naidoo,SA-ST-699
+276,Mpho,Khumalo,Mpho Khumalo,41,Female,South Africa,Mpumalanga,9804031092032,SA-CAS-976297,Armed Robbery,793,846352,Low,Convicted,Nedbank,3,No,2025-01-07,2017-12-23,Officer Smith,SA-ST-592
+277,Thabo,Khumalo,Thabo Khumalo,34,Male,South Africa,KwaZulu-Natal,6102084413010,SA-CAS-451907,Corruption,783,4565230,Low,Closed,African Bank,6,No,2020-07-22,2017-03-25,Officer Smith,SA-ST-948
+278,Nomsa,Naidoo,Nomsa Naidoo,62,Male,South Africa,Northern Cape,9805267656093,SA-CAS-343529,Corruption,708,2213907,Low,Under Investigation,FNB,0,Yes,2021-08-18,2021-01-02,Officer Naidoo,SA-ST-220
+279,Brian,Pillay,Brian Pillay,22,Female,South Africa,Free State,7109129405014,SA-CAS-870956,Identity Theft,421,2796057,High,Under Investigation,FNB,6,Yes,2021-06-24,2019-06-08,Officer Nkosi,SA-ST-354
+280,Lerato,Dlamini,Lerato Dlamini,20,Female,South Africa,North West,9710285333096,SA-CAS-164401,Cybercrime,758,2971859,Medium,Court Pending,Capitec,6,Yes,2015-07-09,2019-01-23,Officer Mabena,SA-ST-465
+281,Naledi,Mabaso,Naledi Mabaso,20,Female,South Africa,Western Cape,9312014542069,SA-CAS-710554,Money Laundering,636,179058,Medium,Court Pending,Nedbank,7,Yes,2018-01-18,2017-12-28,Officer Smith,SA-ST-861
+282,Brian,Khumalo,Brian Khumalo,43,Male,South Africa,Gauteng,6412115341083,SA-CAS-221692,Identity Theft,647,3207295,High,Open,Nedbank,6,No,2020-03-13,2025-08-15,Officer Moyo,SA-ST-879
+283,Sipho,Pillay,Sipho Pillay,52,Female,South Africa,Free State,7407166418035,SA-CAS-220647,Vehicle Theft,551,3964316,High,Court Pending,FNB,1,Yes,2015-05-11,2023-02-28,Officer Mabena,SA-ST-116
+284,Sipho,Khumalo,Sipho Khumalo,46,Male,South Africa,Northern Cape,8511143315043,SA-CAS-704569,Vehicle Theft,374,363351,Critical,Under Investigation,Absa,1,No,2022-12-26,2021-01-13,Officer Mabena,SA-ST-297
+285,Nomsa,Mabaso,Nomsa Mabaso,27,Male,South Africa,North West,6503024956184,SA-CAS-659217,Corruption,473,4165198,Medium,Open,Standard Bank,4,No,2024-04-28,2015-09-14,Officer Smith,SA-ST-725
+286,Mpho,Mabaso,Mpho Mabaso,37,Male,South Africa,Northern Cape,7406039272132,SA-CAS-237694,Armed Robbery,526,2557862,Low,Closed,FNB,8,Yes,2016-06-18,2024-01-01,Officer Moyo,SA-ST-188
+287,Lerato,Pillay,Lerato Pillay,47,Male,South Africa,Free State,6210171610097,SA-CAS-307603,Identity Theft,736,3663885,Low,Under Investigation,Nedbank,9,No,2022-09-28,2020-12-28,Officer Mabena,SA-ST-904
+288,Tendai,Pillay,Tendai Pillay,38,Female,South Africa,Gauteng,7905257570077,SA-CAS-589728,Armed Robbery,836,1446756,Medium,Closed,Capitec,2,Yes,2018-08-19,2023-09-08,Officer Smith,SA-ST-920
+289,Nomsa,Naidoo,Nomsa Naidoo,50,Female,South Africa,Western Cape,7402201168056,SA-CAS-505817,Corruption,838,355894,Critical,Open,Absa,8,No,2019-04-04,2016-02-27,Officer Nkosi,SA-ST-281
+290,Tendai,Zulu,Tendai Zulu,59,Female,South Africa,KwaZulu-Natal,9308136958117,SA-CAS-658386,Fraud,510,3282092,Low,Closed,Capitec,5,Yes,2021-08-28,2021-04-22,Officer Naidoo,SA-ST-440
+291,Tendai,Naidoo,Tendai Naidoo,58,Female,South Africa,Free State,8908056040029,SA-CAS-856473,Cybercrime,481,121558,Medium,Open,FNB,2,Yes,2021-10-12,2020-09-12,Officer Smith,SA-ST-306
+292,Brian,Dlamini,Brian Dlamini,38,Female,South Africa,Free State,6404066206084,SA-CAS-932760,Armed Robbery,552,830002,High,Closed,Capitec,3,Yes,2020-12-09,2020-11-17,Officer Naidoo,SA-ST-932
+293,Naledi,Mabaso,Naledi Mabaso,38,Female,South Africa,Free State,8909185668197,SA-CAS-597012,Armed Robbery,649,2540902,Critical,Under Investigation,African Bank,3,No,2022-08-15,2023-06-25,Officer Naidoo,SA-ST-941
+294,Nomsa,Pillay,Nomsa Pillay,29,Female,South Africa,KwaZulu-Natal,9206092710188,SA-CAS-589751,Armed Robbery,439,727226,Critical,Convicted,Absa,8,No,2020-07-01,2015-05-28,Officer Naidoo,SA-ST-866
+295,Nomsa,Khumalo,Nomsa Khumalo,50,Female,South Africa,Western Cape,7703057577091,SA-CAS-936956,Fraud,533,2901641,Critical,Convicted,FNB,3,No,2015-02-11,2016-11-21,Officer Smith,SA-ST-835
+296,Nomsa,Naidoo,Nomsa Naidoo,61,Female,South Africa,Free State,9805112025054,SA-CAS-208123,Armed Robbery,678,241356,Medium,Open,Standard Bank,0,Yes,2024-07-07,2020-07-11,Officer Smith,SA-ST-877
+297,Tendai,Khumalo,Tendai Khumalo,49,Female,South Africa,Gauteng,7001266409038,SA-CAS-888965,Armed Robbery,311,3006685,Critical,Court Pending,FNB,1,No,2024-05-21,2016-02-19,Officer Naidoo,SA-ST-396
+298,Nomsa,Ndlovu,Nomsa Ndlovu,64,Female,South Africa,Western Cape,7204136128190,SA-CAS-564594,Vehicle Theft,829,2563592,Low,Court Pending,Standard Bank,9,No,2015-12-13,2018-08-25,Officer Smith,SA-ST-408
+299,Lerato,Mokoena,Lerato Mokoena,58,Male,South Africa,North West,8811141582114,SA-CAS-280847,Drug Trafficking,755,1072966,High,Under Investigation,Standard Bank,9,No,2019-03-24,2021-08-08,Officer Smith,SA-ST-973
+300,Tendai,Zulu,Tendai Zulu,47,Female,South Africa,Gauteng,7607281072156,SA-CAS-990873,Armed Robbery,746,3945599,Low,Closed,Standard Bank,10,No,2015-08-13,2017-06-03,Officer Smith,SA-ST-806
+301,Tendai,Zulu,Tendai Zulu,29,Female,South Africa,Gauteng,6208154544067,SA-CAS-123860,Armed Robbery,491,2563016,Critical,Closed,Standard Bank,0,Yes,2025-10-02,2017-11-22,Officer Naidoo,SA-ST-367
+302,Thabo,Zulu,Thabo Zulu,30,Female,South Africa,Limpopo,6907067367179,SA-CAS-189420,Drug Trafficking,377,676258,Critical,Under Investigation,Capitec,7,Yes,2017-04-18,2017-11-28,Officer Mabena,SA-ST-648
+303,Mpho,Mthembu,Mpho Mthembu,64,Female,South Africa,North West,6611258743152,SA-CAS-804168,Fraud,528,3325912,Low,Under Investigation,Absa,2,No,2019-10-06,2018-02-16,Officer Moyo,SA-ST-419
+304,Ayanda,Mthembu,Ayanda Mthembu,26,Male,South Africa,Eastern Cape,9710183185075,SA-CAS-366751,Money Laundering,320,3298759,High,Closed,Standard Bank,1,No,2019-01-19,2023-03-02,Officer Moyo,SA-ST-288
+305,Mpho,Khumalo,Mpho Khumalo,24,Female,South Africa,Free State,7911186951043,SA-CAS-177678,Money Laundering,742,2308767,Medium,Convicted,FNB,3,No,2021-08-15,2022-06-30,Officer Smith,SA-ST-841
+306,Ayanda,Pillay,Ayanda Pillay,30,Female,South Africa,North West,7902118691083,SA-CAS-326754,Drug Trafficking,663,4615927,Low,Convicted,FNB,4,No,2025-10-01,2020-11-14,Officer Mabena,SA-ST-652
+307,Thabo,Zulu,Thabo Zulu,49,Female,South Africa,Eastern Cape,6910125173071,SA-CAS-544660,Vehicle Theft,674,4842539,Critical,Convicted,Nedbank,4,No,2023-09-06,2017-05-29,Officer Moyo,SA-ST-323
+308,Naledi,Mokoena,Naledi Mokoena,23,Male,South Africa,Western Cape,7302154630059,SA-CAS-659462,Vehicle Theft,530,475534,Medium,Court Pending,FNB,2,Yes,2016-08-30,2025-09-11,Officer Mabena,SA-ST-328
+309,Nomsa,Mthembu,Nomsa Mthembu,54,Female,South Africa,Free State,6407153361115,SA-CAS-418950,Cybercrime,690,3466405,Low,Closed,Absa,9,No,2018-06-03,2025-04-16,Officer Smith,SA-ST-540
+310,Nomsa,Dlamini,Nomsa Dlamini,48,Male,South Africa,Mpumalanga,0108234556163,SA-CAS-949336,Vehicle Theft,708,3324038,High,Convicted,FNB,7,Yes,2017-05-06,2019-02-25,Officer Nkosi,SA-ST-481
+311,Sipho,Khumalo,Sipho Khumalo,63,Male,South Africa,Mpumalanga,9504131675016,SA-CAS-643187,Cybercrime,628,1993249,Critical,Convicted,Nedbank,1,Yes,2015-08-12,2016-12-02,Officer Nkosi,SA-ST-289
+312,Mpho,Nkosi,Mpho Nkosi,18,Female,South Africa,Gauteng,8602177976111,SA-CAS-730480,Vehicle Theft,339,2005617,Low,Closed,Absa,10,Yes,2017-05-14,2015-05-17,Officer Moyo,SA-ST-702
+313,Mpho,Mabaso,Mpho Mabaso,54,Male,South Africa,Northern Cape,9908277659091,SA-CAS-367791,Identity Theft,616,3524147,Critical,Open,Capitec,6,No,2025-12-06,2019-04-14,Officer Smith,SA-ST-900
+314,Zanele,Naidoo,Zanele Naidoo,40,Female,South Africa,North West,8307127198074,SA-CAS-397439,Identity Theft,735,4576158,Critical,Closed,African Bank,8,Yes,2024-07-29,2017-05-19,Officer Mabena,SA-ST-192
+315,Brian,Zulu,Brian Zulu,35,Female,South Africa,Limpopo,6005146016027,SA-CAS-883999,Drug Trafficking,533,3334181,Critical,Closed,FNB,3,No,2025-05-31,2023-06-19,Officer Naidoo,SA-ST-128
+316,Nomsa,Dlamini,Nomsa Dlamini,33,Male,South Africa,Gauteng,0503237547025,SA-CAS-457703,Identity Theft,769,49092,Medium,Open,African Bank,10,Yes,2015-12-20,2024-10-24,Officer Nkosi,SA-ST-677
+317,Sipho,Pillay,Sipho Pillay,23,Female,South Africa,KwaZulu-Natal,8309113591071,SA-CAS-769861,Drug Trafficking,594,2530172,Medium,Under Investigation,Nedbank,6,Yes,2023-06-30,2018-01-18,Officer Smith,SA-ST-287
+318,Lerato,Nkosi,Lerato Nkosi,25,Male,South Africa,Mpumalanga,0501198531170,SA-CAS-817835,Cybercrime,452,1041295,Critical,Convicted,African Bank,8,No,2024-12-20,2016-12-06,Officer Naidoo,SA-ST-634
+319,Naledi,Mabaso,Naledi Mabaso,56,Female,South Africa,Mpumalanga,6110261279145,SA-CAS-604462,Vehicle Theft,780,4254657,High,Court Pending,Nedbank,2,No,2015-07-01,2017-05-27,Officer Smith,SA-ST-256
+320,Tendai,Pillay,Tendai Pillay,54,Male,South Africa,Gauteng,6105083515135,SA-CAS-549783,Drug Trafficking,428,2420107,High,Closed,Capitec,4,No,2024-11-12,2019-11-16,Officer Smith,SA-ST-100
+321,Nomsa,Khumalo,Nomsa Khumalo,43,Male,South Africa,KwaZulu-Natal,9706083409021,SA-CAS-346297,Identity Theft,671,716481,High,Court Pending,Capitec,5,Yes,2016-09-09,2018-01-17,Officer Moyo,SA-ST-622
+322,Nomsa,Khumalo,Nomsa Khumalo,32,Male,South Africa,Limpopo,7312038843150,SA-CAS-490191,Identity Theft,693,4561808,Critical,Under Investigation,Standard Bank,1,No,2019-09-19,2017-03-19,Officer Naidoo,SA-ST-108
+323,Sipho,Dlamini,Sipho Dlamini,61,Female,South Africa,Western Cape,7110212533199,SA-CAS-526097,Identity Theft,574,2810338,High,Open,Standard Bank,6,No,2016-06-07,2019-04-10,Officer Smith,SA-ST-563
+324,Nomsa,Dlamini,Nomsa Dlamini,33,Male,South Africa,KwaZulu-Natal,7212064232068,SA-CAS-891956,Cybercrime,459,3453311,High,Open,African Bank,4,No,2019-07-19,2020-08-05,Officer Naidoo,SA-ST-972
+325,Naledi,Mthembu,Naledi Mthembu,19,Female,South Africa,Western Cape,7912019466166,SA-CAS-490487,Vehicle Theft,421,770775,High,Convicted,African Bank,7,Yes,2016-03-23,2023-07-31,Officer Naidoo,SA-ST-398
+326,Zanele,Ndlovu,Zanele Ndlovu,42,Male,South Africa,Western Cape,8203104751064,SA-CAS-358377,Money Laundering,723,3596622,High,Under Investigation,FNB,7,No,2018-09-22,2024-02-18,Officer Nkosi,SA-ST-713
+327,Mpho,Naidoo,Mpho Naidoo,51,Female,South Africa,Free State,7907185213178,SA-CAS-778006,Corruption,463,4992132,Medium,Under Investigation,FNB,3,No,2019-01-05,2021-09-17,Officer Moyo,SA-ST-311
+328,Brian,Zulu,Brian Zulu,26,Male,South Africa,Mpumalanga,9203103017044,SA-CAS-682877,Money Laundering,543,263436,Low,Closed,Absa,9,No,2018-02-06,2020-05-17,Officer Moyo,SA-ST-305
+329,Brian,Nkosi,Brian Nkosi,63,Male,South Africa,Free State,7803111786143,SA-CAS-783447,Cybercrime,428,886558,High,Open,Nedbank,8,No,2015-08-14,2025-07-19,Officer Nkosi,SA-ST-448
+330,Nomsa,Ndlovu,Nomsa Ndlovu,53,Male,South Africa,North West,6611051147151,SA-CAS-677612,Money Laundering,638,1382166,Low,Under Investigation,African Bank,0,Yes,2021-05-05,2019-11-02,Officer Mabena,SA-ST-401
+331,Lerato,Mthembu,Lerato Mthembu,58,Male,South Africa,Free State,9506164869184,SA-CAS-942127,Armed Robbery,602,2363113,Critical,Court Pending,FNB,2,No,2020-01-07,2022-06-15,Officer Mabena,SA-ST-626
+332,Mpho,Mthembu,Mpho Mthembu,30,Female,South Africa,KwaZulu-Natal,9305113234072,SA-CAS-922246,Cybercrime,467,4455330,Critical,Convicted,Standard Bank,4,Yes,2019-10-17,2015-06-04,Officer Smith,SA-ST-173
+333,Brian,Naidoo,Brian Naidoo,65,Female,South Africa,Eastern Cape,7701101308110,SA-CAS-564313,Armed Robbery,829,4043365,High,Court Pending,Absa,10,Yes,2023-02-18,2021-07-20,Officer Smith,SA-ST-899
+334,Naledi,Pillay,Naledi Pillay,36,Female,South Africa,Limpopo,7002161605149,SA-CAS-358285,Corruption,654,3654410,Low,Closed,Absa,0,Yes,2019-05-12,2018-02-21,Officer Moyo,SA-ST-839
+335,Lerato,Nkosi,Lerato Nkosi,59,Male,South Africa,Eastern Cape,9801058449056,SA-CAS-485992,Money Laundering,539,3551671,Critical,Under Investigation,African Bank,7,Yes,2017-04-20,2023-07-02,Officer Nkosi,SA-ST-510
+336,Nomsa,Pillay,Nomsa Pillay,65,Female,South Africa,KwaZulu-Natal,7111105284032,SA-CAS-276270,Identity Theft,322,4322613,Low,Convicted,Nedbank,2,No,2025-02-13,2020-07-09,Officer Smith,SA-ST-286
+337,Mpho,Nkosi,Mpho Nkosi,58,Female,South Africa,Mpumalanga,9404263579199,SA-CAS-642475,Identity Theft,482,3298431,High,Under Investigation,Capitec,10,No,2015-06-18,2023-04-01,Officer Moyo,SA-ST-319
+338,Tendai,Mabaso,Tendai Mabaso,58,Female,South Africa,North West,8511169994140,SA-CAS-891114,Identity Theft,766,2715544,High,Closed,Capitec,8,No,2022-05-02,2022-12-10,Officer Moyo,SA-ST-431
+339,Naledi,Zulu,Naledi Zulu,61,Male,South Africa,North West,0010252484015,SA-CAS-612197,Drug Trafficking,542,4072838,Critical,Open,African Bank,2,No,2017-03-06,2015-03-18,Officer Smith,SA-ST-893
+340,Brian,Zulu,Brian Zulu,28,Female,South Africa,North West,0309047448133,SA-CAS-495883,Cybercrime,648,3919441,Medium,Court Pending,Standard Bank,4,No,2019-05-23,2022-04-03,Officer Mabena,SA-ST-193
+341,Zanele,Khumalo,Zanele Khumalo,30,Female,South Africa,Free State,9205088938155,SA-CAS-857212,Corruption,559,1148174,High,Court Pending,Standard Bank,7,Yes,2017-01-02,2024-03-19,Officer Moyo,SA-ST-920
+342,Brian,Ndlovu,Brian Ndlovu,44,Male,South Africa,Limpopo,0012045011138,SA-CAS-979085,Cybercrime,370,2727644,Medium,Under Investigation,Capitec,0,Yes,2022-12-22,2018-06-25,Officer Moyo,SA-ST-845
+343,Lerato,Naidoo,Lerato Naidoo,41,Female,South Africa,Northern Cape,0306204711195,SA-CAS-774608,Vehicle Theft,301,1943488,Critical,Open,African Bank,5,Yes,2020-05-17,2016-01-24,Officer Nkosi,SA-ST-445
+344,Naledi,Khumalo,Naledi Khumalo,24,Female,South Africa,North West,8407199063123,SA-CAS-632537,Fraud,481,4985815,Critical,Closed,African Bank,10,Yes,2023-08-04,2020-06-24,Officer Smith,SA-ST-833
+345,Tendai,Pillay,Tendai Pillay,59,Male,South Africa,Gauteng,9309123172057,SA-CAS-887878,Armed Robbery,677,2647064,Medium,Under Investigation,Capitec,5,No,2022-10-31,2021-01-22,Officer Naidoo,SA-ST-662
+346,Brian,Mthembu,Brian Mthembu,38,Female,South Africa,Gauteng,7803098092031,SA-CAS-281835,Money Laundering,549,3728477,Medium,Closed,Standard Bank,0,Yes,2017-05-22,2016-10-13,Officer Moyo,SA-ST-981
+347,Thabo,Ndlovu,Thabo Ndlovu,53,Male,South Africa,Limpopo,8212171554136,SA-CAS-511493,Money Laundering,344,3299614,Medium,Convicted,Standard Bank,5,No,2017-03-21,2018-07-31,Officer Nkosi,SA-ST-236
+348,Brian,Pillay,Brian Pillay,55,Male,South Africa,Eastern Cape,9110289998122,SA-CAS-107874,Armed Robbery,702,3567867,Critical,Court Pending,African Bank,2,No,2024-11-17,2022-12-13,Officer Moyo,SA-ST-963
+349,Brian,Nkosi,Brian Nkosi,51,Female,South Africa,Northern Cape,8005083611013,SA-CAS-253753,Cybercrime,719,3616284,Critical,Closed,Capitec,2,Yes,2022-11-12,2021-03-14,Officer Nkosi,SA-ST-445
+350,Brian,Zulu,Brian Zulu,49,Female,South Africa,Northern Cape,0203032566052,SA-CAS-325530,Corruption,672,3239039,Medium,Open,Capitec,6,No,2020-07-29,2021-08-23,Officer Smith,SA-ST-856
+351,Brian,Pillay,Brian Pillay,44,Male,South Africa,Mpumalanga,9101012602155,SA-CAS-318406,Fraud,648,4345983,High,Convicted,Absa,10,Yes,2016-05-13,2022-12-15,Officer Moyo,SA-ST-714
+352,Tendai,Mthembu,Tendai Mthembu,23,Male,South Africa,Western Cape,8207244566119,SA-CAS-185700,Money Laundering,442,960819,Low,Convicted,Capitec,3,No,2019-10-09,2019-05-15,Officer Nkosi,SA-ST-673
+353,Mpho,Nkosi,Mpho Nkosi,48,Female,South Africa,Eastern Cape,6005153874132,SA-CAS-529479,Cybercrime,424,3435762,Critical,Court Pending,Absa,8,Yes,2019-03-03,2015-05-23,Officer Smith,SA-ST-994
+354,Naledi,Nkosi,Naledi Nkosi,27,Female,South Africa,Western Cape,6412108971147,SA-CAS-174615,Identity Theft,705,213243,High,Court Pending,Standard Bank,2,No,2023-01-20,2023-09-26,Officer Naidoo,SA-ST-707
+355,Ayanda,Dlamini,Ayanda Dlamini,18,Male,South Africa,Gauteng,7001231716033,SA-CAS-470626,Drug Trafficking,595,166102,Critical,Court Pending,African Bank,7,No,2025-05-08,2023-08-24,Officer Nkosi,SA-ST-474
+356,Tendai,Dlamini,Tendai Dlamini,26,Female,South Africa,Western Cape,0403231702027,SA-CAS-159093,Armed Robbery,393,2181337,Low,Open,Standard Bank,0,No,2015-08-18,2017-05-21,Officer Smith,SA-ST-720
+357,Brian,Ndlovu,Brian Ndlovu,47,Female,South Africa,Gauteng,6005138447150,SA-CAS-405156,Armed Robbery,836,4798220,Medium,Closed,African Bank,2,Yes,2024-06-19,2020-07-23,Officer Nkosi,SA-ST-889
+358,Brian,Nkosi,Brian Nkosi,20,Female,South Africa,Northern Cape,6812033956029,SA-CAS-597974,Money Laundering,818,1807515,Low,Court Pending,Absa,10,No,2024-09-07,2019-05-09,Officer Naidoo,SA-ST-101
+359,Brian,Pillay,Brian Pillay,65,Male,South Africa,KwaZulu-Natal,6411044793181,SA-CAS-687788,Money Laundering,312,4942681,Low,Court Pending,Absa,8,Yes,2024-06-13,2019-02-24,Officer Smith,SA-ST-871
+360,Sipho,Zulu,Sipho Zulu,20,Male,South Africa,Free State,8009242231181,SA-CAS-872797,Corruption,457,4684689,Medium,Closed,Standard Bank,7,Yes,2023-06-20,2018-09-09,Officer Moyo,SA-ST-683
+361,Sipho,Mabaso,Sipho Mabaso,20,Male,South Africa,Eastern Cape,6608254390053,SA-CAS-154829,Corruption,426,3346942,Medium,Under Investigation,FNB,8,Yes,2022-06-18,2017-03-09,Officer Naidoo,SA-ST-874
+362,Thabo,Mabaso,Thabo Mabaso,45,Male,South Africa,KwaZulu-Natal,8111283544184,SA-CAS-885712,Money Laundering,423,20575,Critical,Court Pending,African Bank,3,Yes,2019-06-25,2024-10-02,Officer Moyo,SA-ST-724
+363,Lerato,Mthembu,Lerato Mthembu,49,Female,South Africa,Northern Cape,6410124579170,SA-CAS-668404,Armed Robbery,528,446245,Critical,Under Investigation,FNB,7,No,2024-12-15,2024-12-31,Officer Mabena,SA-ST-268
+364,Sipho,Naidoo,Sipho Naidoo,23,Male,South Africa,Eastern Cape,7002101302159,SA-CAS-201656,Cybercrime,465,2298502,Critical,Court Pending,African Bank,10,No,2021-11-26,2020-06-29,Officer Moyo,SA-ST-465
+365,Sipho,Pillay,Sipho Pillay,36,Female,South Africa,Free State,9611184783077,SA-CAS-907105,Drug Trafficking,845,1386614,Medium,Under Investigation,Capitec,0,No,2021-03-11,2024-04-23,Officer Moyo,SA-ST-452
+366,Mpho,Naidoo,Mpho Naidoo,34,Female,South Africa,North West,8411174161113,SA-CAS-633494,Cybercrime,624,2826951,High,Convicted,Absa,3,No,2021-10-25,2018-01-05,Officer Moyo,SA-ST-324
+367,Tendai,Nkosi,Tendai Nkosi,59,Female,South Africa,North West,8111118408192,SA-CAS-472871,Drug Trafficking,675,4759391,Low,Convicted,Capitec,9,No,2020-03-29,2018-05-30,Officer Moyo,SA-ST-894
+368,Sipho,Mokoena,Sipho Mokoena,50,Male,South Africa,Eastern Cape,0305281850192,SA-CAS-714116,Cybercrime,840,4202555,High,Closed,Absa,2,Yes,2020-05-17,2021-08-30,Officer Naidoo,SA-ST-594
+369,Naledi,Pillay,Naledi Pillay,51,Female,South Africa,Mpumalanga,6201107488037,SA-CAS-589541,Vehicle Theft,408,3403880,Low,Under Investigation,Standard Bank,8,No,2022-02-17,2015-07-15,Officer Moyo,SA-ST-708
+370,Naledi,Mthembu,Naledi Mthembu,52,Male,South Africa,Northern Cape,6801095729085,SA-CAS-112232,Money Laundering,780,3700264,Critical,Open,Capitec,9,No,2017-08-28,2016-08-03,Officer Nkosi,SA-ST-842
+371,Brian,Dlamini,Brian Dlamini,58,Female,South Africa,North West,6211101788088,SA-CAS-415204,Fraud,496,3356967,Medium,Closed,FNB,4,Yes,2019-11-11,2015-12-29,Officer Mabena,SA-ST-919
+372,Brian,Nkosi,Brian Nkosi,53,Female,South Africa,Gauteng,7807243428141,SA-CAS-356310,Money Laundering,690,2301776,Medium,Convicted,Standard Bank,7,Yes,2022-02-14,2018-04-06,Officer Moyo,SA-ST-513
+373,Ayanda,Naidoo,Ayanda Naidoo,36,Male,South Africa,Limpopo,8903196187099,SA-CAS-176242,Identity Theft,845,3554492,High,Court Pending,Absa,8,Yes,2021-08-19,2020-11-29,Officer Moyo,SA-ST-926
+374,Zanele,Ndlovu,Zanele Ndlovu,46,Male,South Africa,North West,6611232112179,SA-CAS-593569,Cybercrime,387,1622875,Medium,Closed,FNB,8,Yes,2021-12-03,2023-04-22,Officer Naidoo,SA-ST-580
+375,Ayanda,Mokoena,Ayanda Mokoena,49,Female,South Africa,Eastern Cape,8709174752138,SA-CAS-211242,Drug Trafficking,347,4740638,Low,Convicted,African Bank,9,No,2020-12-27,2019-09-21,Officer Naidoo,SA-ST-212
+376,Sipho,Mthembu,Sipho Mthembu,55,Female,South Africa,Free State,8707093194143,SA-CAS-273980,Identity Theft,342,4041209,Critical,Convicted,Standard Bank,5,No,2025-04-02,2025-01-08,Officer Moyo,SA-ST-680
+377,Zanele,Khumalo,Zanele Khumalo,50,Male,South Africa,Eastern Cape,9710135109195,SA-CAS-281482,Fraud,609,1809487,Low,Court Pending,Standard Bank,4,No,2021-04-11,2024-02-06,Officer Naidoo,SA-ST-627
+378,Nomsa,Dlamini,Nomsa Dlamini,49,Female,South Africa,Gauteng,9604183081020,SA-CAS-582322,Money Laundering,515,2687645,High,Under Investigation,Standard Bank,9,No,2024-03-24,2020-11-23,Officer Nkosi,SA-ST-795
+379,Zanele,Pillay,Zanele Pillay,41,Female,South Africa,Gauteng,6506269102197,SA-CAS-105799,Vehicle Theft,730,2977852,Critical,Closed,FNB,9,Yes,2018-05-12,2023-05-25,Officer Naidoo,SA-ST-969
+380,Ayanda,Naidoo,Ayanda Naidoo,42,Female,South Africa,Eastern Cape,7607038523083,SA-CAS-734401,Drug Trafficking,429,4671359,Low,Court Pending,African Bank,9,No,2016-03-20,2015-04-06,Officer Naidoo,SA-ST-407
+381,Zanele,Ndlovu,Zanele Ndlovu,61,Male,South Africa,Limpopo,8609095538097,SA-CAS-672459,Fraud,505,2153640,Medium,Under Investigation,Absa,2,No,2017-09-18,2025-01-15,Officer Naidoo,SA-ST-390
+382,Ayanda,Ndlovu,Ayanda Ndlovu,61,Male,South Africa,Limpopo,9309082645142,SA-CAS-855514,Armed Robbery,847,2901769,Critical,Under Investigation,Absa,1,Yes,2018-04-10,2019-08-21,Officer Naidoo,SA-ST-385
+383,Thabo,Nkosi,Thabo Nkosi,47,Female,South Africa,KwaZulu-Natal,7812129132170,SA-CAS-483051,Money Laundering,787,3890009,Critical,Under Investigation,Capitec,2,No,2018-01-14,2024-04-15,Officer Smith,SA-ST-907
+384,Thabo,Nkosi,Thabo Nkosi,54,Female,South Africa,Northern Cape,6404225757195,SA-CAS-191766,Cybercrime,641,1101154,Critical,Court Pending,Absa,8,No,2021-07-01,2019-03-10,Officer Mabena,SA-ST-964
+385,Zanele,Ndlovu,Zanele Ndlovu,54,Female,South Africa,Northern Cape,0212178539074,SA-CAS-665835,Corruption,604,1189035,High,Court Pending,FNB,6,No,2017-10-15,2017-08-13,Officer Smith,SA-ST-473
+386,Naledi,Dlamini,Naledi Dlamini,22,Male,South Africa,Gauteng,6308246776025,SA-CAS-116934,Armed Robbery,628,4586753,Medium,Open,Capitec,7,No,2019-09-27,2021-10-11,Officer Naidoo,SA-ST-208
+387,Naledi,Naidoo,Naledi Naidoo,40,Female,South Africa,Limpopo,7409141935160,SA-CAS-486755,Cybercrime,791,2167184,Medium,Convicted,Absa,0,Yes,2019-12-02,2016-02-04,Officer Moyo,SA-ST-382
+388,Brian,Pillay,Brian Pillay,64,Female,South Africa,Eastern Cape,7301021419130,SA-CAS-196784,Money Laundering,577,3790667,Critical,Open,Standard Bank,3,No,2018-04-08,2022-11-30,Officer Moyo,SA-ST-727
+389,Nomsa,Mabaso,Nomsa Mabaso,34,Female,South Africa,Eastern Cape,8106042611177,SA-CAS-311726,Identity Theft,844,2894544,Low,Convicted,Nedbank,9,Yes,2017-11-27,2016-05-20,Officer Naidoo,SA-ST-401
+390,Sipho,Nkosi,Sipho Nkosi,47,Female,South Africa,Northern Cape,0001112258082,SA-CAS-852007,Armed Robbery,555,423978,High,Convicted,Absa,7,No,2017-06-13,2021-09-21,Officer Moyo,SA-ST-880
+391,Ayanda,Naidoo,Ayanda Naidoo,49,Female,South Africa,Northern Cape,9206113648092,SA-CAS-872573,Armed Robbery,404,4919871,Critical,Under Investigation,Capitec,2,Yes,2023-01-16,2025-04-11,Officer Smith,SA-ST-365
+392,Lerato,Ndlovu,Lerato Ndlovu,20,Male,South Africa,Mpumalanga,6208117926187,SA-CAS-778511,Money Laundering,371,3767854,Medium,Under Investigation,Nedbank,5,Yes,2022-10-06,2016-11-03,Officer Moyo,SA-ST-121
+393,Brian,Naidoo,Brian Naidoo,57,Male,South Africa,Eastern Cape,8702166684153,SA-CAS-230929,Money Laundering,352,3116069,Medium,Court Pending,African Bank,0,No,2016-07-05,2022-11-22,Officer Naidoo,SA-ST-786
+394,Sipho,Naidoo,Sipho Naidoo,51,Female,South Africa,Free State,9010024896125,SA-CAS-194423,Drug Trafficking,817,811370,Critical,Closed,Absa,7,No,2016-10-26,2017-11-23,Officer Smith,SA-ST-898
+395,Zanele,Dlamini,Zanele Dlamini,44,Male,South Africa,Limpopo,7601099430090,SA-CAS-482570,Armed Robbery,315,896342,High,Court Pending,Capitec,9,No,2018-08-04,2022-12-31,Officer Smith,SA-ST-988
+396,Ayanda,Naidoo,Ayanda Naidoo,57,Male,South Africa,KwaZulu-Natal,0307168109086,SA-CAS-227042,Money Laundering,646,430314,High,Under Investigation,Capitec,0,Yes,2015-12-14,2023-04-20,Officer Nkosi,SA-ST-311
+397,Naledi,Dlamini,Naledi Dlamini,58,Female,South Africa,Western Cape,0206053667012,SA-CAS-195795,Cybercrime,309,4291409,Low,Open,Nedbank,0,Yes,2024-10-25,2020-10-18,Officer Naidoo,SA-ST-917
+398,Mpho,Pillay,Mpho Pillay,25,Male,South Africa,Mpumalanga,0005172387041,SA-CAS-437974,Money Laundering,519,476484,Low,Open,Absa,5,No,2017-08-02,2015-04-26,Officer Naidoo,SA-ST-173
+399,Sipho,Dlamini,Sipho Dlamini,52,Female,South Africa,Eastern Cape,7205158458199,SA-CAS-308039,Vehicle Theft,680,365028,Critical,Court Pending,FNB,10,Yes,2020-10-12,2024-11-15,Officer Naidoo,SA-ST-756
+400,Tendai,Zulu,Tendai Zulu,30,Male,South Africa,Mpumalanga,8608077152063,SA-CAS-450424,Drug Trafficking,709,1732904,Low,Court Pending,Standard Bank,5,No,2019-01-14,2025-02-22,Officer Smith,SA-ST-595
+401,Naledi,Khumalo,Naledi Khumalo,20,Male,South Africa,Northern Cape,7901206593173,SA-CAS-908490,Armed Robbery,346,2830138,Critical,Court Pending,Standard Bank,1,No,2019-09-10,2023-01-12,Officer Mabena,SA-ST-193
+402,Naledi,Ndlovu,Naledi Ndlovu,62,Male,South Africa,Western Cape,9203155291113,SA-CAS-534870,Armed Robbery,433,1148290,Critical,Open,Nedbank,3,Yes,2016-12-04,2019-12-21,Officer Naidoo,SA-ST-798
+403,Ayanda,Mabaso,Ayanda Mabaso,45,Female,South Africa,Gauteng,9502087127068,SA-CAS-233959,Vehicle Theft,411,2048055,Critical,Court Pending,Standard Bank,2,No,2021-04-07,2020-03-28,Officer Smith,SA-ST-624
+404,Ayanda,Zulu,Ayanda Zulu,57,Male,South Africa,Mpumalanga,8703018007167,SA-CAS-481963,Fraud,389,3570640,Critical,Under Investigation,FNB,4,Yes,2022-04-28,2015-07-06,Officer Smith,SA-ST-269
+405,Zanele,Nkosi,Zanele Nkosi,50,Male,South Africa,Limpopo,8509261651196,SA-CAS-866582,Cybercrime,662,1964494,High,Under Investigation,Nedbank,10,Yes,2020-11-24,2015-01-27,Officer Mabena,SA-ST-125
+406,Ayanda,Dlamini,Ayanda Dlamini,48,Male,South Africa,Western Cape,9005061707154,SA-CAS-607120,Cybercrime,849,3345619,Medium,Closed,African Bank,1,Yes,2021-10-12,2016-11-06,Officer Smith,SA-ST-850
+407,Naledi,Mthembu,Naledi Mthembu,32,Male,South Africa,Limpopo,0512102981076,SA-CAS-612794,Cybercrime,663,2996744,Critical,Convicted,Nedbank,6,No,2025-02-12,2021-11-13,Officer Mabena,SA-ST-767
+408,Thabo,Mthembu,Thabo Mthembu,20,Female,South Africa,Gauteng,9709074073074,SA-CAS-845531,Cybercrime,640,1269785,Low,Convicted,Capitec,1,Yes,2025-08-13,2024-08-18,Officer Mabena,SA-ST-873
+409,Lerato,Khumalo,Lerato Khumalo,46,Female,South Africa,Free State,7107209481018,SA-CAS-715520,Money Laundering,490,4730145,Critical,Closed,FNB,0,No,2021-11-13,2024-08-26,Officer Mabena,SA-ST-507
+410,Lerato,Pillay,Lerato Pillay,47,Male,South Africa,Eastern Cape,9107263240153,SA-CAS-478488,Identity Theft,786,4091119,High,Under Investigation,Absa,8,No,2020-10-05,2025-08-28,Officer Mabena,SA-ST-610
+411,Zanele,Dlamini,Zanele Dlamini,49,Male,South Africa,Northern Cape,8201196032065,SA-CAS-107431,Fraud,559,4133298,Medium,Closed,FNB,9,No,2021-10-23,2022-08-20,Officer Nkosi,SA-ST-102
+412,Lerato,Zulu,Lerato Zulu,24,Male,South Africa,Limpopo,8811155762086,SA-CAS-999146,Armed Robbery,457,2016669,High,Under Investigation,Nedbank,5,No,2025-03-04,2015-08-19,Officer Nkosi,SA-ST-175
+413,Zanele,Nkosi,Zanele Nkosi,43,Female,South Africa,Eastern Cape,8402032745079,SA-CAS-920520,Fraud,307,4078247,High,Closed,African Bank,5,No,2019-03-16,2017-11-20,Officer Moyo,SA-ST-591
+414,Tendai,Dlamini,Tendai Dlamini,30,Female,South Africa,KwaZulu-Natal,6102143437023,SA-CAS-955629,Fraud,730,3427017,High,Convicted,FNB,8,No,2025-04-14,2018-09-16,Officer Nkosi,SA-ST-684
+415,Brian,Khumalo,Brian Khumalo,49,Female,South Africa,Western Cape,9405049790142,SA-CAS-665871,Vehicle Theft,791,3366609,Low,Closed,FNB,5,No,2019-01-05,2024-04-18,Officer Mabena,SA-ST-922
+416,Tendai,Dlamini,Tendai Dlamini,22,Male,South Africa,Eastern Cape,8707282587023,SA-CAS-296545,Fraud,598,4384138,Critical,Court Pending,African Bank,8,Yes,2020-10-16,2021-10-07,Officer Nkosi,SA-ST-377
+417,Mpho,Nkosi,Mpho Nkosi,45,Female,South Africa,North West,9208145208082,SA-CAS-807273,Vehicle Theft,773,4026924,Critical,Convicted,Nedbank,4,No,2024-09-03,2024-08-26,Officer Mabena,SA-ST-835
+418,Naledi,Ndlovu,Naledi Ndlovu,26,Male,South Africa,Northern Cape,7803023393115,SA-CAS-454104,Drug Trafficking,379,3423554,Low,Open,African Bank,0,No,2022-04-09,2018-03-07,Officer Smith,SA-ST-547
+419,Zanele,Mabaso,Zanele Mabaso,62,Male,South Africa,Gauteng,9012035956080,SA-CAS-623014,Fraud,349,2524382,Critical,Closed,FNB,8,Yes,2015-12-13,2017-08-06,Officer Moyo,SA-ST-183
+420,Ayanda,Dlamini,Ayanda Dlamini,65,Female,South Africa,KwaZulu-Natal,8507247006017,SA-CAS-681249,Identity Theft,694,3003069,Medium,Court Pending,Nedbank,3,Yes,2023-11-27,2023-02-01,Officer Smith,SA-ST-636
+421,Mpho,Dlamini,Mpho Dlamini,60,Female,South Africa,Eastern Cape,6207092900186,SA-CAS-276495,Armed Robbery,493,4141797,Critical,Closed,Absa,5,Yes,2025-03-22,2015-10-20,Officer Smith,SA-ST-933
+422,Thabo,Nkosi,Thabo Nkosi,38,Male,South Africa,Western Cape,6803159917018,SA-CAS-735405,Money Laundering,386,3751465,High,Under Investigation,Absa,1,Yes,2018-08-26,2022-10-03,Officer Smith,SA-ST-661
+423,Ayanda,Zulu,Ayanda Zulu,20,Male,South Africa,Free State,0007085637110,SA-CAS-473314,Armed Robbery,384,412575,High,Convicted,Absa,6,No,2024-07-15,2018-06-02,Officer Moyo,SA-ST-745
+424,Mpho,Khumalo,Mpho Khumalo,18,Male,South Africa,Free State,8312178598179,SA-CAS-812484,Identity Theft,510,4668124,High,Court Pending,Nedbank,6,Yes,2015-06-18,2023-07-07,Officer Naidoo,SA-ST-503
+425,Tendai,Khumalo,Tendai Khumalo,56,Male,South Africa,Limpopo,7703225146125,SA-CAS-159509,Armed Robbery,405,2748709,High,Court Pending,Absa,6,No,2023-04-26,2016-06-08,Officer Nkosi,SA-ST-207
+426,Nomsa,Khumalo,Nomsa Khumalo,36,Female,South Africa,Free State,8407243011083,SA-CAS-694779,Fraud,478,3385198,Medium,Convicted,African Bank,1,No,2015-01-07,2024-10-02,Officer Naidoo,SA-ST-281
+427,Mpho,Pillay,Mpho Pillay,53,Female,South Africa,Free State,0212199053085,SA-CAS-948542,Armed Robbery,658,4642779,Medium,Closed,African Bank,4,Yes,2019-12-27,2018-12-22,Officer Nkosi,SA-ST-190
+428,Naledi,Ndlovu,Naledi Ndlovu,46,Male,South Africa,Mpumalanga,7911266119065,SA-CAS-796014,Cybercrime,768,388328,Low,Open,Absa,0,No,2025-11-17,2024-10-15,Officer Nkosi,SA-ST-346
+429,Ayanda,Dlamini,Ayanda Dlamini,29,Male,South Africa,Gauteng,8808168686034,SA-CAS-302527,Armed Robbery,535,2189474,High,Open,African Bank,9,No,2022-03-24,2017-01-02,Officer Naidoo,SA-ST-734
+430,Tendai,Dlamini,Tendai Dlamini,51,Male,South Africa,Mpumalanga,8802125417123,SA-CAS-643132,Identity Theft,604,1716800,Low,Under Investigation,Capitec,0,No,2021-03-31,2024-01-13,Officer Mabena,SA-ST-307
+431,Nomsa,Mthembu,Nomsa Mthembu,35,Female,South Africa,North West,6509132841175,SA-CAS-319945,Identity Theft,306,1515983,Low,Court Pending,Absa,0,No,2019-08-05,2018-04-24,Officer Nkosi,SA-ST-650
+432,Nomsa,Ndlovu,Nomsa Ndlovu,37,Male,South Africa,Limpopo,8408121604178,SA-CAS-438745,Vehicle Theft,464,2651803,High,Court Pending,Capitec,7,Yes,2020-06-03,2016-06-12,Officer Smith,SA-ST-903
+433,Ayanda,Mokoena,Ayanda Mokoena,50,Male,South Africa,KwaZulu-Natal,6005112879164,SA-CAS-294726,Vehicle Theft,413,2955384,Low,Convicted,FNB,2,Yes,2025-02-18,2022-03-13,Officer Moyo,SA-ST-325
+434,Brian,Nkosi,Brian Nkosi,29,Female,South Africa,Limpopo,6703276202123,SA-CAS-860516,Armed Robbery,652,2044781,Medium,Closed,FNB,7,Yes,2022-05-25,2021-12-24,Officer Mabena,SA-ST-440
+435,Tendai,Pillay,Tendai Pillay,37,Female,South Africa,Northern Cape,9503095120120,SA-CAS-924521,Fraud,840,4766936,High,Convicted,Standard Bank,8,No,2016-04-09,2020-05-11,Officer Moyo,SA-ST-628
+436,Naledi,Pillay,Naledi Pillay,20,Female,South Africa,Northern Cape,9808172958163,SA-CAS-104929,Identity Theft,320,100672,High,Open,Absa,0,Yes,2018-01-19,2018-03-24,Officer Smith,SA-ST-317
+437,Nomsa,Mthembu,Nomsa Mthembu,25,Female,South Africa,Eastern Cape,6006178186118,SA-CAS-101778,Vehicle Theft,820,3226141,Low,Open,Capitec,1,Yes,2023-01-27,2019-12-06,Officer Moyo,SA-ST-421
+438,Lerato,Zulu,Lerato Zulu,18,Female,South Africa,North West,8011186548178,SA-CAS-847427,Cybercrime,468,3135606,Critical,Court Pending,Nedbank,1,Yes,2021-06-26,2025-08-09,Officer Mabena,SA-ST-538
+439,Naledi,Mthembu,Naledi Mthembu,36,Female,South Africa,KwaZulu-Natal,0312278418016,SA-CAS-475524,Drug Trafficking,332,1440852,High,Convicted,African Bank,6,Yes,2020-10-11,2022-05-03,Officer Moyo,SA-ST-795
+440,Sipho,Nkosi,Sipho Nkosi,43,Female,South Africa,Mpumalanga,9805259488024,SA-CAS-446904,Corruption,611,1102335,High,Court Pending,Standard Bank,4,Yes,2020-01-30,2016-06-21,Officer Moyo,SA-ST-329
+441,Naledi,Zulu,Naledi Zulu,33,Male,South Africa,Limpopo,9407195691015,SA-CAS-828802,Identity Theft,784,3881697,Low,Open,FNB,1,No,2024-07-17,2025-01-24,Officer Moyo,SA-ST-531
+442,Mpho,Khumalo,Mpho Khumalo,18,Female,South Africa,Free State,6012234573065,SA-CAS-201635,Fraud,459,2422514,Low,Closed,Nedbank,10,Yes,2023-11-22,2021-09-04,Officer Moyo,SA-ST-350
+443,Zanele,Mabaso,Zanele Mabaso,63,Female,South Africa,North West,8111072401060,SA-CAS-109119,Vehicle Theft,584,1930286,Low,Convicted,Standard Bank,5,Yes,2024-07-19,2022-06-01,Officer Moyo,SA-ST-979
+444,Naledi,Naidoo,Naledi Naidoo,61,Male,South Africa,Gauteng,8311113521143,SA-CAS-410523,Corruption,816,3380830,Low,Convicted,Absa,1,No,2015-01-30,2015-12-11,Officer Mabena,SA-ST-361
+445,Sipho,Mokoena,Sipho Mokoena,35,Male,South Africa,Limpopo,8210071921018,SA-CAS-937349,Armed Robbery,797,1833285,Medium,Court Pending,Standard Bank,10,No,2021-01-27,2018-11-25,Officer Moyo,SA-ST-978
+446,Ayanda,Ndlovu,Ayanda Ndlovu,24,Female,South Africa,Free State,0105209767012,SA-CAS-898082,Corruption,612,4968540,Medium,Convicted,Capitec,5,Yes,2018-08-21,2017-07-25,Officer Naidoo,SA-ST-467
+447,Sipho,Nkosi,Sipho Nkosi,27,Male,South Africa,Limpopo,7401094699127,SA-CAS-805243,Armed Robbery,349,4656754,Medium,Under Investigation,Absa,8,No,2024-03-09,2017-07-10,Officer Moyo,SA-ST-130
+448,Nomsa,Mabaso,Nomsa Mabaso,53,Female,South Africa,KwaZulu-Natal,8902035778160,SA-CAS-829116,Identity Theft,428,4736623,Low,Open,FNB,2,Yes,2020-07-12,2020-06-24,Officer Mabena,SA-ST-227
+449,Thabo,Naidoo,Thabo Naidoo,64,Female,South Africa,North West,9903225162050,SA-CAS-721505,Identity Theft,491,624815,Low,Closed,Standard Bank,1,No,2025-06-08,2018-08-26,Officer Smith,SA-ST-898
+450,Brian,Dlamini,Brian Dlamini,46,Male,South Africa,Eastern Cape,8205129431077,SA-CAS-500078,Armed Robbery,399,2903957,Medium,Court Pending,Standard Bank,8,No,2024-10-14,2018-01-29,Officer Naidoo,SA-ST-579
+451,Mpho,Naidoo,Mpho Naidoo,44,Male,South Africa,Eastern Cape,9707156097182,SA-CAS-578594,Corruption,392,2975743,High,Convicted,FNB,8,Yes,2019-11-09,2015-09-09,Officer Nkosi,SA-ST-948
+452,Ayanda,Naidoo,Ayanda Naidoo,56,Female,South Africa,Free State,8805213759040,SA-CAS-351522,Fraud,735,1551735,Critical,Open,African Bank,10,No,2017-10-16,2023-07-22,Officer Mabena,SA-ST-785
+453,Ayanda,Mabaso,Ayanda Mabaso,19,Female,South Africa,Free State,9512045626193,SA-CAS-623492,Cybercrime,317,1438145,Medium,Closed,Nedbank,9,No,2018-08-18,2024-07-10,Officer Smith,SA-ST-132
+454,Tendai,Mthembu,Tendai Mthembu,21,Female,South Africa,KwaZulu-Natal,9311171265028,SA-CAS-545361,Identity Theft,533,1269711,High,Under Investigation,Standard Bank,6,Yes,2018-08-17,2016-09-03,Officer Mabena,SA-ST-873
+455,Sipho,Naidoo,Sipho Naidoo,50,Male,South Africa,Northern Cape,9206175037149,SA-CAS-835659,Corruption,640,4541772,High,Convicted,Absa,10,No,2015-04-13,2019-05-29,Officer Nkosi,SA-ST-251
+456,Thabo,Dlamini,Thabo Dlamini,39,Female,South Africa,Northern Cape,7209114253191,SA-CAS-264373,Money Laundering,656,519162,Low,Closed,FNB,5,No,2022-11-29,2015-10-19,Officer Naidoo,SA-ST-415
+457,Naledi,Ndlovu,Naledi Ndlovu,46,Female,South Africa,Western Cape,7508078132035,SA-CAS-616064,Vehicle Theft,642,1893295,Critical,Open,Standard Bank,2,Yes,2020-05-08,2021-05-09,Officer Mabena,SA-ST-459
+458,Sipho,Zulu,Sipho Zulu,29,Male,South Africa,Northern Cape,7706148275117,SA-CAS-209547,Cybercrime,613,760254,Low,Court Pending,African Bank,5,Yes,2023-11-20,2025-02-27,Officer Mabena,SA-ST-640
+459,Nomsa,Pillay,Nomsa Pillay,50,Male,South Africa,Gauteng,8104133937087,SA-CAS-164794,Armed Robbery,365,3773482,High,Closed,Standard Bank,9,No,2017-01-09,2022-07-28,Officer Mabena,SA-ST-197
+460,Naledi,Mthembu,Naledi Mthembu,65,Male,South Africa,North West,6508091142096,SA-CAS-329861,Cybercrime,495,4928218,Low,Under Investigation,Standard Bank,5,No,2020-05-26,2024-11-08,Officer Nkosi,SA-ST-786
+461,Mpho,Khumalo,Mpho Khumalo,39,Male,South Africa,Eastern Cape,9301234612029,SA-CAS-323787,Armed Robbery,653,2268936,High,Closed,Nedbank,8,No,2019-05-13,2022-01-05,Officer Moyo,SA-ST-170
+462,Mpho,Mokoena,Mpho Mokoena,51,Male,South Africa,Mpumalanga,0401056210110,SA-CAS-517662,Cybercrime,343,4718950,High,Open,Capitec,0,No,2019-11-03,2018-04-26,Officer Nkosi,SA-ST-837
+463,Nomsa,Zulu,Nomsa Zulu,46,Male,South Africa,Western Cape,0305026521186,SA-CAS-859287,Identity Theft,446,3799484,Critical,Convicted,FNB,7,No,2018-04-03,2025-04-22,Officer Moyo,SA-ST-220
+464,Sipho,Pillay,Sipho Pillay,64,Male,South Africa,Mpumalanga,7701058415119,SA-CAS-771100,Armed Robbery,304,2316570,Critical,Under Investigation,Nedbank,5,No,2025-05-26,2024-05-21,Officer Smith,SA-ST-305
+465,Nomsa,Nkosi,Nomsa Nkosi,37,Male,South Africa,Free State,6311103367060,SA-CAS-345843,Fraud,724,4080438,High,Convicted,FNB,10,Yes,2018-10-09,2023-09-11,Officer Mabena,SA-ST-573
+466,Mpho,Pillay,Mpho Pillay,45,Male,South Africa,Northern Cape,7102253552125,SA-CAS-101861,Fraud,694,900318,High,Open,Nedbank,3,No,2016-12-25,2019-01-29,Officer Nkosi,SA-ST-703
+467,Ayanda,Mabaso,Ayanda Mabaso,61,Male,South Africa,Western Cape,7810085505142,SA-CAS-337616,Corruption,472,4997473,Low,Convicted,African Bank,1,No,2017-12-13,2018-03-14,Officer Moyo,SA-ST-899
+468,Zanele,Dlamini,Zanele Dlamini,24,Male,South Africa,KwaZulu-Natal,9305211875072,SA-CAS-982160,Identity Theft,414,3650705,Low,Convicted,Capitec,4,No,2019-12-14,2017-08-22,Officer Moyo,SA-ST-963
+469,Lerato,Ndlovu,Lerato Ndlovu,56,Female,South Africa,Mpumalanga,8003056998114,SA-CAS-607378,Armed Robbery,773,414978,Critical,Convicted,Absa,2,No,2018-05-11,2019-03-31,Officer Naidoo,SA-ST-581
+470,Sipho,Dlamini,Sipho Dlamini,65,Female,South Africa,KwaZulu-Natal,0209259636133,SA-CAS-801297,Armed Robbery,377,1865243,Low,Under Investigation,African Bank,4,Yes,2024-08-28,2019-02-04,Officer Moyo,SA-ST-622
+471,Brian,Mokoena,Brian Mokoena,30,Female,South Africa,KwaZulu-Natal,6002174377037,SA-CAS-522916,Cybercrime,522,2763433,Low,Convicted,African Bank,9,No,2023-03-24,2015-06-30,Officer Mabena,SA-ST-671
+472,Ayanda,Khumalo,Ayanda Khumalo,36,Male,South Africa,Free State,8603231589030,SA-CAS-796871,Corruption,743,4805050,Critical,Open,Standard Bank,0,Yes,2019-01-07,2018-08-11,Officer Mabena,SA-ST-361
+473,Sipho,Mokoena,Sipho Mokoena,57,Female,South Africa,Free State,6902154840164,SA-CAS-659416,Armed Robbery,754,1261905,High,Convicted,Nedbank,3,No,2021-10-24,2021-08-19,Officer Mabena,SA-ST-897
+474,Lerato,Pillay,Lerato Pillay,21,Female,South Africa,Northern Cape,8211037845097,SA-CAS-271011,Identity Theft,703,2532932,Critical,Open,FNB,9,Yes,2025-05-02,2025-08-21,Officer Moyo,SA-ST-390
+475,Sipho,Pillay,Sipho Pillay,37,Male,South Africa,Gauteng,0007206649132,SA-CAS-211467,Cybercrime,644,158015,High,Convicted,Standard Bank,9,Yes,2015-06-08,2023-05-31,Officer Smith,SA-ST-498
+476,Thabo,Naidoo,Thabo Naidoo,24,Male,South Africa,Gauteng,8603146956016,SA-CAS-528990,Drug Trafficking,706,3927398,Low,Court Pending,FNB,2,Yes,2024-09-20,2019-10-03,Officer Smith,SA-ST-845
+477,Tendai,Naidoo,Tendai Naidoo,31,Male,South Africa,Northern Cape,0510166169190,SA-CAS-837928,Money Laundering,724,1060681,Critical,Convicted,Nedbank,9,Yes,2016-11-17,2023-03-18,Officer Nkosi,SA-ST-587
+478,Lerato,Ndlovu,Lerato Ndlovu,37,Male,South Africa,Mpumalanga,0106089696134,SA-CAS-709627,Armed Robbery,576,4590832,Low,Closed,Standard Bank,0,Yes,2025-03-18,2020-02-01,Officer Moyo,SA-ST-898
+479,Mpho,Nkosi,Mpho Nkosi,42,Female,South Africa,Mpumalanga,6602045156038,SA-CAS-657504,Corruption,654,3356883,Critical,Open,African Bank,5,No,2015-03-02,2020-06-14,Officer Smith,SA-ST-536
+480,Ayanda,Zulu,Ayanda Zulu,31,Female,South Africa,KwaZulu-Natal,8709251958011,SA-CAS-227278,Cybercrime,832,3564892,Medium,Open,African Bank,9,No,2019-06-14,2025-02-13,Officer Mabena,SA-ST-277
+481,Zanele,Mokoena,Zanele Mokoena,61,Female,South Africa,Eastern Cape,0409132678131,SA-CAS-957236,Money Laundering,390,4397576,Low,Open,Standard Bank,8,No,2020-03-09,2024-04-06,Officer Mabena,SA-ST-268
+482,Thabo,Zulu,Thabo Zulu,62,Male,South Africa,Eastern Cape,9511276418015,SA-CAS-898759,Corruption,746,1999157,Medium,Court Pending,Absa,1,No,2016-08-07,2021-02-03,Officer Naidoo,SA-ST-301
+483,Ayanda,Mokoena,Ayanda Mokoena,56,Male,South Africa,Western Cape,7010053013050,SA-CAS-685255,Fraud,735,3255781,Medium,Court Pending,African Bank,10,No,2016-11-15,2018-05-31,Officer Smith,SA-ST-232
+484,Mpho,Mabaso,Mpho Mabaso,58,Male,South Africa,Northern Cape,9506017869016,SA-CAS-191845,Vehicle Theft,456,1347763,Critical,Court Pending,Standard Bank,3,Yes,2019-07-28,2019-03-28,Officer Naidoo,SA-ST-700
+485,Mpho,Mokoena,Mpho Mokoena,28,Male,South Africa,Western Cape,0306012227111,SA-CAS-424616,Money Laundering,406,237753,Critical,Convicted,African Bank,5,Yes,2019-06-02,2017-07-03,Officer Moyo,SA-ST-462
+486,Lerato,Mabaso,Lerato Mabaso,62,Male,South Africa,KwaZulu-Natal,8107224668068,SA-CAS-236652,Armed Robbery,534,2307304,Medium,Closed,African Bank,9,No,2022-01-10,2015-01-16,Officer Naidoo,SA-ST-438
+487,Tendai,Dlamini,Tendai Dlamini,44,Male,South Africa,KwaZulu-Natal,9405185392093,SA-CAS-969898,Fraud,498,3467147,Critical,Convicted,African Bank,9,No,2015-11-18,2017-08-25,Officer Moyo,SA-ST-736
+488,Mpho,Dlamini,Mpho Dlamini,39,Female,South Africa,Free State,7605161717161,SA-CAS-131810,Cybercrime,536,1958475,Low,Closed,African Bank,9,No,2023-03-17,2019-03-30,Officer Mabena,SA-ST-185
+489,Thabo,Mokoena,Thabo Mokoena,32,Female,South Africa,Mpumalanga,8801119398176,SA-CAS-971135,Vehicle Theft,454,1411372,Critical,Under Investigation,African Bank,10,No,2021-09-29,2024-09-21,Officer Nkosi,SA-ST-449
+490,Thabo,Mokoena,Thabo Mokoena,41,Female,South Africa,Northern Cape,6708096365112,SA-CAS-966688,Money Laundering,494,208395,Critical,Convicted,Capitec,8,Yes,2025-07-03,2021-05-28,Officer Mabena,SA-ST-641
+491,Sipho,Dlamini,Sipho Dlamini,62,Female,South Africa,KwaZulu-Natal,6102265656144,SA-CAS-812364,Vehicle Theft,813,4632312,High,Court Pending,FNB,9,No,2018-04-06,2017-04-06,Officer Nkosi,SA-ST-370
+492,Zanele,Zulu,Zanele Zulu,64,Male,South Africa,North West,7603166902116,SA-CAS-471820,Drug Trafficking,330,2255004,Critical,Under Investigation,Nedbank,0,No,2023-05-28,2017-10-06,Officer Nkosi,SA-ST-783
+493,Nomsa,Mabaso,Nomsa Mabaso,59,Female,South Africa,North West,0405083501047,SA-CAS-501328,Drug Trafficking,732,379367,Low,Open,Capitec,9,Yes,2025-02-02,2016-01-11,Officer Moyo,SA-ST-710
+494,Mpho,Mthembu,Mpho Mthembu,63,Female,South Africa,Mpumalanga,6908237738127,SA-CAS-572977,Cybercrime,309,848185,Medium,Open,FNB,4,Yes,2017-12-24,2016-05-13,Officer Smith,SA-ST-147
+495,Tendai,Nkosi,Tendai Nkosi,36,Male,South Africa,Western Cape,6201193706184,SA-CAS-716173,Money Laundering,521,1694674,Medium,Open,FNB,6,No,2020-09-21,2016-06-05,Officer Moyo,SA-ST-493
+496,Lerato,Zulu,Lerato Zulu,55,Male,South Africa,Eastern Cape,0504286640179,SA-CAS-485319,Identity Theft,440,1696756,Low,Court Pending,African Bank,10,Yes,2019-10-04,2020-06-11,Officer Smith,SA-ST-535
+497,Ayanda,Mokoena,Ayanda Mokoena,20,Female,South Africa,North West,9503247054148,SA-CAS-321317,Money Laundering,838,4706836,Critical,Under Investigation,Absa,3,No,2020-01-01,2022-02-15,Officer Naidoo,SA-ST-942
+498,Tendai,Dlamini,Tendai Dlamini,24,Male,South Africa,Gauteng,9312207449178,SA-CAS-156896,Vehicle Theft,322,4181581,High,Court Pending,African Bank,4,Yes,2023-12-07,2021-06-04,Officer Moyo,SA-ST-157
+499,Thabo,Pillay,Thabo Pillay,47,Female,South Africa,Free State,0001049794049,SA-CAS-755890,Identity Theft,818,4825658,Low,Under Investigation,Standard Bank,1,No,2022-07-01,2025-07-24,Officer Mabena,SA-ST-935
+500,Sipho,Pillay,Sipho Pillay,44,Female,South Africa,Mpumalanga,9312206520039,SA-CAS-825119,Drug Trafficking,529,1997148,Critical,Convicted,Capitec,6,Yes,2016-05-08,2016-11-13,Officer Moyo,SA-ST-867
+501,Lerato,Zulu,Lerato Zulu,54,Female,South Africa,North West,8410053565050,SA-CAS-953070,Corruption,482,4457366,Low,Under Investigation,FNB,5,No,2024-07-03,2025-09-05,Officer Smith,SA-ST-280
+502,Mpho,Nkosi,Mpho Nkosi,32,Male,South Africa,Mpumalanga,8411207126176,SA-CAS-959865,Vehicle Theft,746,2821987,High,Court Pending,Nedbank,7,Yes,2015-03-21,2017-02-13,Officer Smith,SA-ST-282
+503,Ayanda,Zulu,Ayanda Zulu,27,Female,South Africa,Gauteng,8504283155187,SA-CAS-458990,Drug Trafficking,501,2647232,Critical,Under Investigation,Standard Bank,1,No,2015-07-10,2015-02-14,Officer Moyo,SA-ST-875
+504,Zanele,Ndlovu,Zanele Ndlovu,18,Male,South Africa,North West,9011166153046,SA-CAS-617086,Armed Robbery,575,3246226,High,Open,African Bank,9,Yes,2024-11-21,2016-10-24,Officer Nkosi,SA-ST-276
+505,Tendai,Khumalo,Tendai Khumalo,42,Female,South Africa,Free State,8712052250129,SA-CAS-449457,Money Laundering,311,1725305,Low,Court Pending,African Bank,8,No,2016-04-01,2025-11-18,Officer Naidoo,SA-ST-319
+506,Thabo,Mabaso,Thabo Mabaso,47,Male,South Africa,Limpopo,7012218717023,SA-CAS-373831,Cybercrime,791,1554647,High,Closed,Nedbank,10,Yes,2018-11-26,2016-09-29,Officer Mabena,SA-ST-359
+507,Mpho,Mabaso,Mpho Mabaso,19,Female,South Africa,Free State,9906066436071,SA-CAS-826507,Money Laundering,469,2552929,Medium,Under Investigation,FNB,8,Yes,2015-09-26,2024-11-12,Officer Naidoo,SA-ST-989
+508,Zanele,Zulu,Zanele Zulu,18,Female,South Africa,North West,8307262180177,SA-CAS-469285,Identity Theft,516,4240611,High,Open,Absa,4,Yes,2024-01-20,2015-06-15,Officer Moyo,SA-ST-394
+509,Tendai,Pillay,Tendai Pillay,31,Female,South Africa,Limpopo,8601256122092,SA-CAS-364539,Money Laundering,629,3605327,High,Convicted,Capitec,5,Yes,2021-08-31,2023-12-10,Officer Moyo,SA-ST-720
+510,Sipho,Zulu,Sipho Zulu,63,Female,South Africa,Western Cape,0302057324149,SA-CAS-423735,Fraud,514,2037617,Medium,Convicted,African Bank,8,Yes,2017-03-10,2024-12-25,Officer Naidoo,SA-ST-258
+511,Mpho,Dlamini,Mpho Dlamini,58,Male,South Africa,Gauteng,9208284986065,SA-CAS-555986,Corruption,701,2030957,Low,Court Pending,Capitec,8,Yes,2015-07-16,2024-12-15,Officer Nkosi,SA-ST-286
+512,Sipho,Zulu,Sipho Zulu,27,Male,South Africa,KwaZulu-Natal,0512222724172,SA-CAS-473926,Drug Trafficking,521,2030204,Low,Closed,African Bank,2,Yes,2015-09-24,2017-12-24,Officer Naidoo,SA-ST-422
+513,Sipho,Mokoena,Sipho Mokoena,25,Female,South Africa,Northern Cape,9009072032032,SA-CAS-600969,Money Laundering,678,3123225,Critical,Convicted,African Bank,9,No,2015-07-11,2024-12-23,Officer Naidoo,SA-ST-211
+514,Zanele,Nkosi,Zanele Nkosi,47,Male,South Africa,Eastern Cape,0411276326121,SA-CAS-466902,Vehicle Theft,781,2335989,Critical,Closed,FNB,2,No,2017-12-22,2015-10-28,Officer Mabena,SA-ST-944
+515,Sipho,Mthembu,Sipho Mthembu,62,Female,South Africa,Northern Cape,9609256584083,SA-CAS-196936,Money Laundering,489,4690938,Critical,Court Pending,Capitec,6,No,2017-01-03,2018-05-11,Officer Moyo,SA-ST-832
+516,Naledi,Ndlovu,Naledi Ndlovu,38,Female,South Africa,Eastern Cape,9602264088015,SA-CAS-284897,Identity Theft,433,326840,Critical,Convicted,Absa,9,Yes,2018-04-24,2017-02-14,Officer Mabena,SA-ST-313
+517,Sipho,Zulu,Sipho Zulu,51,Female,South Africa,Western Cape,6503216906172,SA-CAS-916329,Money Laundering,824,436408,High,Convicted,Capitec,4,Yes,2025-10-11,2016-02-26,Officer Mabena,SA-ST-632
+518,Sipho,Pillay,Sipho Pillay,39,Male,South Africa,Mpumalanga,0112091900168,SA-CAS-223870,Fraud,819,4860079,High,Court Pending,Standard Bank,6,Yes,2024-02-29,2021-03-09,Officer Nkosi,SA-ST-249
+519,Mpho,Mthembu,Mpho Mthembu,51,Female,South Africa,North West,6607031081035,SA-CAS-964832,Identity Theft,622,1378852,Low,Under Investigation,Capitec,3,Yes,2015-05-27,2017-09-16,Officer Nkosi,SA-ST-939
+520,Nomsa,Khumalo,Nomsa Khumalo,25,Male,South Africa,Eastern Cape,8209275232069,SA-CAS-490303,Corruption,848,2208474,High,Closed,African Bank,10,Yes,2023-04-07,2018-03-09,Officer Nkosi,SA-ST-705
+521,Zanele,Pillay,Zanele Pillay,28,Male,South Africa,Eastern Cape,7208053686042,SA-CAS-129772,Vehicle Theft,611,933783,Medium,Convicted,Nedbank,9,No,2016-04-24,2018-12-06,Officer Moyo,SA-ST-159
+522,Nomsa,Zulu,Nomsa Zulu,46,Female,South Africa,Western Cape,9311069656062,SA-CAS-794270,Fraud,390,2838250,High,Closed,Absa,7,Yes,2015-03-07,2019-06-26,Officer Nkosi,SA-ST-887
+523,Mpho,Dlamini,Mpho Dlamini,29,Male,South Africa,Free State,9003186131180,SA-CAS-414484,Identity Theft,757,2528832,Medium,Under Investigation,Nedbank,8,Yes,2015-02-19,2023-09-04,Officer Naidoo,SA-ST-808
+524,Sipho,Mabaso,Sipho Mabaso,65,Female,South Africa,Northern Cape,6006233575155,SA-CAS-297002,Money Laundering,755,4134360,High,Closed,Standard Bank,4,No,2018-09-01,2024-01-31,Officer Mabena,SA-ST-923
+525,Sipho,Khumalo,Sipho Khumalo,62,Female,South Africa,KwaZulu-Natal,7711279768053,SA-CAS-759524,Drug Trafficking,476,2550218,Low,Under Investigation,FNB,2,Yes,2015-04-08,2017-08-02,Officer Mabena,SA-ST-171
+526,Thabo,Mokoena,Thabo Mokoena,53,Male,South Africa,KwaZulu-Natal,6605069341160,SA-CAS-591187,Money Laundering,311,4370663,Critical,Convicted,Absa,3,No,2022-10-24,2019-08-12,Officer Naidoo,SA-ST-724
+527,Sipho,Pillay,Sipho Pillay,18,Male,South Africa,Limpopo,8711024180062,SA-CAS-969490,Fraud,568,1041902,Low,Under Investigation,Absa,7,No,2018-06-24,2025-08-30,Officer Moyo,SA-ST-287
+528,Tendai,Naidoo,Tendai Naidoo,36,Male,South Africa,North West,7412103492114,SA-CAS-557233,Vehicle Theft,752,2021786,Critical,Open,FNB,8,No,2020-08-08,2024-08-26,Officer Nkosi,SA-ST-671
+529,Nomsa,Pillay,Nomsa Pillay,20,Male,South Africa,Eastern Cape,6303091400020,SA-CAS-312894,Cybercrime,523,440495,Low,Open,African Bank,8,No,2023-10-23,2017-02-22,Officer Smith,SA-ST-306
+530,Lerato,Khumalo,Lerato Khumalo,56,Male,South Africa,KwaZulu-Natal,9710091542174,SA-CAS-674318,Corruption,584,3865765,Low,Under Investigation,Absa,3,Yes,2023-10-10,2021-01-11,Officer Nkosi,SA-ST-745
+531,Sipho,Khumalo,Sipho Khumalo,61,Male,South Africa,Western Cape,0402244482040,SA-CAS-325473,Drug Trafficking,595,1574845,High,Closed,Capitec,0,Yes,2016-01-29,2020-07-07,Officer Nkosi,SA-ST-609
+532,Lerato,Zulu,Lerato Zulu,47,Female,South Africa,North West,7105088046084,SA-CAS-168038,Armed Robbery,606,397899,Low,Closed,Standard Bank,8,Yes,2022-04-04,2016-06-16,Officer Nkosi,SA-ST-972
+533,Naledi,Naidoo,Naledi Naidoo,43,Female,South Africa,KwaZulu-Natal,8507093341050,SA-CAS-619422,Vehicle Theft,742,4717800,Medium,Closed,FNB,9,Yes,2017-07-28,2021-12-13,Officer Mabena,SA-ST-849
+534,Nomsa,Nkosi,Nomsa Nkosi,57,Male,South Africa,Free State,7410196408087,SA-CAS-698232,Fraud,642,2761063,Critical,Convicted,Standard Bank,5,Yes,2020-05-29,2017-10-27,Officer Moyo,SA-ST-223
+535,Mpho,Mokoena,Mpho Mokoena,55,Male,South Africa,North West,7810029969153,SA-CAS-711615,Identity Theft,566,1283740,Low,Court Pending,Capitec,10,No,2015-01-09,2019-01-04,Officer Nkosi,SA-ST-973
+536,Mpho,Naidoo,Mpho Naidoo,23,Female,South Africa,Eastern Cape,8302107606015,SA-CAS-264061,Money Laundering,455,4496792,High,Court Pending,Capitec,7,Yes,2019-06-23,2017-11-06,Officer Smith,SA-ST-187
+537,Zanele,Dlamini,Zanele Dlamini,52,Female,South Africa,North West,9010252001198,SA-CAS-715916,Money Laundering,745,3227536,Low,Closed,FNB,0,Yes,2025-06-20,2018-10-16,Officer Smith,SA-ST-150
+538,Tendai,Khumalo,Tendai Khumalo,58,Female,South Africa,Mpumalanga,9106214861013,SA-CAS-415436,Cybercrime,492,4896826,Medium,Court Pending,FNB,10,No,2024-06-13,2020-04-26,Officer Mabena,SA-ST-812
+539,Lerato,Mabaso,Lerato Mabaso,54,Female,South Africa,North West,6607244375076,SA-CAS-838474,Vehicle Theft,560,987866,Medium,Under Investigation,African Bank,1,Yes,2017-08-20,2021-08-06,Officer Naidoo,SA-ST-702
+540,Naledi,Nkosi,Naledi Nkosi,32,Male,South Africa,Eastern Cape,6109186287063,SA-CAS-157701,Identity Theft,605,3868104,Low,Under Investigation,African Bank,5,No,2024-06-20,2021-02-04,Officer Smith,SA-ST-377
+541,Lerato,Nkosi,Lerato Nkosi,29,Male,South Africa,KwaZulu-Natal,8402011968160,SA-CAS-998162,Cybercrime,480,4097264,Critical,Convicted,Nedbank,5,Yes,2020-01-22,2017-05-08,Officer Nkosi,SA-ST-716
+542,Sipho,Zulu,Sipho Zulu,40,Female,South Africa,Gauteng,7603253494041,SA-CAS-491621,Vehicle Theft,421,1007846,Critical,Under Investigation,FNB,6,No,2023-06-20,2016-03-07,Officer Mabena,SA-ST-466
+543,Mpho,Nkosi,Mpho Nkosi,58,Male,South Africa,KwaZulu-Natal,8411238241054,SA-CAS-978571,Fraud,497,1999933,Critical,Closed,Nedbank,4,Yes,2016-03-25,2016-07-23,Officer Mabena,SA-ST-107
+544,Tendai,Khumalo,Tendai Khumalo,59,Male,South Africa,Free State,0109047756139,SA-CAS-981495,Drug Trafficking,423,1877094,Low,Under Investigation,FNB,7,No,2025-04-30,2025-08-01,Officer Mabena,SA-ST-439
+545,Zanele,Ndlovu,Zanele Ndlovu,32,Female,South Africa,Eastern Cape,9706139411020,SA-CAS-898235,Identity Theft,399,4470551,Critical,Under Investigation,Standard Bank,0,No,2025-02-04,2024-05-20,Officer Mabena,SA-ST-636
+546,Zanele,Mabaso,Zanele Mabaso,21,Male,South Africa,Northern Cape,6003124601075,SA-CAS-759528,Identity Theft,707,4293172,Low,Under Investigation,FNB,2,Yes,2025-08-20,2022-09-30,Officer Smith,SA-ST-905
+547,Brian,Pillay,Brian Pillay,47,Female,South Africa,Free State,6005147355093,SA-CAS-615488,Drug Trafficking,422,4117586,High,Closed,FNB,0,No,2021-04-10,2019-03-04,Officer Mabena,SA-ST-386
+548,Lerato,Mokoena,Lerato Mokoena,62,Male,South Africa,Mpumalanga,0409159076196,SA-CAS-774120,Drug Trafficking,498,3566853,Medium,Open,Standard Bank,5,Yes,2025-08-09,2018-03-04,Officer Mabena,SA-ST-980
+549,Nomsa,Khumalo,Nomsa Khumalo,43,Female,South Africa,Gauteng,0512231658056,SA-CAS-625359,Armed Robbery,785,3198028,Critical,Open,Absa,6,Yes,2020-05-21,2024-10-23,Officer Moyo,SA-ST-106
+550,Tendai,Mabaso,Tendai Mabaso,60,Female,South Africa,Limpopo,7312187150117,SA-CAS-970574,Identity Theft,796,40414,Low,Under Investigation,Absa,7,No,2022-11-16,2020-06-28,Officer Naidoo,SA-ST-460
+551,Lerato,Zulu,Lerato Zulu,53,Male,South Africa,North West,0102028986143,SA-CAS-589848,Armed Robbery,689,4218613,High,Court Pending,FNB,2,Yes,2015-07-30,2023-09-29,Officer Nkosi,SA-ST-549
+552,Lerato,Pillay,Lerato Pillay,45,Male,South Africa,Limpopo,7302022397019,SA-CAS-305516,Vehicle Theft,585,3477038,Low,Under Investigation,Nedbank,0,Yes,2020-01-10,2020-02-05,Officer Nkosi,SA-ST-566
+553,Nomsa,Zulu,Nomsa Zulu,60,Male,South Africa,Limpopo,7902206328164,SA-CAS-407839,Fraud,678,1111884,Low,Under Investigation,Standard Bank,6,Yes,2025-01-15,2023-07-01,Officer Mabena,SA-ST-851
+554,Sipho,Mthembu,Sipho Mthembu,39,Male,South Africa,Northern Cape,8701053615079,SA-CAS-233644,Fraud,406,3528894,Medium,Convicted,Standard Bank,4,Yes,2016-02-08,2017-06-12,Officer Smith,SA-ST-931
+555,Mpho,Ndlovu,Mpho Ndlovu,59,Female,South Africa,North West,9911086421057,SA-CAS-358628,Identity Theft,517,3791868,Medium,Convicted,African Bank,6,No,2018-03-14,2022-01-28,Officer Smith,SA-ST-685
+556,Lerato,Mthembu,Lerato Mthembu,41,Female,South Africa,Mpumalanga,9206031599115,SA-CAS-174563,Armed Robbery,456,1595184,Low,Court Pending,Capitec,2,Yes,2015-02-05,2020-10-02,Officer Moyo,SA-ST-505
+557,Nomsa,Ndlovu,Nomsa Ndlovu,58,Male,South Africa,Free State,6901074516031,SA-CAS-234155,Fraud,390,104051,Medium,Open,Standard Bank,2,No,2021-12-15,2019-12-17,Officer Nkosi,SA-ST-191
+558,Zanele,Khumalo,Zanele Khumalo,25,Female,South Africa,Limpopo,9507063800018,SA-CAS-258376,Cybercrime,611,1443981,High,Open,FNB,2,Yes,2024-05-25,2015-08-21,Officer Smith,SA-ST-652
+559,Naledi,Naidoo,Naledi Naidoo,37,Male,South Africa,Gauteng,8805187251031,SA-CAS-213443,Identity Theft,772,3014604,Critical,Under Investigation,African Bank,4,Yes,2016-06-20,2023-06-17,Officer Mabena,SA-ST-893
+560,Naledi,Dlamini,Naledi Dlamini,35,Female,South Africa,Western Cape,9210252925136,SA-CAS-956235,Fraud,502,4332894,Critical,Under Investigation,Standard Bank,6,No,2016-02-18,2025-11-09,Officer Moyo,SA-ST-407
+561,Mpho,Khumalo,Mpho Khumalo,61,Female,South Africa,KwaZulu-Natal,9109124420039,SA-CAS-222631,Fraud,759,13821,Critical,Closed,Absa,3,Yes,2020-08-08,2020-03-11,Officer Naidoo,SA-ST-481
+562,Brian,Pillay,Brian Pillay,44,Male,South Africa,KwaZulu-Natal,8004268807137,SA-CAS-735614,Drug Trafficking,821,4360870,Low,Convicted,African Bank,0,Yes,2021-11-30,2025-07-02,Officer Nkosi,SA-ST-844
+563,Tendai,Mthembu,Tendai Mthembu,35,Male,South Africa,Limpopo,6904111364117,SA-CAS-531885,Cybercrime,544,2447139,Low,Convicted,Absa,3,No,2021-06-24,2015-01-05,Officer Mabena,SA-ST-710
+564,Nomsa,Khumalo,Nomsa Khumalo,29,Female,South Africa,North West,9111203593092,SA-CAS-300935,Money Laundering,658,2606828,High,Convicted,Absa,2,Yes,2021-04-12,2019-11-16,Officer Nkosi,SA-ST-740
+565,Mpho,Dlamini,Mpho Dlamini,47,Male,South Africa,Mpumalanga,7002098538136,SA-CAS-456780,Fraud,651,1369128,High,Under Investigation,Standard Bank,9,Yes,2022-09-10,2022-02-15,Officer Smith,SA-ST-998
+566,Naledi,Khumalo,Naledi Khumalo,63,Male,South Africa,Western Cape,9106072269181,SA-CAS-340268,Armed Robbery,517,1527513,Critical,Under Investigation,FNB,0,No,2016-02-27,2023-01-15,Officer Moyo,SA-ST-809
+567,Sipho,Mokoena,Sipho Mokoena,20,Male,South Africa,Mpumalanga,6812066593170,SA-CAS-833783,Armed Robbery,788,3427674,Low,Open,FNB,1,Yes,2016-01-01,2017-04-23,Officer Mabena,SA-ST-107
+568,Nomsa,Nkosi,Nomsa Nkosi,38,Male,South Africa,Eastern Cape,9006085590164,SA-CAS-186032,Cybercrime,741,1830718,Medium,Open,Capitec,6,No,2018-10-30,2024-07-06,Officer Moyo,SA-ST-614
+569,Nomsa,Dlamini,Nomsa Dlamini,62,Male,South Africa,Gauteng,9902079729158,SA-CAS-159451,Vehicle Theft,479,4033170,Low,Convicted,Nedbank,10,Yes,2019-05-23,2020-12-02,Officer Nkosi,SA-ST-503
+570,Zanele,Mokoena,Zanele Mokoena,26,Female,South Africa,Gauteng,7210142641010,SA-CAS-496771,Corruption,772,308797,High,Open,Nedbank,5,No,2023-02-02,2025-10-04,Officer Mabena,SA-ST-826
+571,Mpho,Mokoena,Mpho Mokoena,53,Female,South Africa,Gauteng,9911068288159,SA-CAS-471621,Drug Trafficking,485,2436439,High,Convicted,FNB,8,Yes,2016-12-31,2021-08-04,Officer Moyo,SA-ST-363
+572,Brian,Pillay,Brian Pillay,33,Male,South Africa,KwaZulu-Natal,9812069728123,SA-CAS-618964,Money Laundering,335,1628098,Critical,Open,FNB,4,Yes,2017-04-29,2017-06-07,Officer Smith,SA-ST-875
+573,Nomsa,Dlamini,Nomsa Dlamini,24,Male,South Africa,Western Cape,9809151423039,SA-CAS-901589,Money Laundering,751,2864275,Critical,Closed,Standard Bank,10,No,2019-05-27,2019-01-03,Officer Naidoo,SA-ST-250
+574,Lerato,Naidoo,Lerato Naidoo,45,Male,South Africa,Free State,8609197471068,SA-CAS-636804,Money Laundering,643,2565255,High,Court Pending,Capitec,3,No,2020-10-24,2017-11-14,Officer Nkosi,SA-ST-622
+575,Sipho,Mabaso,Sipho Mabaso,52,Male,South Africa,Gauteng,7704246825079,SA-CAS-398563,Vehicle Theft,351,4679899,Critical,Open,African Bank,5,No,2023-04-03,2020-07-16,Officer Mabena,SA-ST-818
+576,Mpho,Mokoena,Mpho Mokoena,48,Female,South Africa,Mpumalanga,6008158439098,SA-CAS-911652,Cybercrime,455,1106269,High,Court Pending,Nedbank,9,Yes,2022-08-04,2019-03-26,Officer Moyo,SA-ST-478
+577,Naledi,Mabaso,Naledi Mabaso,51,Male,South Africa,Free State,9001069861178,SA-CAS-405130,Vehicle Theft,773,1376531,High,Open,Capitec,0,No,2025-03-11,2021-04-14,Officer Smith,SA-ST-225
+578,Naledi,Mabaso,Naledi Mabaso,44,Female,South Africa,KwaZulu-Natal,7008211883076,SA-CAS-216430,Drug Trafficking,347,2979004,Critical,Open,FNB,6,No,2016-10-09,2025-03-07,Officer Naidoo,SA-ST-304
+579,Sipho,Naidoo,Sipho Naidoo,20,Female,South Africa,Northern Cape,8905279282190,SA-CAS-194495,Corruption,591,2264329,High,Convicted,Standard Bank,3,No,2017-11-11,2017-10-17,Officer Moyo,SA-ST-357
+580,Naledi,Naidoo,Naledi Naidoo,57,Female,South Africa,Northern Cape,6603056956018,SA-CAS-208348,Armed Robbery,573,801040,High,Open,Nedbank,3,Yes,2025-07-12,2021-03-13,Officer Mabena,SA-ST-900
+581,Sipho,Ndlovu,Sipho Ndlovu,55,Female,South Africa,Mpumalanga,9412249272163,SA-CAS-408689,Fraud,347,4441605,Medium,Open,Capitec,3,Yes,2016-02-09,2019-03-02,Officer Smith,SA-ST-357
+582,Ayanda,Nkosi,Ayanda Nkosi,65,Male,South Africa,KwaZulu-Natal,7001103457139,SA-CAS-383401,Vehicle Theft,702,3531887,Medium,Court Pending,FNB,0,No,2017-03-25,2016-07-30,Officer Smith,SA-ST-107
+583,Thabo,Nkosi,Thabo Nkosi,19,Male,South Africa,Eastern Cape,8406141696060,SA-CAS-733529,Armed Robbery,808,635316,Critical,Open,Standard Bank,8,Yes,2020-06-05,2023-07-02,Officer Mabena,SA-ST-999
+584,Lerato,Nkosi,Lerato Nkosi,33,Male,South Africa,KwaZulu-Natal,0004038674028,SA-CAS-519064,Cybercrime,482,4925749,Critical,Under Investigation,African Bank,4,Yes,2015-11-24,2017-08-31,Officer Mabena,SA-ST-463
+585,Lerato,Pillay,Lerato Pillay,20,Female,South Africa,North West,7212188442124,SA-CAS-857986,Drug Trafficking,518,1418784,Medium,Closed,Standard Bank,3,Yes,2020-12-24,2017-07-04,Officer Naidoo,SA-ST-299
+586,Zanele,Mthembu,Zanele Mthembu,55,Male,South Africa,Limpopo,6705139201146,SA-CAS-135629,Corruption,329,4955170,High,Open,African Bank,0,Yes,2024-08-27,2025-08-07,Officer Nkosi,SA-ST-145
+587,Tendai,Mabaso,Tendai Mabaso,18,Female,South Africa,Gauteng,6701033195189,SA-CAS-808113,Fraud,345,3131180,Low,Open,Standard Bank,9,No,2018-07-25,2016-03-04,Officer Smith,SA-ST-597
+588,Sipho,Ndlovu,Sipho Ndlovu,53,Male,South Africa,Northern Cape,6202274471092,SA-CAS-635418,Money Laundering,443,2611928,Medium,Under Investigation,Standard Bank,4,No,2024-08-21,2016-09-18,Officer Moyo,SA-ST-876
+589,Ayanda,Mokoena,Ayanda Mokoena,46,Female,South Africa,Northern Cape,6707236880193,SA-CAS-936222,Vehicle Theft,655,1325713,Critical,Open,African Bank,0,No,2022-06-03,2023-11-27,Officer Moyo,SA-ST-430
+590,Tendai,Mabaso,Tendai Mabaso,39,Female,South Africa,Mpumalanga,7209092497075,SA-CAS-879919,Armed Robbery,355,2813204,Critical,Under Investigation,Nedbank,9,Yes,2018-04-22,2016-06-16,Officer Nkosi,SA-ST-430
+591,Mpho,Zulu,Mpho Zulu,35,Male,South Africa,Northern Cape,0510181361033,SA-CAS-282356,Drug Trafficking,847,243310,Low,Court Pending,Capitec,10,Yes,2024-09-29,2023-02-09,Officer Naidoo,SA-ST-345
+592,Zanele,Zulu,Zanele Zulu,42,Female,South Africa,KwaZulu-Natal,9810176801119,SA-CAS-309608,Identity Theft,756,4834875,Medium,Open,Nedbank,2,No,2019-10-29,2016-06-05,Officer Smith,SA-ST-612
+593,Brian,Mabaso,Brian Mabaso,48,Male,South Africa,North West,6907087477049,SA-CAS-784345,Drug Trafficking,563,2850346,Medium,Under Investigation,African Bank,9,Yes,2018-11-18,2025-10-26,Officer Nkosi,SA-ST-463
+594,Brian,Zulu,Brian Zulu,45,Female,South Africa,Free State,9001253606156,SA-CAS-855937,Drug Trafficking,691,4199272,High,Closed,Standard Bank,9,Yes,2021-07-10,2016-09-25,Officer Moyo,SA-ST-866
+595,Thabo,Naidoo,Thabo Naidoo,58,Male,South Africa,Gauteng,6006279378174,SA-CAS-747878,Vehicle Theft,477,1056515,Critical,Under Investigation,FNB,3,No,2022-10-23,2019-04-10,Officer Smith,SA-ST-357
+596,Ayanda,Ndlovu,Ayanda Ndlovu,53,Male,South Africa,Northern Cape,7703111103128,SA-CAS-994976,Armed Robbery,560,3804666,Medium,Closed,FNB,3,Yes,2020-12-18,2017-09-08,Officer Mabena,SA-ST-493
+597,Nomsa,Zulu,Nomsa Zulu,39,Male,South Africa,Gauteng,9005273753056,SA-CAS-885728,Corruption,586,4639124,Critical,Closed,Nedbank,2,No,2023-07-16,2023-04-16,Officer Naidoo,SA-ST-197
+598,Mpho,Pillay,Mpho Pillay,52,Female,South Africa,Northern Cape,7411011864061,SA-CAS-534863,Vehicle Theft,552,4656815,High,Closed,Nedbank,8,No,2018-09-13,2021-04-03,Officer Smith,SA-ST-367
+599,Mpho,Ndlovu,Mpho Ndlovu,63,Male,South Africa,Limpopo,8102146786062,SA-CAS-119061,Fraud,467,3065672,Medium,Convicted,Standard Bank,8,No,2020-04-26,2022-02-28,Officer Smith,SA-ST-889
+600,Nomsa,Mthembu,Nomsa Mthembu,55,Female,South Africa,KwaZulu-Natal,7708272364057,SA-CAS-999351,Vehicle Theft,846,3888028,Medium,Closed,Standard Bank,2,No,2019-04-13,2020-08-31,Officer Smith,SA-ST-675
+601,Nomsa,Ndlovu,Nomsa Ndlovu,21,Male,South Africa,KwaZulu-Natal,7306232252199,SA-CAS-377490,Identity Theft,317,4611671,Medium,Closed,Nedbank,6,No,2023-08-11,2015-12-06,Officer Moyo,SA-ST-682
+602,Mpho,Naidoo,Mpho Naidoo,24,Male,South Africa,Western Cape,7908277575178,SA-CAS-918503,Drug Trafficking,346,2881698,Critical,Convicted,Capitec,1,Yes,2023-04-14,2024-05-15,Officer Smith,SA-ST-417
+603,Mpho,Zulu,Mpho Zulu,22,Male,South Africa,Mpumalanga,6603017357118,SA-CAS-110602,Identity Theft,746,2533972,Critical,Open,Standard Bank,10,No,2021-12-17,2022-05-21,Officer Mabena,SA-ST-638
+604,Thabo,Zulu,Thabo Zulu,35,Female,South Africa,Free State,6403163981171,SA-CAS-307999,Money Laundering,478,3326976,High,Under Investigation,Standard Bank,5,Yes,2024-03-26,2021-12-01,Officer Nkosi,SA-ST-303
+605,Sipho,Pillay,Sipho Pillay,51,Male,South Africa,North West,6909207080056,SA-CAS-597881,Fraud,759,860660,High,Under Investigation,African Bank,6,No,2015-06-25,2023-05-03,Officer Nkosi,SA-ST-581
+606,Ayanda,Zulu,Ayanda Zulu,53,Male,South Africa,Western Cape,8901142656072,SA-CAS-354902,Drug Trafficking,733,2852116,High,Convicted,African Bank,1,No,2015-06-20,2023-10-13,Officer Mabena,SA-ST-913
+607,Thabo,Mokoena,Thabo Mokoena,19,Male,South Africa,Limpopo,8210102875164,SA-CAS-597816,Money Laundering,591,1616269,Medium,Convicted,Standard Bank,7,No,2017-01-07,2024-01-16,Officer Smith,SA-ST-605
+608,Ayanda,Naidoo,Ayanda Naidoo,33,Female,South Africa,Northern Cape,8911165639041,SA-CAS-420188,Armed Robbery,749,4234430,Medium,Under Investigation,FNB,4,No,2022-05-30,2025-09-11,Officer Naidoo,SA-ST-105
+609,Naledi,Zulu,Naledi Zulu,21,Male,South Africa,Northern Cape,6412151690082,SA-CAS-524273,Drug Trafficking,505,1779223,Low,Convicted,Standard Bank,8,Yes,2017-04-16,2022-12-12,Officer Mabena,SA-ST-857
+610,Mpho,Khumalo,Mpho Khumalo,34,Female,South Africa,Eastern Cape,7305016172159,SA-CAS-387272,Armed Robbery,755,3535043,Medium,Open,African Bank,0,No,2018-08-17,2020-07-09,Officer Mabena,SA-ST-297
+611,Lerato,Zulu,Lerato Zulu,63,Male,South Africa,Limpopo,6907049098022,SA-CAS-755284,Corruption,551,1265582,Low,Open,Absa,10,No,2023-04-26,2017-04-04,Officer Naidoo,SA-ST-317
+612,Mpho,Nkosi,Mpho Nkosi,41,Male,South Africa,Gauteng,7801182447127,SA-CAS-507238,Corruption,544,3700672,Critical,Closed,FNB,2,No,2023-12-06,2015-10-05,Officer Nkosi,SA-ST-953
+613,Mpho,Zulu,Mpho Zulu,28,Male,South Africa,Limpopo,7001092514141,SA-CAS-302615,Drug Trafficking,392,342367,High,Under Investigation,Capitec,10,Yes,2020-08-13,2024-08-02,Officer Moyo,SA-ST-278
+614,Lerato,Nkosi,Lerato Nkosi,19,Female,South Africa,Limpopo,8610244403080,SA-CAS-594672,Corruption,735,4271534,Medium,Closed,Nedbank,7,Yes,2019-03-04,2018-04-30,Officer Moyo,SA-ST-137
+615,Sipho,Mabaso,Sipho Mabaso,30,Male,South Africa,Limpopo,6502158058078,SA-CAS-919247,Armed Robbery,596,3057082,Medium,Closed,Capitec,4,Yes,2018-04-12,2016-12-15,Officer Naidoo,SA-ST-311
+616,Tendai,Naidoo,Tendai Naidoo,48,Female,South Africa,Mpumalanga,7904199805092,SA-CAS-583119,Corruption,674,4213923,Low,Convicted,Nedbank,10,Yes,2019-07-26,2017-07-25,Officer Nkosi,SA-ST-526
+617,Naledi,Zulu,Naledi Zulu,64,Female,South Africa,Western Cape,8910163951038,SA-CAS-355387,Armed Robbery,412,17935,High,Under Investigation,Nedbank,5,No,2024-05-22,2022-10-28,Officer Mabena,SA-ST-527
+618,Nomsa,Zulu,Nomsa Zulu,20,Male,South Africa,KwaZulu-Natal,6004031523182,SA-CAS-937830,Cybercrime,357,68227,High,Under Investigation,FNB,0,Yes,2020-10-29,2015-01-26,Officer Mabena,SA-ST-868
+619,Naledi,Mokoena,Naledi Mokoena,61,Female,South Africa,Eastern Cape,9210122303088,SA-CAS-895664,Cybercrime,524,2727276,Medium,Convicted,African Bank,5,Yes,2024-01-29,2023-08-30,Officer Moyo,SA-ST-432
+620,Lerato,Ndlovu,Lerato Ndlovu,18,Male,South Africa,Limpopo,0001218809182,SA-CAS-965478,Corruption,583,4577641,Low,Convicted,African Bank,0,No,2024-02-07,2021-04-15,Officer Smith,SA-ST-155
+621,Sipho,Dlamini,Sipho Dlamini,47,Male,South Africa,Limpopo,6407124781187,SA-CAS-103424,Identity Theft,490,2109327,Low,Under Investigation,Absa,10,No,2023-09-19,2020-11-19,Officer Smith,SA-ST-692
+622,Tendai,Ndlovu,Tendai Ndlovu,40,Female,South Africa,Mpumalanga,0107042408197,SA-CAS-410047,Cybercrime,578,4002107,High,Convicted,Absa,9,No,2020-10-24,2016-02-12,Officer Nkosi,SA-ST-364
+623,Thabo,Zulu,Thabo Zulu,26,Male,South Africa,Mpumalanga,9901186174161,SA-CAS-850362,Corruption,450,4886890,Critical,Open,Nedbank,8,Yes,2015-08-11,2022-10-22,Officer Mabena,SA-ST-779
+624,Lerato,Mokoena,Lerato Mokoena,25,Female,South Africa,Free State,8309041358123,SA-CAS-525987,Money Laundering,824,3974142,Critical,Under Investigation,Absa,1,Yes,2024-07-01,2015-01-12,Officer Moyo,SA-ST-952
+625,Lerato,Dlamini,Lerato Dlamini,59,Male,South Africa,Limpopo,9307128275165,SA-CAS-932926,Corruption,673,2260063,Low,Under Investigation,Standard Bank,10,No,2016-06-27,2017-08-24,Officer Nkosi,SA-ST-287
+626,Mpho,Nkosi,Mpho Nkosi,38,Male,South Africa,North West,9901135690083,SA-CAS-931264,Cybercrime,662,346720,Medium,Under Investigation,African Bank,10,Yes,2025-07-01,2021-04-26,Officer Moyo,SA-ST-834
+627,Zanele,Naidoo,Zanele Naidoo,28,Male,South Africa,Northern Cape,7212185311181,SA-CAS-751054,Cybercrime,850,2096978,Medium,Under Investigation,FNB,0,Yes,2023-09-27,2020-09-01,Officer Moyo,SA-ST-978
+628,Nomsa,Mabaso,Nomsa Mabaso,55,Male,South Africa,Northern Cape,6801188014156,SA-CAS-976706,Vehicle Theft,721,732226,Medium,Court Pending,Capitec,5,Yes,2018-04-05,2019-03-16,Officer Moyo,SA-ST-188
+629,Sipho,Pillay,Sipho Pillay,36,Male,South Africa,Eastern Cape,7401154996092,SA-CAS-920748,Corruption,623,871219,Critical,Convicted,Capitec,8,No,2024-04-03,2019-12-04,Officer Naidoo,SA-ST-629
+630,Naledi,Mabaso,Naledi Mabaso,38,Male,South Africa,Gauteng,9509162204176,SA-CAS-855555,Identity Theft,346,4295743,Medium,Court Pending,Absa,1,No,2016-02-10,2020-03-02,Officer Nkosi,SA-ST-116
+631,Brian,Dlamini,Brian Dlamini,20,Male,South Africa,Free State,6812107182059,SA-CAS-391384,Drug Trafficking,624,1202119,Critical,Court Pending,African Bank,7,No,2020-02-23,2021-06-29,Officer Moyo,SA-ST-587
+632,Tendai,Nkosi,Tendai Nkosi,43,Male,South Africa,Northern Cape,8605253888030,SA-CAS-272781,Money Laundering,427,2580868,Critical,Closed,Capitec,5,Yes,2024-05-28,2025-01-30,Officer Moyo,SA-ST-154
+633,Ayanda,Mabaso,Ayanda Mabaso,62,Male,South Africa,Western Cape,7712208917124,SA-CAS-202856,Armed Robbery,779,3730354,High,Court Pending,Standard Bank,9,Yes,2016-09-23,2018-08-02,Officer Mabena,SA-ST-286
+634,Lerato,Mabaso,Lerato Mabaso,55,Female,South Africa,North West,9012155699144,SA-CAS-443121,Cybercrime,625,2417608,Low,Court Pending,Capitec,8,No,2023-10-24,2025-11-11,Officer Mabena,SA-ST-213
+635,Nomsa,Pillay,Nomsa Pillay,26,Male,South Africa,Northern Cape,9302209431042,SA-CAS-281551,Corruption,700,98258,Low,Under Investigation,Capitec,6,No,2025-02-03,2017-04-06,Officer Moyo,SA-ST-766
+636,Lerato,Khumalo,Lerato Khumalo,48,Female,South Africa,Free State,8807147151085,SA-CAS-314892,Fraud,560,1181257,Critical,Court Pending,FNB,2,Yes,2025-09-03,2018-01-11,Officer Nkosi,SA-ST-478
+637,Ayanda,Dlamini,Ayanda Dlamini,31,Female,South Africa,Free State,8708126141151,SA-CAS-916391,Money Laundering,362,3327609,Low,Convicted,Nedbank,5,No,2015-09-01,2015-12-31,Officer Smith,SA-ST-854
+638,Brian,Mokoena,Brian Mokoena,43,Male,South Africa,Limpopo,0511096234010,SA-CAS-651662,Drug Trafficking,329,1971209,Low,Closed,Standard Bank,2,Yes,2023-06-14,2018-07-11,Officer Mabena,SA-ST-842
+639,Brian,Mokoena,Brian Mokoena,34,Female,South Africa,Eastern Cape,6708061242133,SA-CAS-257055,Corruption,691,2497543,Medium,Convicted,FNB,8,Yes,2016-02-26,2016-10-29,Officer Naidoo,SA-ST-543
+640,Lerato,Naidoo,Lerato Naidoo,59,Male,South Africa,Gauteng,7610154500045,SA-CAS-800168,Armed Robbery,591,2208868,High,Open,Standard Bank,4,No,2021-01-03,2018-06-18,Officer Moyo,SA-ST-555
+641,Mpho,Khumalo,Mpho Khumalo,56,Male,South Africa,Free State,9903268070119,SA-CAS-304297,Money Laundering,413,3236588,Critical,Under Investigation,Standard Bank,10,No,2025-09-02,2015-10-12,Officer Nkosi,SA-ST-154
+642,Sipho,Mabaso,Sipho Mabaso,27,Male,South Africa,Mpumalanga,9409224919040,SA-CAS-145523,Fraud,309,3882702,Low,Closed,Capitec,9,No,2016-11-07,2016-06-23,Officer Moyo,SA-ST-804
+643,Thabo,Ndlovu,Thabo Ndlovu,59,Female,South Africa,Gauteng,7012065993049,SA-CAS-635039,Corruption,844,2039652,Medium,Convicted,African Bank,9,No,2022-02-02,2015-03-20,Officer Naidoo,SA-ST-134
+644,Naledi,Mthembu,Naledi Mthembu,62,Female,South Africa,Eastern Cape,6912256427013,SA-CAS-355446,Corruption,439,817862,Medium,Open,FNB,8,No,2021-07-14,2016-11-26,Officer Nkosi,SA-ST-449
+645,Zanele,Khumalo,Zanele Khumalo,20,Female,South Africa,Gauteng,9711243528025,SA-CAS-133611,Corruption,799,2451747,Low,Court Pending,Capitec,4,No,2018-08-09,2021-08-02,Officer Smith,SA-ST-163
+646,Naledi,Naidoo,Naledi Naidoo,63,Female,South Africa,Gauteng,7912203054080,SA-CAS-180877,Cybercrime,472,1197058,Medium,Closed,FNB,4,No,2019-10-28,2024-06-25,Officer Smith,SA-ST-210
+647,Naledi,Naidoo,Naledi Naidoo,30,Female,South Africa,Gauteng,9105012030190,SA-CAS-128230,Money Laundering,570,3500754,High,Open,Capitec,9,Yes,2019-07-24,2021-11-10,Officer Mabena,SA-ST-172
+648,Sipho,Ndlovu,Sipho Ndlovu,28,Male,South Africa,North West,7104241414075,SA-CAS-270474,Cybercrime,803,3146446,Critical,Under Investigation,Capitec,1,No,2020-04-17,2021-05-16,Officer Naidoo,SA-ST-870
+649,Naledi,Pillay,Naledi Pillay,25,Female,South Africa,Limpopo,9605246070127,SA-CAS-169562,Money Laundering,581,3284670,Medium,Under Investigation,Capitec,3,Yes,2019-10-27,2015-08-28,Officer Naidoo,SA-ST-941
+650,Naledi,Mabaso,Naledi Mabaso,32,Female,South Africa,North West,0204075421030,SA-CAS-904187,Drug Trafficking,788,2433470,Medium,Court Pending,Standard Bank,5,Yes,2022-12-01,2015-08-10,Officer Smith,SA-ST-132
+651,Mpho,Pillay,Mpho Pillay,63,Male,South Africa,Mpumalanga,9803288641152,SA-CAS-550108,Identity Theft,792,2874412,High,Open,African Bank,5,Yes,2022-03-18,2017-11-20,Officer Naidoo,SA-ST-314
+652,Naledi,Dlamini,Naledi Dlamini,24,Female,South Africa,Limpopo,8403225276161,SA-CAS-670297,Vehicle Theft,625,4102616,Medium,Under Investigation,FNB,0,Yes,2020-08-05,2022-02-06,Officer Naidoo,SA-ST-382
+653,Ayanda,Zulu,Ayanda Zulu,25,Male,South Africa,Limpopo,8208094450049,SA-CAS-324702,Money Laundering,585,3808205,Medium,Convicted,Standard Bank,10,Yes,2023-11-07,2025-10-09,Officer Mabena,SA-ST-158
+654,Zanele,Zulu,Zanele Zulu,33,Male,South Africa,North West,7502089056154,SA-CAS-392598,Drug Trafficking,384,4901951,Medium,Court Pending,Standard Bank,2,No,2018-11-24,2015-12-22,Officer Mabena,SA-ST-747
+655,Tendai,Ndlovu,Tendai Ndlovu,41,Female,South Africa,Free State,8810183144021,SA-CAS-558251,Armed Robbery,484,133003,High,Convicted,Standard Bank,6,No,2025-01-18,2020-10-17,Officer Nkosi,SA-ST-898
+656,Sipho,Zulu,Sipho Zulu,64,Male,South Africa,Eastern Cape,6111254735027,SA-CAS-654943,Fraud,508,4200353,Medium,Open,Nedbank,1,Yes,2016-10-20,2024-08-09,Officer Mabena,SA-ST-581
+657,Tendai,Khumalo,Tendai Khumalo,37,Female,South Africa,Eastern Cape,9403012779110,SA-CAS-558772,Armed Robbery,606,3094226,High,Court Pending,African Bank,0,No,2019-04-05,2020-06-18,Officer Nkosi,SA-ST-542
+658,Zanele,Mthembu,Zanele Mthembu,31,Female,South Africa,Eastern Cape,9702081489163,SA-CAS-772288,Money Laundering,779,1910211,High,Convicted,Capitec,8,No,2016-05-26,2019-03-26,Officer Moyo,SA-ST-928
+659,Zanele,Mokoena,Zanele Mokoena,34,Male,South Africa,Western Cape,8907098778025,SA-CAS-179440,Cybercrime,622,949717,High,Open,Capitec,1,Yes,2018-09-06,2022-12-10,Officer Naidoo,SA-ST-354
+660,Ayanda,Zulu,Ayanda Zulu,25,Male,South Africa,Mpumalanga,9904259621019,SA-CAS-210111,Drug Trafficking,754,1699924,Low,Court Pending,Standard Bank,1,Yes,2025-12-14,2022-01-05,Officer Moyo,SA-ST-450
+661,Thabo,Khumalo,Thabo Khumalo,31,Female,South Africa,KwaZulu-Natal,8003124487019,SA-CAS-726326,Corruption,348,3561478,Low,Closed,Absa,2,Yes,2018-01-19,2021-12-08,Officer Moyo,SA-ST-607
+662,Ayanda,Zulu,Ayanda Zulu,46,Male,South Africa,Northern Cape,8802255862114,SA-CAS-550027,Corruption,343,2647485,Critical,Under Investigation,African Bank,3,No,2023-08-21,2024-07-06,Officer Naidoo,SA-ST-722
+663,Zanele,Naidoo,Zanele Naidoo,65,Female,South Africa,KwaZulu-Natal,6506153235160,SA-CAS-848404,Fraud,370,464696,High,Closed,Absa,6,No,2017-04-21,2022-10-14,Officer Nkosi,SA-ST-235
+664,Brian,Zulu,Brian Zulu,56,Female,South Africa,Western Cape,0501241383041,SA-CAS-859906,Fraud,836,2682448,Medium,Open,Absa,0,No,2025-09-16,2023-02-06,Officer Nkosi,SA-ST-315
+665,Brian,Dlamini,Brian Dlamini,54,Male,South Africa,Mpumalanga,7406021476089,SA-CAS-872020,Drug Trafficking,681,554170,Medium,Court Pending,FNB,8,No,2020-03-15,2022-01-11,Officer Nkosi,SA-ST-444
+666,Brian,Mokoena,Brian Mokoena,50,Female,South Africa,KwaZulu-Natal,7510092721149,SA-CAS-658635,Vehicle Theft,684,4963660,Critical,Convicted,Absa,8,No,2015-03-30,2024-06-23,Officer Smith,SA-ST-649
+667,Tendai,Ndlovu,Tendai Ndlovu,26,Male,South Africa,Eastern Cape,9304023823135,SA-CAS-901076,Fraud,353,2045116,High,Under Investigation,Nedbank,3,Yes,2019-10-18,2017-09-25,Officer Smith,SA-ST-164
+668,Sipho,Khumalo,Sipho Khumalo,23,Male,South Africa,Gauteng,6802137620183,SA-CAS-416942,Money Laundering,823,2457052,Medium,Closed,Absa,7,No,2017-04-07,2020-09-02,Officer Smith,SA-ST-946
+669,Ayanda,Khumalo,Ayanda Khumalo,46,Female,South Africa,Eastern Cape,8901245821165,SA-CAS-355889,Identity Theft,511,4581236,High,Under Investigation,Standard Bank,3,No,2016-06-05,2024-07-09,Officer Nkosi,SA-ST-492
+670,Thabo,Pillay,Thabo Pillay,33,Male,South Africa,North West,9109058800136,SA-CAS-794713,Cybercrime,610,1558374,Critical,Closed,Standard Bank,4,Yes,2024-06-07,2016-09-08,Officer Moyo,SA-ST-194
+671,Thabo,Dlamini,Thabo Dlamini,35,Male,South Africa,Northern Cape,6008142256135,SA-CAS-894367,Cybercrime,696,3151179,Critical,Open,Capitec,3,Yes,2015-04-13,2021-07-04,Officer Smith,SA-ST-998
+672,Thabo,Mabaso,Thabo Mabaso,30,Male,South Africa,Western Cape,9506243740128,SA-CAS-152034,Cybercrime,542,711996,Critical,Court Pending,African Bank,4,No,2016-06-29,2022-08-23,Officer Nkosi,SA-ST-307
+673,Nomsa,Dlamini,Nomsa Dlamini,61,Male,South Africa,Gauteng,7502188285042,SA-CAS-336461,Money Laundering,603,975990,Medium,Open,Nedbank,4,No,2017-08-09,2019-12-20,Officer Naidoo,SA-ST-406
+674,Mpho,Mthembu,Mpho Mthembu,47,Male,South Africa,North West,9410042988033,SA-CAS-619882,Fraud,421,2141491,High,Court Pending,Standard Bank,8,No,2025-09-03,2025-03-26,Officer Smith,SA-ST-588
+675,Mpho,Khumalo,Mpho Khumalo,41,Male,South Africa,Mpumalanga,7611101480134,SA-CAS-789897,Armed Robbery,616,759172,Critical,Convicted,Capitec,9,Yes,2018-04-22,2018-07-20,Officer Nkosi,SA-ST-697
+676,Zanele,Naidoo,Zanele Naidoo,35,Female,South Africa,Northern Cape,8302106105163,SA-CAS-505473,Armed Robbery,522,3755464,Critical,Convicted,African Bank,3,No,2021-04-09,2016-02-08,Officer Nkosi,SA-ST-596
+677,Lerato,Khumalo,Lerato Khumalo,56,Male,South Africa,North West,7009176272053,SA-CAS-286434,Cybercrime,352,1502560,Low,Convicted,African Bank,1,Yes,2024-04-09,2025-10-16,Officer Mabena,SA-ST-120
+678,Nomsa,Mokoena,Nomsa Mokoena,23,Female,South Africa,Eastern Cape,9802082660080,SA-CAS-447948,Fraud,608,1221283,Critical,Closed,Standard Bank,10,Yes,2017-06-18,2015-07-14,Officer Moyo,SA-ST-357
+679,Lerato,Naidoo,Lerato Naidoo,63,Female,South Africa,Limpopo,8501156896125,SA-CAS-994273,Identity Theft,656,507344,Medium,Under Investigation,Standard Bank,3,No,2022-07-08,2022-01-15,Officer Mabena,SA-ST-370
+680,Naledi,Mthembu,Naledi Mthembu,26,Male,South Africa,Northern Cape,8211247458139,SA-CAS-418680,Money Laundering,807,1051432,Low,Open,Nedbank,10,No,2025-09-04,2022-08-20,Officer Nkosi,SA-ST-285
+681,Naledi,Pillay,Naledi Pillay,38,Male,South Africa,Gauteng,7812212835099,SA-CAS-397081,Cybercrime,375,1175225,Critical,Convicted,Standard Bank,5,No,2016-07-19,2021-06-08,Officer Naidoo,SA-ST-348
+682,Ayanda,Pillay,Ayanda Pillay,18,Female,South Africa,KwaZulu-Natal,9402042709027,SA-CAS-968201,Money Laundering,587,1241148,Critical,Court Pending,African Bank,0,Yes,2023-04-28,2015-05-02,Officer Mabena,SA-ST-559
+683,Sipho,Mokoena,Sipho Mokoena,56,Female,South Africa,Western Cape,9707208641063,SA-CAS-874530,Money Laundering,453,3547937,Critical,Court Pending,Absa,1,No,2015-09-01,2024-01-29,Officer Naidoo,SA-ST-355
+684,Ayanda,Naidoo,Ayanda Naidoo,29,Female,South Africa,Western Cape,6402274164010,SA-CAS-665472,Money Laundering,404,4982680,High,Convicted,Absa,1,Yes,2023-07-22,2022-09-24,Officer Moyo,SA-ST-333
+685,Nomsa,Mokoena,Nomsa Mokoena,59,Female,South Africa,Free State,7803269895078,SA-CAS-492110,Drug Trafficking,436,4845571,Medium,Convicted,Nedbank,3,Yes,2015-03-02,2017-01-25,Officer Smith,SA-ST-717
+686,Sipho,Mthembu,Sipho Mthembu,56,Male,South Africa,Limpopo,0010055205152,SA-CAS-831557,Armed Robbery,568,407132,Critical,Open,FNB,0,Yes,2016-03-12,2020-06-28,Officer Naidoo,SA-ST-639
+687,Brian,Pillay,Brian Pillay,35,Female,South Africa,KwaZulu-Natal,8801254349195,SA-CAS-142199,Drug Trafficking,332,3102360,Low,Court Pending,Capitec,3,No,2024-09-14,2016-08-02,Officer Moyo,SA-ST-365
+688,Tendai,Pillay,Tendai Pillay,53,Male,South Africa,Mpumalanga,8106082488097,SA-CAS-583799,Identity Theft,717,1627406,Medium,Under Investigation,Absa,1,Yes,2020-11-28,2025-06-10,Officer Mabena,SA-ST-895
+689,Brian,Nkosi,Brian Nkosi,56,Male,South Africa,Eastern Cape,9902042111091,SA-CAS-708332,Cybercrime,716,3293073,High,Closed,FNB,9,No,2019-06-08,2016-02-18,Officer Moyo,SA-ST-598
+690,Ayanda,Mokoena,Ayanda Mokoena,49,Male,South Africa,Free State,8412257929149,SA-CAS-310805,Corruption,721,1348929,High,Closed,FNB,2,Yes,2018-11-23,2025-06-01,Officer Moyo,SA-ST-383
+691,Zanele,Mabaso,Zanele Mabaso,18,Female,South Africa,Gauteng,9310157358093,SA-CAS-349722,Money Laundering,484,3392425,Critical,Closed,African Bank,6,Yes,2015-07-23,2021-04-01,Officer Moyo,SA-ST-647
+692,Brian,Nkosi,Brian Nkosi,27,Female,South Africa,North West,7011041083132,SA-CAS-880173,Armed Robbery,454,2713718,Critical,Open,Capitec,3,Yes,2023-12-09,2018-12-16,Officer Mabena,SA-ST-425
+693,Sipho,Naidoo,Sipho Naidoo,40,Female,South Africa,Gauteng,9409098323141,SA-CAS-295302,Corruption,414,31049,Critical,Court Pending,Absa,3,No,2015-07-04,2018-03-30,Officer Naidoo,SA-ST-290
+694,Thabo,Pillay,Thabo Pillay,57,Male,South Africa,North West,7304175227175,SA-CAS-116480,Vehicle Theft,608,3248492,Critical,Convicted,FNB,0,No,2018-08-09,2021-09-05,Officer Smith,SA-ST-300
+695,Lerato,Mabaso,Lerato Mabaso,56,Male,South Africa,Northern Cape,0303257920151,SA-CAS-883058,Drug Trafficking,403,2127950,High,Open,Nedbank,2,No,2023-07-19,2017-12-13,Officer Nkosi,SA-ST-170
+696,Mpho,Pillay,Mpho Pillay,43,Male,South Africa,Free State,7702148552093,SA-CAS-249297,Corruption,387,4369786,Medium,Court Pending,FNB,10,No,2020-08-19,2019-12-28,Officer Moyo,SA-ST-569
+697,Nomsa,Pillay,Nomsa Pillay,53,Female,South Africa,Western Cape,8305231290065,SA-CAS-526211,Fraud,445,4638669,High,Open,Standard Bank,5,No,2022-09-05,2023-01-15,Officer Moyo,SA-ST-428
+698,Ayanda,Zulu,Ayanda Zulu,63,Male,South Africa,Western Cape,0406162945054,SA-CAS-725737,Corruption,338,4804066,Critical,Court Pending,Standard Bank,1,No,2017-09-30,2015-08-01,Officer Smith,SA-ST-496
+699,Tendai,Mthembu,Tendai Mthembu,57,Female,South Africa,Eastern Cape,7402246679160,SA-CAS-752602,Corruption,696,648812,High,Convicted,African Bank,3,No,2022-01-06,2020-07-18,Officer Naidoo,SA-ST-982
+700,Thabo,Khumalo,Thabo Khumalo,28,Female,South Africa,Mpumalanga,7103121825074,SA-CAS-590183,Cybercrime,467,3920987,Low,Open,FNB,8,Yes,2015-06-25,2022-01-30,Officer Smith,SA-ST-978
+701,Zanele,Nkosi,Zanele Nkosi,32,Female,South Africa,North West,7807149142154,SA-CAS-888535,Cybercrime,341,3029217,Medium,Convicted,Capitec,1,No,2016-02-16,2018-03-04,Officer Nkosi,SA-ST-685
+702,Sipho,Mabaso,Sipho Mabaso,20,Female,South Africa,North West,6207059274046,SA-CAS-530682,Fraud,407,3725677,High,Court Pending,FNB,4,Yes,2022-06-12,2025-09-22,Officer Moyo,SA-ST-115
+703,Zanele,Mokoena,Zanele Mokoena,38,Male,South Africa,Free State,8808074618094,SA-CAS-579435,Armed Robbery,715,1555316,Low,Court Pending,Standard Bank,4,Yes,2017-05-17,2017-10-21,Officer Moyo,SA-ST-452
+704,Zanele,Mokoena,Zanele Mokoena,22,Female,South Africa,Limpopo,8210278947018,SA-CAS-390397,Armed Robbery,428,368091,High,Convicted,Standard Bank,10,No,2023-05-24,2021-02-27,Officer Mabena,SA-ST-829
+705,Mpho,Mokoena,Mpho Mokoena,31,Male,South Africa,North West,6504141956083,SA-CAS-369844,Cybercrime,742,2140132,High,Court Pending,African Bank,6,No,2019-03-16,2024-01-08,Officer Mabena,SA-ST-629
+706,Ayanda,Mthembu,Ayanda Mthembu,20,Female,South Africa,Northern Cape,6008262811114,SA-CAS-943787,Armed Robbery,778,2938849,Medium,Under Investigation,FNB,3,Yes,2025-06-23,2025-11-10,Officer Mabena,SA-ST-780
+707,Lerato,Mthembu,Lerato Mthembu,25,Female,South Africa,Eastern Cape,7501272726144,SA-CAS-959898,Money Laundering,807,2363872,Critical,Convicted,Standard Bank,6,No,2021-02-28,2016-11-09,Officer Mabena,SA-ST-878
+708,Lerato,Naidoo,Lerato Naidoo,59,Female,South Africa,Northern Cape,9308073889025,SA-CAS-123172,Money Laundering,824,3503040,Medium,Convicted,Absa,3,Yes,2024-10-17,2016-04-12,Officer Mabena,SA-ST-351
+709,Brian,Mthembu,Brian Mthembu,61,Female,South Africa,Northern Cape,8002103489096,SA-CAS-448619,Fraud,572,4898878,Low,Convicted,FNB,9,Yes,2022-02-02,2022-11-22,Officer Nkosi,SA-ST-467
+710,Brian,Naidoo,Brian Naidoo,31,Female,South Africa,Gauteng,6801107116092,SA-CAS-819770,Money Laundering,504,1216866,Critical,Closed,Capitec,10,No,2023-05-03,2019-11-11,Officer Naidoo,SA-ST-365
+711,Sipho,Pillay,Sipho Pillay,29,Male,South Africa,Gauteng,6309211543083,SA-CAS-276104,Cybercrime,515,2953241,Critical,Court Pending,Nedbank,2,Yes,2024-09-19,2015-11-01,Officer Mabena,SA-ST-454
+712,Lerato,Naidoo,Lerato Naidoo,18,Male,South Africa,Eastern Cape,9808016891138,SA-CAS-286880,Money Laundering,590,4294512,Critical,Open,Capitec,6,No,2022-02-13,2019-01-04,Officer Smith,SA-ST-405
+713,Zanele,Mabaso,Zanele Mabaso,64,Female,South Africa,Northern Cape,9902177249039,SA-CAS-758411,Corruption,336,1191373,Low,Open,Nedbank,7,Yes,2024-01-28,2019-11-07,Officer Naidoo,SA-ST-955
+714,Brian,Mabaso,Brian Mabaso,65,Female,South Africa,Limpopo,8809246588046,SA-CAS-331895,Money Laundering,712,731300,High,Convicted,Capitec,3,Yes,2019-01-30,2024-01-30,Officer Moyo,SA-ST-752
+715,Sipho,Khumalo,Sipho Khumalo,18,Male,South Africa,Eastern Cape,9504163371184,SA-CAS-647045,Vehicle Theft,765,3910577,Critical,Convicted,Absa,3,Yes,2015-04-07,2021-09-29,Officer Moyo,SA-ST-903
+716,Thabo,Nkosi,Thabo Nkosi,37,Male,South Africa,Mpumalanga,7106276116142,SA-CAS-202358,Cybercrime,813,862416,Low,Open,Standard Bank,6,No,2017-01-04,2024-09-15,Officer Nkosi,SA-ST-904
+717,Zanele,Mokoena,Zanele Mokoena,39,Female,South Africa,Western Cape,7511196594110,SA-CAS-686828,Fraud,739,192326,High,Convicted,African Bank,3,Yes,2022-01-06,2019-10-26,Officer Smith,SA-ST-210
+718,Sipho,Ndlovu,Sipho Ndlovu,20,Male,South Africa,Mpumalanga,7110195227076,SA-CAS-903355,Corruption,626,3776637,Critical,Under Investigation,Standard Bank,3,No,2019-03-19,2016-11-09,Officer Moyo,SA-ST-291
+719,Tendai,Zulu,Tendai Zulu,18,Male,South Africa,KwaZulu-Natal,7902272413078,SA-CAS-727527,Money Laundering,464,1858156,Medium,Under Investigation,Capitec,6,Yes,2020-08-04,2015-09-09,Officer Smith,SA-ST-560
+720,Mpho,Dlamini,Mpho Dlamini,34,Female,South Africa,Mpumalanga,7506261866190,SA-CAS-708119,Identity Theft,392,2751621,Medium,Under Investigation,Capitec,1,No,2016-12-22,2021-01-23,Officer Smith,SA-ST-406
+721,Tendai,Zulu,Tendai Zulu,37,Female,South Africa,North West,8802177998167,SA-CAS-207761,Corruption,449,3763632,Critical,Closed,FNB,0,No,2022-06-26,2024-02-27,Officer Nkosi,SA-ST-911
+722,Mpho,Zulu,Mpho Zulu,38,Female,South Africa,North West,7605111431044,SA-CAS-454561,Corruption,478,632479,High,Court Pending,Nedbank,4,Yes,2022-03-16,2015-02-16,Officer Mabena,SA-ST-832
+723,Tendai,Pillay,Tendai Pillay,51,Male,South Africa,North West,8212077289178,SA-CAS-321812,Corruption,697,3350275,Low,Convicted,FNB,5,Yes,2024-09-04,2015-05-18,Officer Smith,SA-ST-474
+724,Brian,Pillay,Brian Pillay,61,Female,South Africa,Free State,0302026909192,SA-CAS-267138,Vehicle Theft,400,3746411,Critical,Convicted,Nedbank,9,Yes,2017-08-27,2015-05-14,Officer Smith,SA-ST-632
+725,Nomsa,Khumalo,Nomsa Khumalo,40,Male,South Africa,KwaZulu-Natal,8607252892117,SA-CAS-726922,Armed Robbery,461,3482853,Medium,Convicted,FNB,0,Yes,2019-11-10,2015-08-07,Officer Nkosi,SA-ST-979
+726,Thabo,Khumalo,Thabo Khumalo,54,Female,South Africa,KwaZulu-Natal,0504041852158,SA-CAS-803103,Armed Robbery,365,3545913,High,Closed,Standard Bank,7,Yes,2018-03-27,2025-10-05,Officer Naidoo,SA-ST-442
+727,Thabo,Mabaso,Thabo Mabaso,39,Male,South Africa,Free State,0106086410174,SA-CAS-559829,Vehicle Theft,303,1098516,Medium,Under Investigation,Absa,10,No,2018-09-24,2015-11-12,Officer Nkosi,SA-ST-322
+728,Brian,Pillay,Brian Pillay,39,Male,South Africa,Northern Cape,6108151486053,SA-CAS-328922,Corruption,702,4443947,Low,Under Investigation,African Bank,1,No,2024-08-03,2015-06-04,Officer Smith,SA-ST-355
+729,Nomsa,Khumalo,Nomsa Khumalo,43,Male,South Africa,Eastern Cape,9201044723034,SA-CAS-681305,Cybercrime,395,1235098,Low,Open,FNB,1,Yes,2020-02-27,2023-08-09,Officer Mabena,SA-ST-386
+730,Zanele,Mokoena,Zanele Mokoena,27,Male,South Africa,Free State,8411122323024,SA-CAS-810662,Drug Trafficking,647,2076947,Critical,Open,African Bank,0,No,2022-12-26,2025-02-23,Officer Moyo,SA-ST-875
+731,Mpho,Mthembu,Mpho Mthembu,20,Male,South Africa,Western Cape,9301123920139,SA-CAS-252333,Vehicle Theft,368,1453483,Critical,Closed,Absa,8,No,2018-04-06,2024-11-17,Officer Moyo,SA-ST-811
+732,Zanele,Khumalo,Zanele Khumalo,26,Female,South Africa,Limpopo,9711124027172,SA-CAS-939341,Identity Theft,387,2779071,High,Closed,Capitec,3,No,2017-06-04,2023-02-18,Officer Naidoo,SA-ST-146
+733,Sipho,Zulu,Sipho Zulu,55,Male,South Africa,Northern Cape,8104117575080,SA-CAS-860412,Money Laundering,727,1092989,Low,Closed,African Bank,8,No,2020-05-01,2021-09-21,Officer Moyo,SA-ST-227
+734,Mpho,Zulu,Mpho Zulu,63,Male,South Africa,North West,9311074264054,SA-CAS-305027,Cybercrime,636,4328027,Medium,Court Pending,Standard Bank,7,No,2022-06-06,2023-10-21,Officer Mabena,SA-ST-754
+735,Tendai,Mokoena,Tendai Mokoena,44,Male,South Africa,KwaZulu-Natal,7801048391177,SA-CAS-442312,Armed Robbery,480,4028723,High,Convicted,FNB,0,No,2024-05-26,2022-08-09,Officer Smith,SA-ST-936
+736,Mpho,Ndlovu,Mpho Ndlovu,33,Female,South Africa,Gauteng,8911277916122,SA-CAS-845657,Drug Trafficking,607,3964152,High,Convicted,FNB,0,Yes,2021-03-25,2022-08-26,Officer Moyo,SA-ST-722
+737,Thabo,Pillay,Thabo Pillay,40,Female,South Africa,Northern Cape,8306141394144,SA-CAS-665521,Identity Theft,430,3858302,Critical,Under Investigation,Nedbank,0,Yes,2021-03-08,2019-07-04,Officer Smith,SA-ST-717
+738,Brian,Dlamini,Brian Dlamini,24,Male,South Africa,Free State,6506059212178,SA-CAS-973403,Drug Trafficking,438,3803028,Low,Under Investigation,FNB,0,No,2019-01-06,2021-11-16,Officer Smith,SA-ST-493
+739,Ayanda,Nkosi,Ayanda Nkosi,42,Female,South Africa,North West,6002095399120,SA-CAS-846427,Cybercrime,427,3155314,High,Convicted,Nedbank,3,No,2022-04-22,2017-05-10,Officer Smith,SA-ST-662
+740,Lerato,Mthembu,Lerato Mthembu,36,Male,South Africa,KwaZulu-Natal,0410043363124,SA-CAS-188498,Vehicle Theft,673,2795951,Low,Under Investigation,Standard Bank,10,No,2017-04-23,2023-10-20,Officer Nkosi,SA-ST-693
+741,Thabo,Ndlovu,Thabo Ndlovu,64,Female,South Africa,Gauteng,7803023523141,SA-CAS-820250,Identity Theft,472,2821366,High,Open,Absa,5,Yes,2016-06-17,2019-08-07,Officer Mabena,SA-ST-622
+742,Thabo,Mthembu,Thabo Mthembu,61,Male,South Africa,Gauteng,6805091708096,SA-CAS-142687,Cybercrime,818,2861381,Medium,Open,Nedbank,2,Yes,2025-08-01,2018-04-13,Officer Nkosi,SA-ST-653
+743,Brian,Naidoo,Brian Naidoo,18,Female,South Africa,Eastern Cape,8504029098139,SA-CAS-744804,Identity Theft,540,1554102,Medium,Closed,FNB,7,No,2016-11-29,2018-11-19,Officer Nkosi,SA-ST-474
+744,Ayanda,Ndlovu,Ayanda Ndlovu,22,Male,South Africa,Northern Cape,6910289072020,SA-CAS-181778,Vehicle Theft,734,3689045,Critical,Convicted,Standard Bank,0,No,2020-06-24,2022-07-17,Officer Moyo,SA-ST-225
+745,Mpho,Nkosi,Mpho Nkosi,29,Female,South Africa,Northern Cape,9407202430161,SA-CAS-840080,Money Laundering,701,895082,Medium,Closed,Standard Bank,7,Yes,2024-07-18,2022-12-26,Officer Mabena,SA-ST-456
+746,Lerato,Ndlovu,Lerato Ndlovu,59,Female,South Africa,Free State,8401146664069,SA-CAS-573004,Cybercrime,413,1553949,Critical,Under Investigation,Capitec,6,Yes,2021-12-26,2020-11-09,Officer Smith,SA-ST-787
+747,Brian,Nkosi,Brian Nkosi,33,Male,South Africa,Limpopo,6410152710113,SA-CAS-490585,Cybercrime,662,1060242,Medium,Convicted,African Bank,9,Yes,2021-04-07,2017-01-15,Officer Moyo,SA-ST-443
+748,Brian,Dlamini,Brian Dlamini,55,Female,South Africa,Northern Cape,8805256103196,SA-CAS-527113,Cybercrime,399,2604652,Low,Closed,Nedbank,8,Yes,2025-01-20,2021-03-06,Officer Mabena,SA-ST-557
+749,Sipho,Mabaso,Sipho Mabaso,18,Male,South Africa,North West,7001016978168,SA-CAS-426311,Vehicle Theft,310,3856230,Medium,Court Pending,Standard Bank,5,No,2016-10-29,2016-10-19,Officer Mabena,SA-ST-377
+750,Thabo,Nkosi,Thabo Nkosi,65,Female,South Africa,North West,6702229888077,SA-CAS-332289,Fraud,658,2929205,Critical,Open,Capitec,4,Yes,2023-02-24,2015-07-20,Officer Moyo,SA-ST-855
+751,Mpho,Naidoo,Mpho Naidoo,39,Female,South Africa,KwaZulu-Natal,6311146069058,SA-CAS-320442,Cybercrime,403,29264,Medium,Closed,Absa,6,No,2019-04-27,2016-03-20,Officer Mabena,SA-ST-326
+752,Sipho,Pillay,Sipho Pillay,18,Male,South Africa,Free State,8712111809122,SA-CAS-641825,Identity Theft,332,2238240,High,Convicted,Standard Bank,0,No,2023-03-05,2018-01-27,Officer Moyo,SA-ST-208
+753,Ayanda,Mthembu,Ayanda Mthembu,25,Male,South Africa,Northern Cape,8301067311027,SA-CAS-278377,Drug Trafficking,510,4047044,Low,Court Pending,Nedbank,7,No,2024-11-04,2025-01-12,Officer Moyo,SA-ST-642
+754,Lerato,Mabaso,Lerato Mabaso,63,Female,South Africa,Northern Cape,8304208660094,SA-CAS-804326,Vehicle Theft,846,4657811,Medium,Convicted,FNB,2,No,2019-06-24,2024-01-03,Officer Moyo,SA-ST-883
+755,Nomsa,Dlamini,Nomsa Dlamini,31,Female,South Africa,Free State,0205206266115,SA-CAS-498922,Money Laundering,630,3070168,High,Court Pending,Absa,8,Yes,2015-01-13,2024-01-10,Officer Nkosi,SA-ST-252
+756,Nomsa,Mabaso,Nomsa Mabaso,37,Female,South Africa,Mpumalanga,6305053110150,SA-CAS-812589,Cybercrime,793,468749,High,Under Investigation,Absa,8,No,2015-02-06,2018-05-31,Officer Naidoo,SA-ST-106
+757,Ayanda,Dlamini,Ayanda Dlamini,37,Male,South Africa,North West,6404205511181,SA-CAS-159772,Fraud,394,1300416,Low,Court Pending,Capitec,2,No,2023-01-09,2020-01-02,Officer Nkosi,SA-ST-792
+758,Ayanda,Ndlovu,Ayanda Ndlovu,38,Male,South Africa,North West,8202098682098,SA-CAS-906503,Corruption,675,4240656,Low,Open,African Bank,9,No,2021-10-29,2023-04-11,Officer Mabena,SA-ST-163
+759,Brian,Naidoo,Brian Naidoo,36,Female,South Africa,Free State,7608122886050,SA-CAS-875746,Drug Trafficking,685,3287863,High,Under Investigation,Standard Bank,5,Yes,2024-10-21,2017-07-25,Officer Naidoo,SA-ST-227
+760,Naledi,Mabaso,Naledi Mabaso,29,Female,South Africa,KwaZulu-Natal,6802197150082,SA-CAS-367644,Corruption,850,1715116,Critical,Open,African Bank,0,No,2023-03-15,2021-01-14,Officer Nkosi,SA-ST-233
+761,Ayanda,Ndlovu,Ayanda Ndlovu,43,Female,South Africa,Northern Cape,8510258200094,SA-CAS-321632,Corruption,703,615460,Medium,Court Pending,Absa,0,No,2024-07-07,2018-07-30,Officer Naidoo,SA-ST-444
+762,Lerato,Nkosi,Lerato Nkosi,34,Female,South Africa,Gauteng,8507078265198,SA-CAS-528128,Armed Robbery,698,399146,High,Closed,FNB,6,Yes,2024-04-30,2021-11-13,Officer Nkosi,SA-ST-953
+763,Naledi,Mabaso,Naledi Mabaso,23,Male,South Africa,Northern Cape,6407138088076,SA-CAS-464774,Corruption,706,289094,Low,Closed,African Bank,2,No,2021-07-22,2017-05-30,Officer Moyo,SA-ST-379
+764,Lerato,Nkosi,Lerato Nkosi,25,Female,South Africa,KwaZulu-Natal,6704262178023,SA-CAS-288841,Cybercrime,482,4667037,High,Court Pending,Nedbank,10,No,2022-05-21,2015-04-29,Officer Smith,SA-ST-548
+765,Ayanda,Pillay,Ayanda Pillay,36,Female,South Africa,Limpopo,8008042025053,SA-CAS-476798,Drug Trafficking,710,2114677,Low,Under Investigation,FNB,6,Yes,2020-07-04,2024-02-23,Officer Moyo,SA-ST-948
+766,Brian,Ndlovu,Brian Ndlovu,19,Female,South Africa,Mpumalanga,0206159827076,SA-CAS-889473,Armed Robbery,701,3687756,Medium,Under Investigation,Absa,1,No,2015-09-21,2017-08-04,Officer Nkosi,SA-ST-335
+767,Brian,Zulu,Brian Zulu,42,Female,South Africa,KwaZulu-Natal,6804197890030,SA-CAS-363500,Cybercrime,355,4449055,High,Closed,FNB,3,No,2024-10-23,2023-07-18,Officer Mabena,SA-ST-505
+768,Mpho,Ndlovu,Mpho Ndlovu,65,Female,South Africa,North West,7104084625035,SA-CAS-719601,Armed Robbery,568,1997715,Critical,Closed,FNB,9,Yes,2018-08-22,2017-06-22,Officer Nkosi,SA-ST-947
+769,Sipho,Ndlovu,Sipho Ndlovu,64,Male,South Africa,Gauteng,7606075441147,SA-CAS-454198,Armed Robbery,424,1785335,Medium,Convicted,Standard Bank,1,Yes,2018-03-22,2023-08-05,Officer Mabena,SA-ST-113
+770,Brian,Mabaso,Brian Mabaso,30,Male,South Africa,Mpumalanga,7711086910181,SA-CAS-550269,Armed Robbery,543,2086588,Critical,Open,Standard Bank,0,No,2023-04-17,2025-06-18,Officer Naidoo,SA-ST-212
+771,Naledi,Naidoo,Naledi Naidoo,48,Female,South Africa,Eastern Cape,9211093787060,SA-CAS-195982,Fraud,761,4707798,Medium,Closed,Nedbank,4,Yes,2018-05-07,2020-10-29,Officer Mabena,SA-ST-410
+772,Brian,Nkosi,Brian Nkosi,30,Male,South Africa,Limpopo,0103086985076,SA-CAS-554286,Identity Theft,519,4898102,Low,Closed,FNB,8,Yes,2015-03-31,2020-06-14,Officer Moyo,SA-ST-435
+773,Ayanda,Ndlovu,Ayanda Ndlovu,28,Female,South Africa,KwaZulu-Natal,6012203294159,SA-CAS-522532,Corruption,557,4047626,Critical,Under Investigation,Absa,6,No,2018-05-05,2018-04-23,Officer Naidoo,SA-ST-392
+774,Mpho,Zulu,Mpho Zulu,54,Female,South Africa,North West,0109054965127,SA-CAS-350944,Vehicle Theft,628,935524,Low,Closed,Nedbank,4,No,2016-09-22,2023-06-21,Officer Naidoo,SA-ST-678
+775,Lerato,Mokoena,Lerato Mokoena,42,Male,South Africa,Northern Cape,8805245930015,SA-CAS-301079,Cybercrime,614,4210564,Medium,Open,Standard Bank,0,Yes,2016-06-28,2015-10-05,Officer Naidoo,SA-ST-933
+776,Lerato,Nkosi,Lerato Nkosi,22,Female,South Africa,Limpopo,0108092704193,SA-CAS-144787,Armed Robbery,699,3558697,High,Convicted,Nedbank,3,Yes,2022-11-06,2020-06-26,Officer Nkosi,SA-ST-970
+777,Thabo,Khumalo,Thabo Khumalo,37,Female,South Africa,Limpopo,8506202176180,SA-CAS-951295,Drug Trafficking,578,3117650,Critical,Closed,Absa,3,Yes,2020-09-04,2021-03-27,Officer Mabena,SA-ST-703
+778,Naledi,Mabaso,Naledi Mabaso,20,Female,South Africa,Western Cape,9406139165164,SA-CAS-849580,Cybercrime,609,3952973,Medium,Under Investigation,Absa,0,Yes,2021-11-02,2024-01-20,Officer Mabena,SA-ST-535
+779,Zanele,Mabaso,Zanele Mabaso,44,Female,South Africa,Mpumalanga,9212211103090,SA-CAS-105233,Corruption,349,3184087,Medium,Court Pending,Absa,0,No,2023-08-01,2024-07-30,Officer Nkosi,SA-ST-354
+780,Sipho,Mabaso,Sipho Mabaso,55,Female,South Africa,North West,6012264659013,SA-CAS-198608,Identity Theft,836,2985410,Medium,Court Pending,Standard Bank,10,No,2022-07-13,2020-03-09,Officer Smith,SA-ST-767
+781,Mpho,Mokoena,Mpho Mokoena,44,Female,South Africa,Free State,8709039173081,SA-CAS-308318,Identity Theft,561,1597409,High,Closed,Nedbank,9,No,2020-03-26,2017-12-31,Officer Smith,SA-ST-931
+782,Ayanda,Nkosi,Ayanda Nkosi,30,Male,South Africa,Gauteng,6303152010196,SA-CAS-503618,Armed Robbery,692,3326635,Low,Court Pending,Nedbank,10,No,2017-10-16,2017-08-13,Officer Smith,SA-ST-969
+783,Brian,Zulu,Brian Zulu,26,Male,South Africa,Western Cape,0208246014196,SA-CAS-560696,Drug Trafficking,531,2066181,Medium,Open,African Bank,10,Yes,2023-12-29,2017-07-29,Officer Moyo,SA-ST-900
+784,Sipho,Pillay,Sipho Pillay,21,Male,South Africa,North West,8709181298133,SA-CAS-999418,Vehicle Theft,585,1392377,Critical,Convicted,Nedbank,9,No,2022-10-07,2021-03-23,Officer Mabena,SA-ST-378
+785,Zanele,Pillay,Zanele Pillay,29,Male,South Africa,Mpumalanga,7905023289023,SA-CAS-111032,Drug Trafficking,330,3486487,Low,Under Investigation,Nedbank,6,Yes,2022-09-29,2022-02-16,Officer Naidoo,SA-ST-625
+786,Mpho,Mthembu,Mpho Mthembu,29,Female,South Africa,Northern Cape,8104279973049,SA-CAS-732987,Vehicle Theft,709,82387,Medium,Under Investigation,Nedbank,6,Yes,2015-12-25,2024-12-02,Officer Moyo,SA-ST-857
+787,Mpho,Naidoo,Mpho Naidoo,49,Female,South Africa,Northern Cape,8705224103090,SA-CAS-600753,Identity Theft,756,1108989,Medium,Under Investigation,African Bank,3,No,2024-10-21,2025-10-10,Officer Moyo,SA-ST-588
+788,Ayanda,Zulu,Ayanda Zulu,21,Male,South Africa,Western Cape,9006224603060,SA-CAS-265199,Vehicle Theft,606,2679691,High,Closed,FNB,0,No,2025-11-08,2018-12-29,Officer Naidoo,SA-ST-294
+789,Zanele,Dlamini,Zanele Dlamini,26,Female,South Africa,KwaZulu-Natal,7109161960090,SA-CAS-186557,Cybercrime,665,4285398,Medium,Closed,African Bank,1,Yes,2021-07-12,2023-03-07,Officer Nkosi,SA-ST-865
+790,Sipho,Naidoo,Sipho Naidoo,43,Male,South Africa,Limpopo,0205161554150,SA-CAS-379415,Identity Theft,789,3654912,Critical,Convicted,Capitec,4,No,2017-01-31,2018-07-31,Officer Moyo,SA-ST-288
+791,Zanele,Mthembu,Zanele Mthembu,42,Male,South Africa,North West,7805286783122,SA-CAS-829669,Fraud,778,216323,Medium,Open,Standard Bank,4,Yes,2017-05-27,2019-09-16,Officer Naidoo,SA-ST-916
+792,Sipho,Khumalo,Sipho Khumalo,23,Female,South Africa,Western Cape,9710181769013,SA-CAS-307730,Cybercrime,719,4487096,Critical,Court Pending,Nedbank,5,Yes,2019-01-24,2016-03-20,Officer Naidoo,SA-ST-450
+793,Mpho,Pillay,Mpho Pillay,35,Male,South Africa,North West,7308111481142,SA-CAS-332867,Corruption,618,1114088,High,Under Investigation,Standard Bank,4,No,2020-01-22,2023-07-01,Officer Mabena,SA-ST-589
+794,Thabo,Pillay,Thabo Pillay,45,Female,South Africa,Gauteng,7302117786118,SA-CAS-568303,Identity Theft,751,583887,Low,Convicted,Nedbank,3,Yes,2017-10-02,2023-05-13,Officer Nkosi,SA-ST-183
+795,Zanele,Naidoo,Zanele Naidoo,26,Female,South Africa,Northern Cape,6603175266173,SA-CAS-524623,Drug Trafficking,475,2012810,Low,Closed,African Bank,9,Yes,2025-04-18,2021-11-08,Officer Mabena,SA-ST-514
+796,Naledi,Nkosi,Naledi Nkosi,60,Female,South Africa,Limpopo,6212053657070,SA-CAS-223771,Vehicle Theft,491,1275996,Medium,Open,African Bank,1,No,2016-03-19,2016-11-19,Officer Moyo,SA-ST-339
+797,Mpho,Nkosi,Mpho Nkosi,24,Female,South Africa,Gauteng,6803017375131,SA-CAS-761155,Identity Theft,529,138450,Low,Closed,Capitec,10,No,2018-11-20,2025-07-07,Officer Moyo,SA-ST-368
+798,Naledi,Mabaso,Naledi Mabaso,49,Female,South Africa,KwaZulu-Natal,8409213220126,SA-CAS-327692,Corruption,416,613849,Low,Closed,Standard Bank,6,Yes,2023-10-26,2023-04-15,Officer Mabena,SA-ST-596
+799,Sipho,Zulu,Sipho Zulu,53,Female,South Africa,Eastern Cape,7512196185087,SA-CAS-384442,Fraud,404,3493627,Low,Convicted,Absa,6,Yes,2015-11-07,2021-04-17,Officer Moyo,SA-ST-823
+800,Ayanda,Khumalo,Ayanda Khumalo,30,Male,South Africa,Limpopo,0109155844182,SA-CAS-906288,Vehicle Theft,643,3198968,Critical,Open,Nedbank,3,Yes,2018-07-26,2022-08-24,Officer Nkosi,SA-ST-451
+801,Sipho,Mthembu,Sipho Mthembu,40,Male,South Africa,Mpumalanga,8206202202149,SA-CAS-622105,Money Laundering,795,4017789,Critical,Convicted,FNB,5,No,2025-07-03,2020-03-17,Officer Nkosi,SA-ST-674
+802,Ayanda,Pillay,Ayanda Pillay,45,Female,South Africa,Northern Cape,7204226162056,SA-CAS-578493,Drug Trafficking,533,618550,Medium,Closed,Capitec,3,No,2022-04-03,2016-08-10,Officer Mabena,SA-ST-703
+803,Naledi,Zulu,Naledi Zulu,65,Male,South Africa,KwaZulu-Natal,7009212863168,SA-CAS-335019,Corruption,705,2083162,Low,Court Pending,Absa,5,Yes,2023-09-25,2015-10-29,Officer Nkosi,SA-ST-502
+804,Nomsa,Pillay,Nomsa Pillay,29,Male,South Africa,Limpopo,9807224658012,SA-CAS-316711,Cybercrime,407,2299015,High,Convicted,Standard Bank,5,Yes,2015-12-14,2020-04-22,Officer Smith,SA-ST-851
+805,Naledi,Mokoena,Naledi Mokoena,48,Male,South Africa,Gauteng,9901063809049,SA-CAS-748529,Identity Theft,719,396975,Critical,Open,Nedbank,7,Yes,2019-04-27,2023-02-19,Officer Smith,SA-ST-186
+806,Naledi,Mabaso,Naledi Mabaso,38,Female,South Africa,Gauteng,6907232544056,SA-CAS-199584,Vehicle Theft,660,144041,Medium,Closed,Capitec,6,Yes,2021-09-05,2020-02-22,Officer Mabena,SA-ST-781
+807,Nomsa,Naidoo,Nomsa Naidoo,33,Female,South Africa,Limpopo,7007091534021,SA-CAS-960189,Cybercrime,848,3110706,Critical,Convicted,Capitec,5,No,2024-03-23,2025-10-11,Officer Smith,SA-ST-207
+808,Ayanda,Zulu,Ayanda Zulu,58,Female,South Africa,Northern Cape,8101089427037,SA-CAS-588391,Cybercrime,318,381486,Low,Under Investigation,Absa,10,Yes,2017-12-05,2018-05-08,Officer Mabena,SA-ST-684
+809,Lerato,Naidoo,Lerato Naidoo,53,Female,South Africa,Eastern Cape,7010095689126,SA-CAS-273478,Drug Trafficking,835,354012,Low,Under Investigation,Nedbank,8,Yes,2020-06-02,2025-02-03,Officer Nkosi,SA-ST-310
+810,Sipho,Mokoena,Sipho Mokoena,56,Female,South Africa,North West,7512277665060,SA-CAS-871069,Identity Theft,821,4839939,Low,Open,African Bank,9,Yes,2017-06-03,2021-09-23,Officer Smith,SA-ST-812
+811,Nomsa,Mthembu,Nomsa Mthembu,41,Male,South Africa,Gauteng,7904059989139,SA-CAS-141466,Identity Theft,373,1951019,Low,Under Investigation,African Bank,7,Yes,2017-03-22,2018-10-28,Officer Smith,SA-ST-901
+812,Brian,Zulu,Brian Zulu,41,Male,South Africa,Northern Cape,8303275787176,SA-CAS-571197,Vehicle Theft,500,1408056,Critical,Under Investigation,Nedbank,9,Yes,2023-01-20,2023-05-06,Officer Smith,SA-ST-250
+813,Tendai,Ndlovu,Tendai Ndlovu,31,Male,South Africa,Free State,6804143296037,SA-CAS-793617,Vehicle Theft,334,3309651,Medium,Closed,African Bank,9,No,2015-12-19,2022-01-26,Officer Mabena,SA-ST-325
+814,Thabo,Pillay,Thabo Pillay,43,Female,South Africa,Gauteng,6503248174063,SA-CAS-225652,Drug Trafficking,327,1772630,Critical,Court Pending,Capitec,0,Yes,2018-01-13,2025-05-12,Officer Moyo,SA-ST-835
+815,Tendai,Ndlovu,Tendai Ndlovu,38,Male,South Africa,Limpopo,9608021872165,SA-CAS-730034,Drug Trafficking,433,4921797,Medium,Court Pending,FNB,7,No,2015-09-13,2021-09-23,Officer Mabena,SA-ST-966
+816,Sipho,Mthembu,Sipho Mthembu,31,Male,South Africa,Free State,7409283861119,SA-CAS-773753,Corruption,590,2798028,Medium,Under Investigation,Standard Bank,4,No,2019-05-14,2016-05-28,Officer Mabena,SA-ST-171
+817,Thabo,Ndlovu,Thabo Ndlovu,56,Female,South Africa,Limpopo,6110079338068,SA-CAS-784468,Cybercrime,423,4985132,Medium,Convicted,Nedbank,4,No,2015-08-30,2017-10-16,Officer Smith,SA-ST-340
+818,Sipho,Pillay,Sipho Pillay,44,Male,South Africa,Free State,7706116088019,SA-CAS-402937,Corruption,489,4536593,Critical,Under Investigation,Capitec,10,No,2015-12-10,2016-02-05,Officer Moyo,SA-ST-823
+819,Tendai,Mthembu,Tendai Mthembu,36,Female,South Africa,Western Cape,6907087180063,SA-CAS-257631,Fraud,664,1554638,Medium,Closed,Nedbank,9,Yes,2016-12-08,2015-09-15,Officer Naidoo,SA-ST-594
+820,Nomsa,Dlamini,Nomsa Dlamini,18,Female,South Africa,Eastern Cape,9404212902048,SA-CAS-980067,Money Laundering,422,113648,High,Court Pending,Absa,9,Yes,2023-01-07,2018-03-18,Officer Nkosi,SA-ST-992
+821,Nomsa,Dlamini,Nomsa Dlamini,36,Male,South Africa,Eastern Cape,9711051673068,SA-CAS-677952,Vehicle Theft,648,2034263,Low,Convicted,FNB,6,No,2015-10-05,2024-02-22,Officer Mabena,SA-ST-898
+822,Tendai,Ndlovu,Tendai Ndlovu,32,Female,South Africa,Free State,8206075951039,SA-CAS-424282,Armed Robbery,691,3032322,Medium,Convicted,FNB,9,Yes,2015-11-02,2023-04-14,Officer Naidoo,SA-ST-748
+823,Ayanda,Nkosi,Ayanda Nkosi,35,Female,South Africa,Eastern Cape,7309091723017,SA-CAS-566507,Drug Trafficking,461,3874187,Critical,Closed,Nedbank,10,Yes,2022-02-08,2017-05-29,Officer Smith,SA-ST-299
+824,Thabo,Pillay,Thabo Pillay,51,Female,South Africa,KwaZulu-Natal,6312116643160,SA-CAS-757323,Cybercrime,795,769169,High,Closed,Standard Bank,6,No,2025-01-21,2015-08-13,Officer Nkosi,SA-ST-822
+825,Nomsa,Nkosi,Nomsa Nkosi,55,Male,South Africa,North West,8707272555128,SA-CAS-942580,Cybercrime,352,649990,Critical,Open,Standard Bank,4,Yes,2017-05-15,2018-04-22,Officer Smith,SA-ST-663
+826,Thabo,Dlamini,Thabo Dlamini,58,Male,South Africa,Eastern Cape,0302207382154,SA-CAS-906927,Fraud,670,813621,High,Closed,African Bank,8,No,2022-06-22,2023-11-09,Officer Mabena,SA-ST-844
+827,Ayanda,Naidoo,Ayanda Naidoo,34,Male,South Africa,Northern Cape,8812163701180,SA-CAS-377319,Cybercrime,389,2526307,High,Open,Capitec,0,Yes,2021-01-11,2019-05-18,Officer Nkosi,SA-ST-517
+828,Zanele,Dlamini,Zanele Dlamini,55,Male,South Africa,Gauteng,7001225973181,SA-CAS-117674,Armed Robbery,459,3964845,Medium,Court Pending,Absa,6,No,2019-07-29,2015-11-23,Officer Nkosi,SA-ST-609
+829,Zanele,Dlamini,Zanele Dlamini,43,Female,South Africa,Western Cape,0302058855058,SA-CAS-438657,Fraud,754,3170034,Medium,Convicted,African Bank,2,Yes,2023-04-07,2025-06-09,Officer Naidoo,SA-ST-239
+830,Naledi,Mthembu,Naledi Mthembu,61,Male,South Africa,Mpumalanga,7307222122021,SA-CAS-247999,Cybercrime,759,1975814,Critical,Convicted,African Bank,10,Yes,2020-03-09,2015-09-16,Officer Moyo,SA-ST-436
+831,Thabo,Mabaso,Thabo Mabaso,22,Male,South Africa,Free State,9909157394118,SA-CAS-260798,Vehicle Theft,705,4908966,Low,Open,Standard Bank,9,Yes,2019-01-13,2023-02-24,Officer Nkosi,SA-ST-218
+832,Brian,Pillay,Brian Pillay,26,Male,South Africa,Northern Cape,8908066818055,SA-CAS-374305,Vehicle Theft,365,4631974,Critical,Under Investigation,Absa,0,No,2022-04-03,2025-03-23,Officer Mabena,SA-ST-835
+833,Tendai,Zulu,Tendai Zulu,27,Female,South Africa,Limpopo,8106184298174,SA-CAS-584682,Vehicle Theft,410,4846707,High,Under Investigation,FNB,6,Yes,2015-12-04,2025-09-06,Officer Naidoo,SA-ST-537
+834,Zanele,Mthembu,Zanele Mthembu,34,Male,South Africa,Free State,8803262519167,SA-CAS-785914,Money Laundering,663,3119055,Medium,Open,Absa,3,No,2024-07-17,2023-05-29,Officer Smith,SA-ST-498
+835,Lerato,Nkosi,Lerato Nkosi,42,Male,South Africa,Northern Cape,0410053890080,SA-CAS-541417,Cybercrime,518,4702934,Critical,Court Pending,Nedbank,7,Yes,2022-12-12,2025-08-09,Officer Nkosi,SA-ST-255
+836,Naledi,Pillay,Naledi Pillay,45,Female,South Africa,KwaZulu-Natal,8206061574188,SA-CAS-937120,Drug Trafficking,581,4397005,Critical,Open,Capitec,5,No,2018-12-05,2023-01-05,Officer Nkosi,SA-ST-781
+837,Brian,Pillay,Brian Pillay,64,Male,South Africa,North West,8501212120126,SA-CAS-899218,Money Laundering,504,993177,Critical,Court Pending,Nedbank,3,No,2022-10-12,2024-03-30,Officer Moyo,SA-ST-369
+838,Thabo,Ndlovu,Thabo Ndlovu,34,Male,South Africa,KwaZulu-Natal,6307261099069,SA-CAS-631846,Cybercrime,810,1134153,High,Court Pending,Capitec,0,Yes,2015-02-28,2017-10-01,Officer Mabena,SA-ST-657
+839,Lerato,Mokoena,Lerato Mokoena,54,Male,South Africa,North West,9405087878131,SA-CAS-485095,Vehicle Theft,314,871954,Critical,Court Pending,Absa,0,No,2016-06-22,2025-05-21,Officer Mabena,SA-ST-970
+840,Sipho,Zulu,Sipho Zulu,23,Male,South Africa,KwaZulu-Natal,0012051881064,SA-CAS-884134,Corruption,406,4215740,High,Court Pending,Nedbank,9,No,2022-03-12,2023-10-03,Officer Nkosi,SA-ST-517
+841,Nomsa,Pillay,Nomsa Pillay,65,Male,South Africa,Western Cape,7903245653125,SA-CAS-268370,Cybercrime,669,722134,Low,Open,Absa,3,Yes,2020-08-08,2019-06-16,Officer Mabena,SA-ST-922
+842,Lerato,Mokoena,Lerato Mokoena,54,Male,South Africa,Free State,7801183248111,SA-CAS-480172,Identity Theft,461,1969828,Low,Closed,Capitec,2,No,2017-01-25,2016-06-03,Officer Nkosi,SA-ST-413
+843,Nomsa,Dlamini,Nomsa Dlamini,49,Female,South Africa,Eastern Cape,6804074151096,SA-CAS-520025,Corruption,820,2716842,Medium,Convicted,African Bank,9,No,2022-09-21,2021-07-24,Officer Smith,SA-ST-980
+844,Nomsa,Nkosi,Nomsa Nkosi,48,Male,South Africa,Free State,8309067940054,SA-CAS-332470,Corruption,719,3224546,Low,Under Investigation,Standard Bank,7,No,2018-03-12,2021-05-08,Officer Smith,SA-ST-744
+845,Mpho,Pillay,Mpho Pillay,24,Female,South Africa,North West,8707244748181,SA-CAS-789429,Cybercrime,490,703258,Low,Closed,FNB,6,No,2017-12-05,2017-01-08,Officer Nkosi,SA-ST-309
+846,Lerato,Mabaso,Lerato Mabaso,22,Female,South Africa,Mpumalanga,9708253942137,SA-CAS-310205,Armed Robbery,348,787179,High,Court Pending,Absa,0,No,2021-10-30,2017-03-08,Officer Moyo,SA-ST-415
+847,Brian,Khumalo,Brian Khumalo,65,Female,South Africa,Northern Cape,9602158826121,SA-CAS-286379,Corruption,625,4363844,Low,Open,Nedbank,7,Yes,2016-08-09,2016-10-04,Officer Naidoo,SA-ST-649
+848,Ayanda,Mthembu,Ayanda Mthembu,60,Male,South Africa,KwaZulu-Natal,8502264350012,SA-CAS-365087,Fraud,602,4705901,Medium,Open,African Bank,6,No,2024-09-27,2019-09-16,Officer Nkosi,SA-ST-802
+849,Sipho,Ndlovu,Sipho Ndlovu,25,Male,South Africa,Free State,7703189936011,SA-CAS-984027,Vehicle Theft,397,907962,Critical,Closed,African Bank,8,Yes,2022-07-30,2024-03-03,Officer Smith,SA-ST-672
+850,Nomsa,Nkosi,Nomsa Nkosi,42,Female,South Africa,Eastern Cape,8008136647015,SA-CAS-395764,Drug Trafficking,533,1614960,Medium,Convicted,African Bank,4,No,2020-09-04,2025-08-19,Officer Moyo,SA-ST-535
+851,Thabo,Mthembu,Thabo Mthembu,47,Female,South Africa,Eastern Cape,8205116855139,SA-CAS-911975,Armed Robbery,750,4752634,Low,Open,Capitec,3,Yes,2021-11-01,2021-01-16,Officer Nkosi,SA-ST-917
+852,Nomsa,Mthembu,Nomsa Mthembu,41,Female,South Africa,KwaZulu-Natal,6811132308097,SA-CAS-943628,Armed Robbery,656,2175821,Medium,Under Investigation,Capitec,2,No,2023-07-29,2025-05-30,Officer Moyo,SA-ST-197
+853,Ayanda,Nkosi,Ayanda Nkosi,27,Female,South Africa,Free State,8510128336026,SA-CAS-968905,Corruption,697,525789,Critical,Convicted,FNB,7,No,2017-09-21,2016-05-23,Officer Naidoo,SA-ST-293
+854,Zanele,Ndlovu,Zanele Ndlovu,51,Male,South Africa,North West,7007176688060,SA-CAS-148713,Fraud,531,893762,Low,Convicted,Absa,5,Yes,2018-03-15,2019-05-28,Officer Nkosi,SA-ST-181
+855,Brian,Pillay,Brian Pillay,62,Male,South Africa,Northern Cape,8608225571172,SA-CAS-134109,Cybercrime,306,3874009,Critical,Under Investigation,Absa,7,Yes,2019-10-03,2021-04-17,Officer Naidoo,SA-ST-769
+856,Mpho,Ndlovu,Mpho Ndlovu,61,Male,South Africa,Gauteng,7809192118184,SA-CAS-968632,Corruption,463,291832,Medium,Under Investigation,FNB,6,Yes,2025-07-05,2017-11-09,Officer Smith,SA-ST-824
+857,Naledi,Naidoo,Naledi Naidoo,60,Male,South Africa,Mpumalanga,6408153360157,SA-CAS-802235,Fraud,708,1941517,Medium,Convicted,Capitec,6,No,2018-05-09,2016-03-30,Officer Smith,SA-ST-985
+858,Naledi,Mabaso,Naledi Mabaso,38,Male,South Africa,Gauteng,7804174277021,SA-CAS-209158,Drug Trafficking,534,4565025,Critical,Closed,Standard Bank,4,Yes,2018-08-01,2021-07-21,Officer Moyo,SA-ST-324
+859,Ayanda,Mokoena,Ayanda Mokoena,22,Female,South Africa,North West,6709236552022,SA-CAS-994146,Vehicle Theft,702,3207559,Critical,Court Pending,Standard Bank,6,No,2017-02-07,2018-03-11,Officer Naidoo,SA-ST-875
+860,Mpho,Khumalo,Mpho Khumalo,54,Female,South Africa,Limpopo,9602139148045,SA-CAS-403790,Corruption,595,3615921,Medium,Convicted,Standard Bank,7,No,2021-01-25,2018-02-04,Officer Nkosi,SA-ST-421
+861,Thabo,Naidoo,Thabo Naidoo,59,Female,South Africa,Western Cape,6403233739177,SA-CAS-357491,Corruption,531,2623530,Low,Convicted,African Bank,0,No,2025-07-14,2017-01-24,Officer Smith,SA-ST-439
+862,Ayanda,Mthembu,Ayanda Mthembu,24,Male,South Africa,Free State,6603266774118,SA-CAS-416625,Identity Theft,751,2866117,Critical,Court Pending,Standard Bank,2,Yes,2019-07-26,2018-09-08,Officer Naidoo,SA-ST-481
+863,Ayanda,Zulu,Ayanda Zulu,45,Male,South Africa,Eastern Cape,9007241226165,SA-CAS-328316,Cybercrime,739,1232666,Critical,Court Pending,Nedbank,2,Yes,2020-09-11,2015-02-14,Officer Smith,SA-ST-939
+864,Nomsa,Mokoena,Nomsa Mokoena,49,Male,South Africa,Eastern Cape,6402199340082,SA-CAS-319502,Armed Robbery,707,1111545,Critical,Under Investigation,Nedbank,0,No,2022-09-14,2025-07-28,Officer Nkosi,SA-ST-352
+865,Thabo,Dlamini,Thabo Dlamini,58,Female,South Africa,Gauteng,7302207384154,SA-CAS-381177,Drug Trafficking,522,936231,High,Convicted,FNB,1,No,2021-06-24,2022-11-22,Officer Smith,SA-ST-174
+866,Tendai,Naidoo,Tendai Naidoo,61,Male,South Africa,Limpopo,9001113868057,SA-CAS-112886,Fraud,410,3919188,Medium,Closed,FNB,4,No,2017-12-12,2020-06-10,Officer Moyo,SA-ST-488
+867,Mpho,Khumalo,Mpho Khumalo,63,Male,South Africa,North West,0312211294060,SA-CAS-932261,Money Laundering,365,3667327,Critical,Court Pending,Absa,10,No,2018-08-29,2024-03-15,Officer Mabena,SA-ST-498
+868,Lerato,Mokoena,Lerato Mokoena,58,Female,South Africa,Limpopo,6911239175041,SA-CAS-900229,Drug Trafficking,557,4805762,Medium,Convicted,Standard Bank,4,Yes,2019-07-18,2016-10-29,Officer Smith,SA-ST-790
+869,Ayanda,Nkosi,Ayanda Nkosi,62,Female,South Africa,Limpopo,6204038925082,SA-CAS-494629,Money Laundering,519,3969286,Critical,Under Investigation,Capitec,9,Yes,2020-03-15,2025-06-03,Officer Moyo,SA-ST-857
+870,Naledi,Pillay,Naledi Pillay,63,Female,South Africa,KwaZulu-Natal,6303059136197,SA-CAS-199144,Drug Trafficking,497,2171984,Medium,Under Investigation,Capitec,1,Yes,2021-03-17,2023-08-18,Officer Smith,SA-ST-369
+871,Sipho,Khumalo,Sipho Khumalo,54,Female,South Africa,Northern Cape,7605184058154,SA-CAS-931108,Cybercrime,330,1838594,Medium,Convicted,Nedbank,0,No,2024-03-08,2016-08-30,Officer Mabena,SA-ST-700
+872,Tendai,Khumalo,Tendai Khumalo,32,Female,South Africa,Limpopo,6301075392174,SA-CAS-326220,Corruption,590,2268308,Medium,Under Investigation,Standard Bank,1,No,2021-03-25,2024-07-03,Officer Naidoo,SA-ST-742
+873,Nomsa,Mabaso,Nomsa Mabaso,48,Female,South Africa,Eastern Cape,9402091232156,SA-CAS-346605,Vehicle Theft,455,2693915,Critical,Closed,Capitec,0,No,2023-01-21,2017-11-26,Officer Nkosi,SA-ST-426
+874,Ayanda,Mthembu,Ayanda Mthembu,32,Female,South Africa,North West,7712081479022,SA-CAS-342725,Drug Trafficking,797,1755526,High,Court Pending,Capitec,3,No,2024-09-26,2018-07-30,Officer Mabena,SA-ST-219
+875,Nomsa,Naidoo,Nomsa Naidoo,62,Female,South Africa,North West,9705215784179,SA-CAS-702103,Money Laundering,554,3579619,Critical,Court Pending,Nedbank,6,Yes,2017-11-17,2021-06-29,Officer Mabena,SA-ST-707
+876,Sipho,Mabaso,Sipho Mabaso,61,Female,South Africa,Limpopo,6612091693050,SA-CAS-547658,Cybercrime,334,2909699,Low,Closed,Standard Bank,9,Yes,2018-12-31,2023-06-18,Officer Nkosi,SA-ST-222
+877,Ayanda,Naidoo,Ayanda Naidoo,26,Female,South Africa,KwaZulu-Natal,6009057225028,SA-CAS-248608,Cybercrime,385,1429854,Medium,Convicted,African Bank,0,No,2019-05-29,2022-01-02,Officer Mabena,SA-ST-661
+878,Naledi,Naidoo,Naledi Naidoo,36,Male,South Africa,Northern Cape,6104079905054,SA-CAS-770533,Money Laundering,334,3087411,Low,Under Investigation,Capitec,10,Yes,2015-09-21,2024-12-20,Officer Mabena,SA-ST-526
+879,Nomsa,Nkosi,Nomsa Nkosi,39,Female,South Africa,Limpopo,8809157731097,SA-CAS-104170,Drug Trafficking,756,2981595,Low,Closed,Standard Bank,5,Yes,2018-03-04,2021-02-22,Officer Smith,SA-ST-789
+880,Naledi,Mokoena,Naledi Mokoena,50,Female,South Africa,Mpumalanga,9702208120086,SA-CAS-635996,Fraud,718,4932703,Medium,Convicted,Absa,10,Yes,2016-12-10,2023-07-05,Officer Mabena,SA-ST-754
+881,Sipho,Naidoo,Sipho Naidoo,47,Male,South Africa,KwaZulu-Natal,0510038921013,SA-CAS-877989,Money Laundering,606,569693,Critical,Open,Standard Bank,2,No,2024-08-30,2025-09-13,Officer Nkosi,SA-ST-434
+882,Ayanda,Dlamini,Ayanda Dlamini,26,Male,South Africa,Free State,9408164752023,SA-CAS-811438,Identity Theft,843,588292,High,Closed,Nedbank,5,Yes,2019-05-20,2025-10-26,Officer Nkosi,SA-ST-458
+883,Brian,Pillay,Brian Pillay,65,Male,South Africa,Western Cape,7912075318140,SA-CAS-716335,Money Laundering,461,3379115,Medium,Closed,Capitec,3,No,2019-09-06,2021-03-31,Officer Smith,SA-ST-798
+884,Thabo,Nkosi,Thabo Nkosi,63,Male,South Africa,North West,8909072035131,SA-CAS-755094,Vehicle Theft,537,1608015,Critical,Convicted,Nedbank,7,Yes,2025-04-11,2019-02-22,Officer Moyo,SA-ST-451
+885,Thabo,Nkosi,Thabo Nkosi,24,Male,South Africa,Mpumalanga,0009255847193,SA-CAS-146711,Drug Trafficking,427,4941597,High,Court Pending,FNB,3,No,2024-03-31,2024-06-18,Officer Smith,SA-ST-847
+886,Zanele,Ndlovu,Zanele Ndlovu,39,Male,South Africa,Eastern Cape,8507132025169,SA-CAS-487946,Identity Theft,574,4142418,Low,Court Pending,FNB,10,No,2021-04-21,2015-10-08,Officer Mabena,SA-ST-448
+887,Tendai,Khumalo,Tendai Khumalo,64,Male,South Africa,Western Cape,0504188798089,SA-CAS-834945,Cybercrime,662,2556201,Critical,Convicted,FNB,7,No,2022-09-26,2017-06-21,Officer Smith,SA-ST-400
+888,Lerato,Zulu,Lerato Zulu,41,Male,South Africa,Mpumalanga,6607219015048,SA-CAS-642567,Identity Theft,795,3494287,Low,Under Investigation,Standard Bank,1,Yes,2024-05-26,2019-07-25,Officer Smith,SA-ST-163
+889,Nomsa,Khumalo,Nomsa Khumalo,46,Female,South Africa,North West,8411128186178,SA-CAS-294587,Drug Trafficking,362,1190438,Critical,Closed,Nedbank,5,Yes,2018-02-23,2018-05-16,Officer Moyo,SA-ST-437
+890,Lerato,Ndlovu,Lerato Ndlovu,48,Male,South Africa,Gauteng,6905058507176,SA-CAS-632127,Money Laundering,779,2122016,Low,Open,African Bank,5,Yes,2016-01-10,2019-12-13,Officer Smith,SA-ST-898
+891,Nomsa,Dlamini,Nomsa Dlamini,51,Male,South Africa,Eastern Cape,6902259645161,SA-CAS-787753,Corruption,522,1145215,Low,Closed,Nedbank,8,No,2020-04-15,2024-08-29,Officer Nkosi,SA-ST-995
+892,Lerato,Dlamini,Lerato Dlamini,20,Female,South Africa,Free State,6402015489160,SA-CAS-478948,Money Laundering,797,530377,Medium,Convicted,Nedbank,5,No,2023-09-11,2015-11-25,Officer Smith,SA-ST-354
+893,Mpho,Khumalo,Mpho Khumalo,48,Female,South Africa,Eastern Cape,7801027773042,SA-CAS-451566,Cybercrime,439,752896,High,Court Pending,Capitec,0,No,2021-08-13,2025-11-26,Officer Smith,SA-ST-946
+894,Nomsa,Naidoo,Nomsa Naidoo,48,Male,South Africa,Eastern Cape,9012231532141,SA-CAS-689213,Fraud,619,2710871,Critical,Court Pending,FNB,6,No,2019-05-06,2025-11-23,Officer Smith,SA-ST-895
+895,Brian,Zulu,Brian Zulu,59,Male,South Africa,Free State,9009207745087,SA-CAS-927316,Vehicle Theft,318,2769632,Medium,Open,Capitec,9,No,2015-05-09,2024-05-22,Officer Mabena,SA-ST-910
+896,Naledi,Dlamini,Naledi Dlamini,53,Male,South Africa,KwaZulu-Natal,9112169992148,SA-CAS-496459,Money Laundering,487,1020527,High,Convicted,African Bank,8,No,2018-07-12,2022-06-09,Officer Smith,SA-ST-243
+897,Nomsa,Pillay,Nomsa Pillay,21,Male,South Africa,Limpopo,7708101380120,SA-CAS-837648,Money Laundering,488,3184036,Critical,Open,Standard Bank,8,Yes,2021-06-05,2025-06-26,Officer Naidoo,SA-ST-482
+898,Mpho,Ndlovu,Mpho Ndlovu,48,Female,South Africa,Northern Cape,6605146548143,SA-CAS-544920,Armed Robbery,643,643807,Critical,Convicted,FNB,3,Yes,2015-03-02,2015-05-25,Officer Moyo,SA-ST-625
+899,Ayanda,Ndlovu,Ayanda Ndlovu,42,Male,South Africa,Mpumalanga,8102201218054,SA-CAS-136746,Cybercrime,849,3475298,Low,Convicted,Standard Bank,3,Yes,2019-01-18,2016-01-05,Officer Mabena,SA-ST-666
+900,Ayanda,Nkosi,Ayanda Nkosi,23,Male,South Africa,Free State,7407202496044,SA-CAS-732051,Cybercrime,370,225259,Low,Closed,Absa,3,No,2024-02-07,2022-10-02,Officer Nkosi,SA-ST-121
+901,Naledi,Ndlovu,Naledi Ndlovu,30,Female,South Africa,Limpopo,7203111029129,SA-CAS-177682,Armed Robbery,477,826751,Critical,Under Investigation,Capitec,5,Yes,2025-03-30,2022-01-18,Officer Smith,SA-ST-552
+902,Tendai,Pillay,Tendai Pillay,43,Male,South Africa,KwaZulu-Natal,9211085882195,SA-CAS-316283,Cybercrime,835,1346075,High,Closed,Standard Bank,7,No,2018-02-13,2022-02-14,Officer Moyo,SA-ST-427
+903,Mpho,Nkosi,Mpho Nkosi,55,Female,South Africa,KwaZulu-Natal,8102226193177,SA-CAS-697602,Money Laundering,794,4962313,Critical,Convicted,Capitec,7,Yes,2021-02-26,2022-11-24,Officer Moyo,SA-ST-378
+904,Zanele,Nkosi,Zanele Nkosi,20,Male,South Africa,Gauteng,6306067841166,SA-CAS-957716,Vehicle Theft,464,3763904,Medium,Open,Standard Bank,3,Yes,2024-10-25,2015-09-05,Officer Nkosi,SA-ST-665
+905,Thabo,Zulu,Thabo Zulu,29,Female,South Africa,Northern Cape,6512074183015,SA-CAS-182727,Vehicle Theft,507,3683474,High,Court Pending,Absa,2,Yes,2024-07-12,2025-11-21,Officer Moyo,SA-ST-895
+906,Nomsa,Ndlovu,Nomsa Ndlovu,42,Female,South Africa,Eastern Cape,9604274938144,SA-CAS-411439,Cybercrime,760,3836511,Low,Convicted,Nedbank,2,No,2024-07-01,2022-09-02,Officer Nkosi,SA-ST-594
+907,Thabo,Mabaso,Thabo Mabaso,45,Female,South Africa,Free State,0306107986156,SA-CAS-125951,Armed Robbery,778,4200742,Critical,Court Pending,FNB,0,No,2017-10-04,2016-12-29,Officer Moyo,SA-ST-721
+908,Brian,Naidoo,Brian Naidoo,45,Female,South Africa,Limpopo,8203197133064,SA-CAS-378910,Armed Robbery,715,2292707,Critical,Court Pending,Standard Bank,5,Yes,2016-07-14,2021-09-12,Officer Moyo,SA-ST-673
+909,Tendai,Mokoena,Tendai Mokoena,34,Female,South Africa,Eastern Cape,6207278314150,SA-CAS-317129,Money Laundering,791,2874472,Critical,Closed,African Bank,0,Yes,2015-01-12,2024-05-08,Officer Smith,SA-ST-555
+910,Mpho,Nkosi,Mpho Nkosi,62,Female,South Africa,Northern Cape,7111275469125,SA-CAS-817162,Money Laundering,786,892751,High,Open,Capitec,9,No,2017-11-18,2021-06-22,Officer Moyo,SA-ST-139
+911,Tendai,Zulu,Tendai Zulu,35,Male,South Africa,Western Cape,7707029653146,SA-CAS-397156,Corruption,751,4426954,Critical,Convicted,Nedbank,0,Yes,2023-07-03,2023-02-07,Officer Mabena,SA-ST-566
+912,Sipho,Mokoena,Sipho Mokoena,29,Female,South Africa,Northern Cape,0011127879126,SA-CAS-818218,Corruption,554,60624,High,Closed,Standard Bank,6,No,2019-04-07,2017-04-03,Officer Smith,SA-ST-820
+913,Tendai,Mokoena,Tendai Mokoena,53,Male,South Africa,Eastern Cape,8005145905026,SA-CAS-470365,Drug Trafficking,739,2975160,Low,Convicted,African Bank,9,No,2024-09-26,2025-07-04,Officer Naidoo,SA-ST-422
+914,Sipho,Khumalo,Sipho Khumalo,21,Female,South Africa,Gauteng,7206208510041,SA-CAS-167654,Money Laundering,474,1806057,Critical,Convicted,Absa,8,Yes,2025-11-05,2021-11-08,Officer Smith,SA-ST-569
+915,Naledi,Ndlovu,Naledi Ndlovu,26,Female,South Africa,Mpumalanga,8904136579191,SA-CAS-864731,Vehicle Theft,819,4591185,Medium,Convicted,African Bank,4,Yes,2017-04-06,2021-02-01,Officer Smith,SA-ST-345
+916,Tendai,Khumalo,Tendai Khumalo,21,Male,South Africa,Northern Cape,6501077257182,SA-CAS-510835,Armed Robbery,696,1408644,High,Closed,Capitec,2,Yes,2019-03-26,2021-04-02,Officer Mabena,SA-ST-288
+917,Mpho,Khumalo,Mpho Khumalo,44,Male,South Africa,Free State,6810139732026,SA-CAS-889855,Vehicle Theft,477,877869,Medium,Under Investigation,Absa,0,No,2016-01-21,2025-09-15,Officer Nkosi,SA-ST-110
+918,Tendai,Ndlovu,Tendai Ndlovu,63,Female,South Africa,Western Cape,0406252922055,SA-CAS-161464,Drug Trafficking,664,1407978,Low,Court Pending,African Bank,1,Yes,2023-10-05,2020-09-09,Officer Nkosi,SA-ST-983
+919,Tendai,Mabaso,Tendai Mabaso,64,Male,South Africa,Gauteng,9609101268015,SA-CAS-946403,Fraud,412,3024649,High,Court Pending,FNB,10,No,2021-03-13,2023-09-16,Officer Smith,SA-ST-835
+920,Mpho,Mokoena,Mpho Mokoena,45,Female,South Africa,Free State,0208103355167,SA-CAS-348867,Corruption,589,3928918,Low,Open,Capitec,2,Yes,2023-06-05,2024-06-20,Officer Moyo,SA-ST-409
+921,Naledi,Mabaso,Naledi Mabaso,43,Male,South Africa,North West,8003096924150,SA-CAS-766700,Armed Robbery,410,3585578,Medium,Closed,Capitec,9,No,2022-01-23,2016-05-13,Officer Moyo,SA-ST-249
+922,Ayanda,Mabaso,Ayanda Mabaso,36,Female,South Africa,Free State,9407234107136,SA-CAS-704514,Cybercrime,403,4930538,Low,Closed,African Bank,7,Yes,2020-04-16,2023-08-24,Officer Moyo,SA-ST-621
+923,Naledi,Ndlovu,Naledi Ndlovu,39,Female,South Africa,KwaZulu-Natal,8812114803176,SA-CAS-625596,Drug Trafficking,344,4331711,Low,Court Pending,Capitec,10,No,2016-01-04,2024-12-11,Officer Mabena,SA-ST-802
+924,Mpho,Nkosi,Mpho Nkosi,34,Female,South Africa,North West,6509177723154,SA-CAS-345245,Fraud,768,931143,High,Closed,Standard Bank,1,No,2019-08-27,2022-01-14,Officer Smith,SA-ST-805
+925,Zanele,Dlamini,Zanele Dlamini,59,Male,South Africa,Western Cape,9103239437047,SA-CAS-171002,Cybercrime,535,2644453,Low,Closed,FNB,1,No,2016-11-18,2015-11-24,Officer Mabena,SA-ST-275
+926,Mpho,Mthembu,Mpho Mthembu,26,Male,South Africa,Mpumalanga,6105233708185,SA-CAS-326748,Armed Robbery,695,4222773,Low,Court Pending,Nedbank,7,No,2021-09-29,2015-05-11,Officer Smith,SA-ST-838
+927,Mpho,Mthembu,Mpho Mthembu,39,Male,South Africa,Western Cape,7107083988028,SA-CAS-270475,Fraud,308,2298289,Medium,Convicted,African Bank,6,No,2021-05-21,2015-03-21,Officer Mabena,SA-ST-472
+928,Mpho,Mokoena,Mpho Mokoena,37,Male,South Africa,Mpumalanga,8102285143122,SA-CAS-948652,Fraud,527,3148868,High,Under Investigation,FNB,1,No,2025-04-25,2017-10-06,Officer Smith,SA-ST-722
+929,Nomsa,Pillay,Nomsa Pillay,33,Female,South Africa,Western Cape,6212196750087,SA-CAS-723978,Fraud,646,3936352,Medium,Open,FNB,10,Yes,2023-01-23,2017-03-09,Officer Nkosi,SA-ST-303
+930,Tendai,Zulu,Tendai Zulu,18,Female,South Africa,Eastern Cape,6104207762077,SA-CAS-511446,Cybercrime,461,91875,High,Court Pending,Nedbank,10,No,2025-02-07,2015-05-12,Officer Smith,SA-ST-555
+931,Thabo,Pillay,Thabo Pillay,23,Male,South Africa,Northern Cape,8002028231027,SA-CAS-883697,Armed Robbery,620,4943564,Medium,Closed,Nedbank,9,Yes,2023-02-19,2019-04-26,Officer Nkosi,SA-ST-529
+932,Sipho,Ndlovu,Sipho Ndlovu,28,Male,South Africa,Limpopo,9503275985153,SA-CAS-331659,Fraud,717,3937913,Medium,Convicted,Nedbank,7,Yes,2024-11-27,2018-12-22,Officer Smith,SA-ST-372
+933,Brian,Mabaso,Brian Mabaso,50,Female,South Africa,North West,0503131660081,SA-CAS-809349,Armed Robbery,682,4836801,Low,Under Investigation,FNB,8,No,2024-08-19,2016-02-19,Officer Moyo,SA-ST-200
+934,Thabo,Mabaso,Thabo Mabaso,23,Female,South Africa,Eastern Cape,8512126273126,SA-CAS-657868,Armed Robbery,626,638888,High,Closed,FNB,2,No,2018-06-15,2023-07-17,Officer Nkosi,SA-ST-324
+935,Thabo,Mthembu,Thabo Mthembu,61,Female,South Africa,Limpopo,8905215377167,SA-CAS-215869,Corruption,550,2531393,Critical,Open,African Bank,2,Yes,2020-12-29,2025-11-12,Officer Mabena,SA-ST-170
+936,Nomsa,Ndlovu,Nomsa Ndlovu,19,Female,South Africa,KwaZulu-Natal,8502061722024,SA-CAS-242707,Fraud,593,1879243,Medium,Closed,Absa,10,No,2017-04-19,2021-10-10,Officer Nkosi,SA-ST-843
+937,Lerato,Ndlovu,Lerato Ndlovu,50,Male,South Africa,Mpumalanga,9404014218198,SA-CAS-592561,Cybercrime,799,4477554,Medium,Convicted,Absa,4,No,2022-03-04,2018-03-27,Officer Mabena,SA-ST-624
+938,Lerato,Khumalo,Lerato Khumalo,33,Male,South Africa,North West,9103105647179,SA-CAS-381199,Cybercrime,321,3144720,Critical,Convicted,Capitec,9,Yes,2020-12-13,2022-11-09,Officer Naidoo,SA-ST-836
+939,Ayanda,Naidoo,Ayanda Naidoo,20,Female,South Africa,North West,8510132117076,SA-CAS-240101,Corruption,308,958681,Critical,Under Investigation,Nedbank,5,No,2021-01-22,2024-08-16,Officer Moyo,SA-ST-241
+940,Lerato,Mthembu,Lerato Mthembu,55,Female,South Africa,Eastern Cape,9905013583042,SA-CAS-635628,Fraud,631,1177650,Low,Closed,Capitec,9,No,2015-03-04,2020-09-09,Officer Nkosi,SA-ST-886
+941,Ayanda,Nkosi,Ayanda Nkosi,60,Male,South Africa,Limpopo,0402018681055,SA-CAS-799823,Cybercrime,369,754347,Medium,Closed,Capitec,3,Yes,2019-07-20,2025-11-22,Officer Mabena,SA-ST-585
+942,Zanele,Mokoena,Zanele Mokoena,43,Male,South Africa,North West,9108111522050,SA-CAS-687713,Money Laundering,667,1331824,Medium,Convicted,Absa,7,Yes,2015-07-11,2020-12-11,Officer Naidoo,SA-ST-128
+943,Brian,Naidoo,Brian Naidoo,47,Male,South Africa,Northern Cape,7511173715150,SA-CAS-807621,Cybercrime,373,2441897,High,Open,Standard Bank,7,Yes,2016-09-15,2020-07-16,Officer Smith,SA-ST-245
+944,Naledi,Zulu,Naledi Zulu,57,Female,South Africa,Northern Cape,8404191042080,SA-CAS-803892,Money Laundering,409,2286427,High,Open,African Bank,0,Yes,2019-01-16,2017-03-01,Officer Smith,SA-ST-289
+945,Tendai,Zulu,Tendai Zulu,64,Male,South Africa,Northern Cape,6404272810068,SA-CAS-920746,Drug Trafficking,443,610114,High,Court Pending,Capitec,1,No,2017-12-22,2023-04-05,Officer Nkosi,SA-ST-248
+946,Lerato,Pillay,Lerato Pillay,40,Female,South Africa,Western Cape,7910176344082,SA-CAS-461756,Corruption,516,2488940,Critical,Under Investigation,Capitec,10,No,2023-06-20,2016-10-31,Officer Moyo,SA-ST-571
+947,Naledi,Pillay,Naledi Pillay,57,Male,South Africa,Free State,6910096864020,SA-CAS-677534,Vehicle Theft,353,1290335,Critical,Open,Nedbank,3,No,2024-11-16,2017-01-27,Officer Naidoo,SA-ST-274
+948,Zanele,Dlamini,Zanele Dlamini,46,Female,South Africa,Limpopo,8907115645021,SA-CAS-186983,Identity Theft,772,1329369,Critical,Court Pending,Absa,1,Yes,2015-02-24,2021-11-12,Officer Naidoo,SA-ST-407
+949,Thabo,Khumalo,Thabo Khumalo,60,Male,South Africa,Gauteng,6901206181085,SA-CAS-155745,Vehicle Theft,684,2933753,Low,Court Pending,Standard Bank,5,No,2020-02-15,2022-03-07,Officer Moyo,SA-ST-689
+950,Brian,Khumalo,Brian Khumalo,49,Male,South Africa,Mpumalanga,9010042831191,SA-CAS-325040,Identity Theft,368,3982238,Medium,Under Investigation,Nedbank,6,Yes,2021-10-29,2015-03-10,Officer Smith,SA-ST-980
+951,Sipho,Dlamini,Sipho Dlamini,53,Female,South Africa,Northern Cape,9904169856184,SA-CAS-942673,Corruption,507,950048,Low,Court Pending,African Bank,8,Yes,2020-05-05,2016-11-09,Officer Naidoo,SA-ST-676
+952,Tendai,Dlamini,Tendai Dlamini,19,Male,South Africa,Mpumalanga,6211138080132,SA-CAS-688701,Corruption,343,4907654,High,Open,FNB,5,Yes,2022-06-11,2022-10-21,Officer Nkosi,SA-ST-670
+953,Brian,Mabaso,Brian Mabaso,45,Male,South Africa,Gauteng,6101183492123,SA-CAS-121011,Cybercrime,439,4798009,Low,Convicted,Nedbank,0,No,2021-05-26,2025-08-20,Officer Nkosi,SA-ST-902
+954,Tendai,Mthembu,Tendai Mthembu,28,Female,South Africa,Western Cape,6009265820171,SA-CAS-243778,Corruption,737,2736765,Critical,Open,African Bank,1,Yes,2023-07-29,2023-06-22,Officer Nkosi,SA-ST-143
+955,Mpho,Mokoena,Mpho Mokoena,61,Female,South Africa,Northern Cape,7709047710123,SA-CAS-644133,Identity Theft,827,543739,High,Open,Nedbank,6,No,2020-06-10,2018-04-17,Officer Mabena,SA-ST-375
+956,Sipho,Mokoena,Sipho Mokoena,53,Male,South Africa,North West,7604111683074,SA-CAS-915204,Drug Trafficking,414,1592453,Low,Court Pending,African Bank,6,No,2019-12-29,2019-09-29,Officer Smith,SA-ST-700
+957,Naledi,Pillay,Naledi Pillay,19,Female,South Africa,Eastern Cape,9305284374010,SA-CAS-892993,Vehicle Theft,335,1160835,High,Court Pending,Absa,8,No,2025-05-04,2018-10-07,Officer Naidoo,SA-ST-789
+958,Mpho,Naidoo,Mpho Naidoo,19,Female,South Africa,Gauteng,9212173263064,SA-CAS-258684,Armed Robbery,705,809334,Medium,Closed,African Bank,4,No,2025-04-10,2017-03-09,Officer Mabena,SA-ST-201
+959,Zanele,Ndlovu,Zanele Ndlovu,33,Male,South Africa,Northern Cape,9112129894199,SA-CAS-361206,Cybercrime,682,119008,High,Convicted,Nedbank,1,No,2024-09-10,2024-01-08,Officer Mabena,SA-ST-790
+960,Ayanda,Ndlovu,Ayanda Ndlovu,39,Male,South Africa,Gauteng,9604282897075,SA-CAS-789135,Fraud,727,1707474,High,Court Pending,Nedbank,0,No,2018-07-19,2019-11-07,Officer Mabena,SA-ST-862
+961,Mpho,Mokoena,Mpho Mokoena,43,Male,South Africa,Gauteng,6611076815025,SA-CAS-896132,Fraud,467,3276237,Medium,Closed,Nedbank,6,No,2021-08-01,2023-08-09,Officer Mabena,SA-ST-885
+962,Tendai,Mthembu,Tendai Mthembu,62,Male,South Africa,Mpumalanga,8308099087068,SA-CAS-433783,Cybercrime,657,3196857,Low,Closed,Capitec,10,No,2018-09-04,2022-08-15,Officer Nkosi,SA-ST-931
+963,Brian,Nkosi,Brian Nkosi,22,Male,South Africa,KwaZulu-Natal,8608134511116,SA-CAS-980500,Fraud,752,4955931,Low,Open,Nedbank,5,Yes,2017-08-18,2016-07-31,Officer Mabena,SA-ST-879
+964,Naledi,Pillay,Naledi Pillay,62,Female,South Africa,KwaZulu-Natal,8109278995145,SA-CAS-954434,Drug Trafficking,338,1912766,Critical,Convicted,FNB,3,Yes,2018-07-01,2019-11-03,Officer Smith,SA-ST-999
+965,Mpho,Nkosi,Mpho Nkosi,56,Male,South Africa,Gauteng,8706035606145,SA-CAS-418873,Cybercrime,475,1040437,High,Open,Standard Bank,3,No,2025-04-24,2017-10-10,Officer Moyo,SA-ST-824
+966,Sipho,Ndlovu,Sipho Ndlovu,36,Female,South Africa,Mpumalanga,9308041065080,SA-CAS-978724,Money Laundering,807,1190357,Medium,Convicted,Absa,7,No,2025-08-19,2019-06-16,Officer Moyo,SA-ST-960
+967,Nomsa,Zulu,Nomsa Zulu,42,Female,South Africa,Western Cape,7010198498071,SA-CAS-242967,Corruption,697,1850748,High,Court Pending,African Bank,10,No,2024-08-09,2018-03-08,Officer Mabena,SA-ST-789
+968,Tendai,Zulu,Tendai Zulu,65,Female,South Africa,KwaZulu-Natal,6108273806098,SA-CAS-975873,Identity Theft,400,3146908,Low,Convicted,African Bank,10,Yes,2016-03-18,2018-09-11,Officer Moyo,SA-ST-536
+969,Sipho,Pillay,Sipho Pillay,62,Female,South Africa,Eastern Cape,9108087382158,SA-CAS-351729,Vehicle Theft,742,1453336,Low,Open,Capitec,2,Yes,2022-02-19,2019-11-14,Officer Smith,SA-ST-151
+970,Mpho,Pillay,Mpho Pillay,27,Male,South Africa,North West,8309221613093,SA-CAS-424309,Corruption,575,2400859,Critical,Closed,Standard Bank,5,Yes,2022-11-19,2024-10-21,Officer Nkosi,SA-ST-170
+971,Tendai,Pillay,Tendai Pillay,51,Female,South Africa,Eastern Cape,9409166852063,SA-CAS-316118,Armed Robbery,401,1120545,Low,Closed,African Bank,1,No,2018-07-16,2022-02-15,Officer Nkosi,SA-ST-562
+972,Tendai,Zulu,Tendai Zulu,45,Female,South Africa,Eastern Cape,6711235126021,SA-CAS-862944,Cybercrime,514,3050181,Critical,Court Pending,African Bank,8,No,2023-05-06,2019-11-15,Officer Mabena,SA-ST-400
+973,Lerato,Nkosi,Lerato Nkosi,59,Female,South Africa,Northern Cape,9601114668065,SA-CAS-717116,Cybercrime,784,3494480,Low,Convicted,Capitec,10,Yes,2019-12-11,2016-12-14,Officer Nkosi,SA-ST-412
+974,Naledi,Khumalo,Naledi Khumalo,59,Male,South Africa,Eastern Cape,9205202826138,SA-CAS-516578,Drug Trafficking,753,2948951,Critical,Closed,Nedbank,8,No,2015-08-11,2015-04-06,Officer Naidoo,SA-ST-252
+975,Thabo,Mabaso,Thabo Mabaso,25,Male,South Africa,Western Cape,9611084591029,SA-CAS-268676,Money Laundering,588,4808964,Low,Open,Standard Bank,10,No,2015-07-08,2022-07-23,Officer Mabena,SA-ST-314
+976,Ayanda,Pillay,Ayanda Pillay,21,Male,South Africa,Eastern Cape,8106211524038,SA-CAS-712304,Cybercrime,330,1951894,Medium,Open,Absa,3,No,2021-11-15,2021-01-04,Officer Mabena,SA-ST-899
+977,Sipho,Mabaso,Sipho Mabaso,62,Female,South Africa,North West,7604285202194,SA-CAS-878944,Fraud,623,4037802,High,Court Pending,Nedbank,2,No,2015-12-06,2022-07-09,Officer Naidoo,SA-ST-304
+978,Mpho,Naidoo,Mpho Naidoo,60,Female,South Africa,Free State,8409035962135,SA-CAS-377051,Corruption,526,3835262,Low,Under Investigation,Capitec,6,No,2020-06-29,2017-01-10,Officer Naidoo,SA-ST-797
+979,Sipho,Naidoo,Sipho Naidoo,61,Female,South Africa,Western Cape,8211094740095,SA-CAS-225811,Drug Trafficking,597,3296693,Medium,Under Investigation,Absa,1,No,2016-07-05,2017-12-19,Officer Smith,SA-ST-713
+980,Ayanda,Khumalo,Ayanda Khumalo,37,Female,South Africa,Gauteng,8209229993086,SA-CAS-710551,Drug Trafficking,572,3814323,Medium,Court Pending,African Bank,8,No,2023-01-19,2016-02-29,Officer Moyo,SA-ST-706
+981,Lerato,Mabaso,Lerato Mabaso,21,Male,South Africa,Limpopo,7809131812171,SA-CAS-635007,Vehicle Theft,324,90878,Medium,Open,FNB,7,Yes,2023-11-24,2024-01-27,Officer Naidoo,SA-ST-285
+982,Naledi,Ndlovu,Naledi Ndlovu,39,Female,South Africa,North West,0310144021054,SA-CAS-768456,Money Laundering,335,3120920,High,Closed,FNB,2,No,2018-11-26,2023-02-07,Officer Naidoo,SA-ST-131
+983,Tendai,Pillay,Tendai Pillay,39,Male,South Africa,Western Cape,7108193253040,SA-CAS-835325,Identity Theft,590,2269958,Medium,Under Investigation,Capitec,6,No,2016-11-16,2018-12-28,Officer Nkosi,SA-ST-404
+984,Mpho,Dlamini,Mpho Dlamini,28,Male,South Africa,North West,6906166561061,SA-CAS-833601,Identity Theft,555,981239,High,Closed,FNB,3,Yes,2022-09-18,2025-05-06,Officer Moyo,SA-ST-189
+985,Lerato,Ndlovu,Lerato Ndlovu,37,Male,South Africa,North West,7503101114027,SA-CAS-383798,Cybercrime,839,2939358,Critical,Court Pending,Standard Bank,1,Yes,2022-02-26,2015-07-05,Officer Naidoo,SA-ST-435
+986,Thabo,Zulu,Thabo Zulu,49,Male,South Africa,Northern Cape,6801125390062,SA-CAS-772342,Fraud,474,1902013,High,Court Pending,African Bank,7,Yes,2025-08-25,2024-09-08,Officer Nkosi,SA-ST-474
+987,Sipho,Mokoena,Sipho Mokoena,63,Female,South Africa,Northern Cape,8804288835150,SA-CAS-494447,Armed Robbery,601,3502902,Critical,Convicted,FNB,6,Yes,2015-12-29,2023-02-20,Officer Nkosi,SA-ST-936
+988,Thabo,Mabaso,Thabo Mabaso,27,Female,South Africa,Gauteng,8509141571091,SA-CAS-558304,Drug Trafficking,807,2318751,Medium,Under Investigation,Standard Bank,6,No,2016-01-07,2023-03-09,Officer Mabena,SA-ST-784
+989,Zanele,Khumalo,Zanele Khumalo,57,Female,South Africa,North West,7611065853036,SA-CAS-298013,Cybercrime,561,1588839,Critical,Court Pending,Standard Bank,10,Yes,2023-05-23,2016-03-10,Officer Mabena,SA-ST-775
+990,Nomsa,Mokoena,Nomsa Mokoena,53,Female,South Africa,North West,8002134475127,SA-CAS-227736,Corruption,745,3822154,Low,Open,Absa,3,Yes,2025-02-23,2015-12-13,Officer Mabena,SA-ST-122
+991,Naledi,Zulu,Naledi Zulu,21,Male,South Africa,Northern Cape,9106261411156,SA-CAS-235359,Vehicle Theft,386,3580172,High,Court Pending,Nedbank,10,Yes,2022-11-15,2024-08-01,Officer Moyo,SA-ST-494
+992,Nomsa,Mthembu,Nomsa Mthembu,38,Male,South Africa,North West,8911287345140,SA-CAS-343693,Money Laundering,595,4231557,High,Closed,Nedbank,7,Yes,2020-11-03,2021-09-27,Officer Mabena,SA-ST-196
+993,Lerato,Naidoo,Lerato Naidoo,56,Female,South Africa,North West,7805035704010,SA-CAS-878100,Corruption,815,991729,Low,Under Investigation,African Bank,1,Yes,2022-06-29,2015-02-17,Officer Moyo,SA-ST-783
+994,Sipho,Mokoena,Sipho Mokoena,37,Female,South Africa,Limpopo,8701202559073,SA-CAS-370481,Corruption,320,2339110,Low,Open,Capitec,7,No,2022-07-31,2017-07-14,Officer Naidoo,SA-ST-709
+995,Thabo,Mthembu,Thabo Mthembu,41,Female,South Africa,Northern Cape,6303118438143,SA-CAS-153428,Money Laundering,549,1993804,Medium,Convicted,Standard Bank,8,Yes,2020-12-16,2016-03-22,Officer Naidoo,SA-ST-781
+996,Tendai,Dlamini,Tendai Dlamini,65,Male,South Africa,Western Cape,8512135247161,SA-CAS-314039,Money Laundering,787,3822395,Medium,Court Pending,Absa,1,Yes,2024-05-22,2024-06-10,Officer Naidoo,SA-ST-958
+997,Lerato,Naidoo,Lerato Naidoo,61,Female,South Africa,Eastern Cape,9104228855136,SA-CAS-263357,Vehicle Theft,403,2976427,Low,Convicted,FNB,0,No,2019-08-12,2021-09-18,Officer Smith,SA-ST-652
+998,Brian,Naidoo,Brian Naidoo,21,Male,South Africa,KwaZulu-Natal,6501253133191,SA-CAS-655499,Vehicle Theft,541,2216957,Medium,Court Pending,African Bank,2,No,2023-05-13,2017-04-09,Officer Smith,SA-ST-896
+999,Nomsa,Pillay,Nomsa Pillay,22,Male,South Africa,Limpopo,7412013191190,SA-CAS-716998,Money Laundering,479,2265071,High,Convicted,Nedbank,9,Yes,2019-05-22,2022-05-25,Officer Smith,SA-ST-408
+1000,Ayanda,Zulu,Ayanda Zulu,56,Female,South Africa,Eastern Cape,9707254318097,SA-CAS-315380,Vehicle Theft,460,4628363,Critical,Court Pending,Standard Bank,7,Yes,2024-03-17,2019-07-06,Officer Naidoo,SA-ST-987
